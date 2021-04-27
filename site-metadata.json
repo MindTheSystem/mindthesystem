@@ -49,7 +49,8 @@
                 "type": "action",
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link"
+                "style": "link",
+                "has_icon": true
             },
             {
                 "type": "action",
