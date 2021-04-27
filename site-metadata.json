@@ -9,7 +9,7 @@
         "type": "header",
         "title": "MindTheSystem",
         "logo": "/images/mindthesystem-icon.png",
-        "logo_alt": "DIY logo",
+        "logo_alt": "MindTheSystem logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
