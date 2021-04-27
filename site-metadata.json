@@ -7,7 +7,7 @@
     "base_font": "sans-serif",
     "header": {
         "type": "header",
-        "title": "DIY",
+        "title": "MindTheSystem",
         "logo": "/images/mindthesystem-icon.png",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
