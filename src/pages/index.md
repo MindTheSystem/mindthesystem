@@ -3,7 +3,7 @@ title: Home
 sections:
   - media_position: right
     align: left
-    padding_top: large
+    padding_top: medium
     media_width: fourty
     has_border: false
     background_color: none
@@ -16,7 +16,6 @@ sections:
       futures thinking, systems thinking, design thinking and innovation.
     padding_bottom: large
     type: hero_section
-    image: /images/noun_brainstorming_1016145 copy.svg
     actions:
       - type: action
         label: Contact us
