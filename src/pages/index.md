@@ -129,7 +129,7 @@ sections:
         actions_align: left
         image_has_padding: true
         image_position: top
-        title: Section Item 3
+        title: Training
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
