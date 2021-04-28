@@ -36,7 +36,7 @@ sections:
         subtitle: >-
           We believe in equipping you with a sustained approach to complex
           problem-solving, which is a system for quality of decisions.
-        title: The Big Title For the Feature
+        title: A system for quality decisions
         content: >
           “How did we arrive at that decision? Should a different mix of people
           be involved, or involved in a different way? Should we change how we
