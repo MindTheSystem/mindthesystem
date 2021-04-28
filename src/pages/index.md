@@ -18,7 +18,6 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
     media_position: left
     media_width: fifty
     align: left
