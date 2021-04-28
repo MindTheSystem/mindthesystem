@@ -380,7 +380,7 @@ seo:
       value: Tackling your complex system challenges.
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/mindthesystem-logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
