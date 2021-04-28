@@ -281,6 +281,7 @@ sections:
       - type: action
         url: /features
         style: secondary
+        label: Book now
     actions_position: right
     actions_width: fourty
     align: left
