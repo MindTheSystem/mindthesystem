@@ -72,7 +72,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/pixeltrue-icons-seo-growth-2.svg
+        image: /images/noun_growth_1016135 copy.svg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
