@@ -206,7 +206,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-    enable_cards: false
+    enable_cards: true
     grid_cols: four
     background_color: none
     grid_gap_vert: small
