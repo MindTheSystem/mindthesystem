@@ -362,28 +362,6 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - align: center
-    padding_top: medium
-    enable_cards: true
-    recent_count: 3
-    show_author: true
-    show_date: true
-    has_border: false
-    background_color: none
-    blog_feed_cols: three
-    subtitle: Our blog
-    title: What's new
-    show_image: true
-    padding_bottom: medium
-    type: blog_feed_section
-    actions:
-      - type: action
-        label: View All
-        url: /blog
-        style: primary
-    show_recent: true
-    show_categories: true
-    show_excerpt: false
 seo:
   type: stackbit_page_meta
   title: MindTheSystem
