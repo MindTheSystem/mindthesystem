@@ -77,7 +77,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: 'We believe in developing your teams to solve complex problems. '
-      - title: lorem-ipsum
+      - title: Our 4 systems approach
         subtitle: "Complex challenges fall outside any one person’s or organisation’s ability to define,\_predict and control."
         content: >
           In complex problems there are different perspectives and conflicting
