@@ -4,7 +4,7 @@ sections:
   - media_position: right
     align: left
     padding_top: medium
-    media_width: fourty
+    media_width: sixty
     has_border: false
     background_color: none
     subtitle: Clarity for complex challenges
