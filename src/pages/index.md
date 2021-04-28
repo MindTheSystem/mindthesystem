@@ -292,7 +292,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Team Section
-    subtitle: Grid Section Example
+    subtitle: Our team
     actions:
       - type: action
         label: Join the team
