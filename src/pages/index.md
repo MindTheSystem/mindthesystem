@@ -33,7 +33,9 @@ sections:
       - media_position: right
         image_alt: Feature 1 placeholder image
         media_width: fifty
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          We believe in equipping you with a sustained approach to complex
+          problem-solving, which is a system for quality of decisions.
         title: The Big Title For the Feature
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
