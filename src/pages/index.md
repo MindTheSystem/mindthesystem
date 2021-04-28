@@ -127,7 +127,6 @@ sections:
         content_align: left
       - image_align: left
         actions_align: left
-        image_alt: Section item 3 icon
         image_has_padding: true
         image_position: top
         title: Section Item 3
