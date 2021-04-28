@@ -54,7 +54,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - type: feature
-        title: The Big Title For the Feature
+        title: Growth alongside consulting
         content: >
           Tackling complex challenges is an on-going, infinite game. There is no
           “end-state” at community-building, education, social services or
