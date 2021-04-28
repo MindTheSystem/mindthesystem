@@ -7,7 +7,7 @@ sections:
     media_width: fourty
     has_border: false
     background_color: none
-    subtitle: Build confidence in solving complex systemic problems
+    subtitle: Clarity for complex challenges
     title: MindTheSystem
     content: >
       MindTheSystem equips governments, non-profits and private sector companies
