@@ -146,10 +146,13 @@ sections:
         content: >
           I train your team on the approaches, tools and frameworks, applied to
           real-life problems that they are prepared to share in a group training
-          setting. \&nbsp;
+          setting.
 
 
-          \&nbsp;
+          ‎
+
+
+          ‎
         type: grid_item
         actions:
           - type: action
