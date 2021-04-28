@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Mind The System
+    title: Mind the system
     subtitle: Tackling Your Complex System Challenges
     content: >
       MindTheSystem equips governments, non-profits and private sector companies
