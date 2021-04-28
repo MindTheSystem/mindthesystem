@@ -10,7 +10,7 @@ sections:
     subtitle: >-
       MindTheSystem equips governments, non-profits and private sector companies
       with an approach, tools and training to tackle complex problems.
-    title: Build confidence in solving complex problems
+    title: Clarity for complex challenges
     content: >
       We have 20 years of public sector experience with the Singapore
       government, in futures thinking, systems thinking, design thinking and
