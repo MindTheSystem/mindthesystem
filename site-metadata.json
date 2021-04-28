@@ -14,13 +14,13 @@
         "primary_nav_links": [
             {
                 "type": "action",
-                "label": "Features",
+                "label": "Why us",
                 "url": "/features",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "Pricing",
+                "label": "Services",
                 "url": "/pricing",
                 "style": "link"
             },
@@ -34,12 +34,6 @@
                 "type": "action",
                 "label": "Blog",
                 "url": "/blog",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Style Guide",
-                "url": "/style-guide",
                 "style": "link"
             }
         ],
