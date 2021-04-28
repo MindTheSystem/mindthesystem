@@ -76,6 +76,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        subtitle: 'We believe in developing your teams to solve complex problems. '
       - media_position: right
         image_alt: Feature 3 placeholder image
         media_width: fifty
