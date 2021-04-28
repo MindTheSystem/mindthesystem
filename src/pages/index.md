@@ -75,7 +75,7 @@ sections:
         image: /images/noun_growth_1016135 copy.svg
         image_alt: Feature 2 placeholder image
         media_position: left
-        media_width: fifty
+        media_width: fourty
         subtitle: 'We believe in developing your teams to solve complex problems. '
       - title: Our 4 systems approach
         subtitle: "Complex challenges fall outside any one person’s or organisation’s ability to define,\_predict and control."
