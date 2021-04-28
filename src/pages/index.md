@@ -26,6 +26,7 @@ sections:
     background_color: primary
     has_border: false
     background_image: /images/mindthesystem-background-bright.png
+    image: /images/hero-icon.png
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
