@@ -116,7 +116,6 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         type: grid_item
-        image: images/classic/icon-2.svg
         actions:
           - type: action
             label: Learn More
