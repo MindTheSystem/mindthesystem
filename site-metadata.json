@@ -179,5 +179,6 @@
         ],
         "content": "&copy; MindTheSystem. All rights reserved."
     },
-    "domain": "https://mindthesystem.netlify.app"
+    "domain": "https://mindthesystem.netlify.app",
+    "favicon": "/images/favicon.png"
 }
