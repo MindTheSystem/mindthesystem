@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: Mind The System
     subtitle: Tackling Your Complex System Challenges
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      MindTheSystem equips governments, non-profits and private sector companies
+      with an approach, tools and training to tackle complex problems. We have
+      20 years of public sector experience with the Singapore government, in
+      futures thinking, systems thinking, design thinking and innovation.
     actions:
       - type: action
         label: Try Free
