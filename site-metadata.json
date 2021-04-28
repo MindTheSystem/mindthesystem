@@ -1,6 +1,6 @@
 {
     "title": "MindTheSystem",
-    "layout_type": "full-width",
+    "layout_type": "boxed",
     "style": "bold",
     "palette": "green",
     "mode": "light",
