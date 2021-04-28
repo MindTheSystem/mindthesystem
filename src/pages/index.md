@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - media_position: bottom
+  - media_position: right
     align: left
     padding_top: medium
     media_width: fourty
