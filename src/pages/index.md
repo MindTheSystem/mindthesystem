@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Tackling YourComplex Systems Challenges
-    subtitle: Optional hero section subtitle
+    subtitle: Tackling Your Complex System Challenges
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
