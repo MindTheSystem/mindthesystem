@@ -23,7 +23,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
     has_border: false
     background_image: /images/mindthesystem-background-bright.png
   - type: grid_section
