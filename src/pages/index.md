@@ -3,7 +3,7 @@ title: Home
 sections:
   - media_position: right
     align: left
-    padding_top: large
+    padding_top: medium
     media_width: fourty
     has_border: false
     background_color: none
