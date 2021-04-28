@@ -144,8 +144,8 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
+    title: What we do
+    subtitle: Our offerings
     grid_items:
       - type: grid_item
         title: Section Item 1
@@ -220,8 +220,8 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
+    title: What they said
+    subtitle: Reviews & testimonials
     grid_items:
       - type: grid_item
         content: >
@@ -274,14 +274,16 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Book a call
-    content: |
-      Schedule a call to explore if we're a fit to what you need
+    title: Let's talk
+    content: >
+      Unlike other consultants, we love to understand your context first before
+      offering any advice or service. This way we can be sure you get what you
+      truly need, tailored to you.
     actions:
       - type: action
         url: /features
         style: secondary
-        label: Book now
+        label: Get in touch now
     actions_position: right
     actions_width: fourty
     align: left
@@ -289,11 +291,11 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
+    title: Who we are
+    subtitle: Our team
     actions:
       - type: action
-        label: Join the team
+        label: Read more
         url: /style-guide
         style: primary
     grid_items:
@@ -326,7 +328,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: What's new
-    subtitle: Blog
+    subtitle: Our blog
     actions:
       - type: action
         label: View All
