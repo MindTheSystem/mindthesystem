@@ -221,12 +221,13 @@ sections:
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: >
+          Agnes is a brilliant combination of insight and action, compassion and
+          clarity. She is destined to be a catalyst for breakthrough innovation
+          wherever she goes.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Lei Lin Fung,** *Chair & Cofounder, People Centered Internet*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
