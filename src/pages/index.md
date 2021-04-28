@@ -16,7 +16,7 @@ sections:
       futures thinking, systems thinking, design thinking and innovation.
     padding_bottom: large
     type: hero_section
-    image: /images/Screen Shot 2021-04-28 at 7.14.08 PM.png
+    image: /images/hero-icon-bright.png
     actions:
       - type: action
         label: Contact us
