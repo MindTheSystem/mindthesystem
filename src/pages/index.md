@@ -377,7 +377,7 @@ seo:
       value: MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Tackling your complex system challenges.
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
