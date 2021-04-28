@@ -114,7 +114,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/pixeltrue-icons-seo-optimize.svg
+        image: /images/noun_Puzzle_1016136 Copy.svg
     feature_padding_vert: large
     align: center
     background_color: secondary
