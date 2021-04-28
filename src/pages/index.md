@@ -158,8 +158,9 @@ sections:
       - title: Cognitive Behavioural Coaching
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          To support project teams in gaining self-mastery and confidence
+          required to guide difficult change management, and provide
+          psychological tools for intervention in change management.
         content_align: left
         actions:
           - url: '#'
