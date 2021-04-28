@@ -19,7 +19,7 @@ sections:
         url: /features
         style: secondary
     media_position: right
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: large
     padding_bottom: large
