@@ -55,8 +55,15 @@ sections:
             icon_position: right
       - type: feature
         title: The Big Title For the Feature
-        content: |
-          We believe in developing your teams to solve complex problems.
+        content: >
+          Tackling complex challenges is an on-going, infinite game. There is no
+          “end-state” at community-building, education, social services or
+          economic development; only constant improvements and pivots.
+          Consultants who pop in and out might improve certain project outcomes,
+          but your people, who grapple with the challenge on a daily basis, will
+          determine how effective you are going to be. So even as we consult on
+          your project, we focus not just on the solution but also on training
+          your people’s mindset, instinct and behaviours in the process.
         actions:
           - type: action
             label: Learn More
