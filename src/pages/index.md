@@ -291,7 +291,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Team Section
+    title: Who we are
     subtitle: Our team
     actions:
       - type: action
