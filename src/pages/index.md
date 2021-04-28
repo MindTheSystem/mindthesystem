@@ -149,7 +149,7 @@ sections:
           I will train your team on the approaches, tools and frameworks,
           applied to real-life problems that they are prepared to share in a
           group training setting.
-          　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+          　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 
           　　
