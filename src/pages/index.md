@@ -16,7 +16,7 @@ sections:
       futures thinking, systems thinking, design thinking and innovation.
     padding_bottom: large
     type: hero_section
-    image: /images/noun_complex idea_1710293(1).svg
+    image: /images/noun_brainstorming_1016145 copy.svg
     actions:
       - type: action
         label: Contact us
@@ -32,7 +32,7 @@ sections:
     features:
       - media_position: right
         image_alt: Feature 1 placeholder image
-        media_width: fifty
+        media_width: fourty
         subtitle: >-
           We believe in equipping you with a sustained approach to complex
           problem-solving, which is a system for quality of decisions.
@@ -52,7 +52,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/pixeltrue-icons-security-3.svg
+        image: /images/noun_Checklist_1016151 Copy.svg
       - type: feature
         title: Growth alongside consulting
         content: >
@@ -72,10 +72,10 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/pixeltrue-icons-seo-growth-2.svg
+        image: /images/noun_growth_1016135 copy.svg
         image_alt: Feature 2 placeholder image
         media_position: left
-        media_width: fifty
+        media_width: fourty
         subtitle: 'We believe in developing your teams to solve complex problems. '
       - title: Our 4 systems approach
         subtitle: "Complex challenges fall outside any one person’s or organisation’s ability to define,\_predict and control."
@@ -111,10 +111,10 @@ sections:
             type: action
         image_alt: lorem-ipsum
         media_position: right
-        media_width: fifty
+        media_width: fourty
         align: left
         type: feature
-        image: /images/pixeltrue-icons-seo-optimize.svg
+        image: /images/noun_Puzzle_1016136 Copy.svg
     feature_padding_vert: large
     align: center
     background_color: secondary
