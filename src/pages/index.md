@@ -128,7 +128,6 @@ sections:
           your team’s capabilities, but also ensure quality of inputs and
           outputs required for decision making.
 
-
           　
         type: grid_item
         actions:
