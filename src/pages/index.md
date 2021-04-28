@@ -86,8 +86,7 @@ sections:
 
 
           Through years of practical experience, we have broken down the
-          approach to complex problems into 4 systems, and have developed tools
-          to address each.
+          approach to complex problems into 4 systems:
 
 
           *   System 1: Future Operating Environment. What would our reality
