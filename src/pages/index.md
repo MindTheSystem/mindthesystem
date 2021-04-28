@@ -110,7 +110,7 @@ sections:
         image_alt: Section item 2 icon
         image_has_padding: true
         image_position: top
-        title: Section Item 2
+        title: Project consultancy
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
