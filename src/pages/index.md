@@ -390,7 +390,7 @@ seo:
     - name: 'twitter:description'
       value: Tackling your complex system challenges.
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/mindthesystem-logo.png
       relativeUrl: true
 template: advanced
 ---
