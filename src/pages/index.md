@@ -80,11 +80,6 @@ sections:
       - title: Our 4 systems approach
         subtitle: "Complex challenges fall outside any one person’s or organisation’s ability to define,\_predict and control."
         content: >
-          The key tool of affecting systems change is not command and control,
-          but rather influence. But it is possible to make systematic progress,
-          as long as we mind the system of decision-making.
-
-
           Through years of practical experience, we have broken down the
           approach to complex problems into 4 systems:
 
