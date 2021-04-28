@@ -1,14 +1,22 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Mind the system
+  - media_position: right
+    align: left
+    padding_top: large
+    media_width: fourty
+    has_border: false
+    background_color: none
     subtitle: Tackling your complex system challenges
+    title: Mind the system
     content: >
       MindTheSystem equips governments, non-profits and private sector companies
       with an approach, tools and training to tackle complex problems. We have
       20 years of public sector experience with the Singapore government, in
       futures thinking, systems thinking, design thinking and innovation.
+    padding_bottom: large
+    type: hero_section
+    image: /images/hero-icon-bright.png
     actions:
       - type: action
         label: Contact us
@@ -18,17 +26,153 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-    media_position: right
-    media_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
+  - type: features_section
+    title: Why work with us?
+    subtitle: Value proposition
+    features:
+      - media_position: right
+        image_alt: Feature 1 placeholder image
+        media_width: fifty
+        subtitle: "In fermentum odio et tortor laoreet, sed interdum augue ornare. "
+        title: The Big Title For the Feature
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        type: feature
+        image: images/classic/feature-1.png
+        actions:
+          - type: action
+            label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+      - type: feature
+        title: The Big Title For the Feature
+        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
+          lacinia.
+        actions:
+          - type: action
+            label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-2.png
+        image_alt: Feature 2 placeholder image
+        media_position: left
+        media_width: fifty
+      - media_position: right
+        image_alt: Feature 3 placeholder image
+        media_width: fifty
+        subtitle: Sed sed commodo turpis, eget rutrum dui.
+        title: The Big Title For the Feature
+        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
+          lacinia.
+        type: feature
+        image: images/classic/feature-3.png
+        actions:
+          - type: action
+            label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+    feature_padding_vert: large
+    align: center
+    background_color: secondary
+  - type: features_section
+    features:
+      - type: feature
+        title: “Agnes is a brilliant combination of insight and action, compassion and
+          clarity. She is destined to be a catalyst for breakthrough innovation
+          wherever she goes.”
+        subtitle: Mei Lin Fung, Chair & Cofounder, People Centered Internet
+        image: /images/meilinfung-round.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
+  - align: center
+    grid_items:
+      - image_align: left
+        actions_align: left
+        image_alt: Section item 1 icon
+        image_has_padding: true
+        image_position: top
+        title: Section Item 1
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        type: grid_item
+        image: images/classic/icon-1.svg
+        actions:
+          - type: action
+            label: Learn More
+            url: /style-guide
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        title_align: left
+        content_align: left
+      - image_align: left
+        actions_align: left
+        image_alt: Section item 2 icon
+        image_has_padding: true
+        image_position: top
+        title: Section Item 2
+        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
+          lacinia.
+        type: grid_item
+        image: images/classic/icon-2.svg
+        actions:
+          - type: action
+            label: Learn More
+            url: /style-guide
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        title_align: left
+        content_align: left
+      - image_align: left
+        actions_align: left
+        image_alt: Section item 3 icon
+        image_has_padding: true
+        image_position: top
+        title: Section Item 3
+        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
+          lacinia.
+        type: grid_item
+        image: images/classic/icon-3.svg
+        actions:
+          - type: action
+            label: Learn More
+            url: /style-guide
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        title_align: left
+        content_align: left
+    enable_cards: true
+    grid_cols: three
     background_color: none
-    has_border: false
-    image: /images/hero-icon-bright.png
-  - type: grid_section
-    title: Who we worked with
-    subtitle: Our clients
+    grid_gap_vert: small
+    subtitle: Our offerings
+    title: What we do
+    grid_gap_horiz: medium
+    type: grid_section
+  - align: center
     grid_items:
       - type: grid_item
         image: images/logo-1.svg
@@ -62,166 +206,14 @@ sections:
         image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
+    enable_cards: false
     grid_cols: four
     grid_gap_vert: medium
+    subtitle: Our clients
+    title: Who we worked with
     grid_gap_horiz: medium
-    align: center
-  - type: features_section
-    title: Why work with us?
-    subtitle: Value proposition
-    features:
-      - type: feature
-        title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-1.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
-      - type: feature
-        title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-2.png
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: fifty
-      - type: feature
-        title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-3.png
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: fifty
-    feature_padding_vert: large
-    align: center
-    background_color: secondary
-  - type: features_section
-    features:
-      - type: feature
-        title: >-
-          “Agnes is a brilliant combination of insight and action, compassion
-          and clarity. She is destined to be a catalyst for breakthrough
-          innovation wherever she goes.”
-        subtitle: 'Mei Lin Fung, Chair & Cofounder, People Centered Internet'
-        image: /images/meilinfung-round.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-  - type: grid_section
-    title: What we do
-    subtitle: Our offerings
-    grid_items:
-      - type: grid_item
-        title: Section Item 1
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-1.svg
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - type: grid_item
-        title: Section Item 2
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-2.svg
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - type: grid_item
-        title: Section Item 3
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-3.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: medium
-    enable_cards: true
-    align: center
-    background_color: none
-  - type: grid_section
-    title: What they said
-    subtitle: Reviews & testimonials
+    type: grid_section
+  - align: center
     grid_items:
       - type: grid_item
         content: >
@@ -269,27 +261,29 @@ sections:
         image_position: left
         image_width: twenty-five
     grid_cols: two
-    grid_gap_vert: large
-    grid_gap_horiz: medium
-    align: center
     background_color: secondary
-  - type: cta_section
+    grid_gap_vert: large
+    subtitle: Reviews & testimonials
+    title: What they said
+    grid_gap_horiz: medium
+    type: grid_section
+  - actions_width: fourty
+    align: left
+    padding_top: large
+    actions_position: right
+    background_color: primary
     title: Let's talk
     content: >
       Unlike other consultants, we love to understand your context first before
       offering any advice or service. This way we can be sure you get what you
       truly need, tailored to you.
+    padding_bottom: large
+    type: cta_section
     actions:
       - type: action
         url: /features
         style: secondary
         label: Get in touch now
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: grid_section
     title: Who we are
     subtitle: Our team
@@ -326,69 +320,68 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - type: blog_feed_section
-    title: What's new
+  - align: center
+    padding_top: medium
+    enable_cards: true
+    recent_count: 3
+    show_author: true
+    show_date: true
+    has_border: false
+    background_color: none
+    blog_feed_cols: three
     subtitle: Our blog
+    title: What's new
+    show_image: true
+    padding_bottom: medium
+    type: blog_feed_section
     actions:
       - type: action
         label: View All
         url: /blog
         style: primary
-    blog_feed_cols: three
-    enable_cards: true
     show_recent: true
-    recent_count: 3
-    show_date: true
     show_categories: true
-    show_author: true
     show_excerpt: false
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-  - type: cta_section
+  - align: center
+    padding_top: large
+    actions_position: bottom
+    background_color: secondary
     title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
+    padding_bottom: large
+    type: cta_section
     actions:
       - type: action
         label: Button
         url: /pricing
         style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
 seo:
   type: stackbit_page_meta
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Stackbit DIY Theme
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: The preview of the DIY theme
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/diy-preview.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Stackbit DIY Theme
-    - name: 'twitter:description'
+    - name: twitter:description
       value: The preview of the DIY theme
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/diy-preview.png
       relativeUrl: true
 template: advanced
