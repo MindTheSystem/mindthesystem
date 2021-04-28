@@ -28,7 +28,7 @@ sections:
     image: /images/hero-icon-bright.png
   - type: grid_section
     title: Who we worked with
-    subtitle: Who we worked with
+    subtitle: Our clients
     grid_items:
       - type: grid_item
         image: images/logo-1.svg
