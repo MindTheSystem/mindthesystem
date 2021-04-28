@@ -328,7 +328,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: What's new
-    subtitle: Blog
+    subtitle: Our blog
     actions:
       - type: action
         label: View All
