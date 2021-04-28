@@ -230,7 +230,7 @@ sections:
           wherever she goes.
 
 
-          **Lei Lin Fung,** *Chair & Cofounder, People Centered Internet*
+          **Mei Lin Fung,** *Chair & Cofounder, People Centered Internet*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
