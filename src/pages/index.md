@@ -67,7 +67,7 @@ sections:
     grid_gap_horiz: medium
     align: center
   - type: features_section
-    title: Features Section
+    title: Value proposition
     subtitle: Features Section Example
     features:
       - type: feature
