@@ -10,10 +10,9 @@ sections:
     subtitle: Build confidence in solving complex problems
     title: Build confidence in solving complex problems
     content: >
-      MindTheSystem equips governments, non-profits and private sector companies
-      with an approach, tools and training to tackle complex problems. We have
-      20 years of public sector experience with the Singapore government, in
-      futures thinking, systems thinking, design thinking and innovation.
+      We have 20 years of public sector experience with the Singapore
+      government, in futures thinking, systems thinking, design thinking and
+      innovation.
     padding_bottom: large
     type: hero_section
     image: /images/hero-icon-bright.png
