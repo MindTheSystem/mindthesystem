@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Tackling YourComplex Systems Challenges
+    title: Mind The System
     subtitle: Tackling Your Complex System Challenges
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
