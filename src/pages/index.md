@@ -44,7 +44,6 @@ sections:
           How do the incentives we have in place affect our decision-making?
           Should they be changed?”
         type: feature
-        image: images/classic/feature-1.png
         actions:
           - type: action
             label: Learn More
@@ -53,6 +52,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        image: /images/classic/feature-1.png
       - type: feature
         title: Growth alongside consulting
         content: >
