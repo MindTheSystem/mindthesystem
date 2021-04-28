@@ -198,47 +198,6 @@ sections:
   - align: center
     grid_items:
       - type: grid_item
-        image: images/logo-1.svg
-        image_alt: Contentful logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-4.svg
-        image_alt: Sanity logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-5.svg
-        image_alt: DatoCMS logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-6.svg
-        image_alt: Next.js logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-7.svg
-        image_alt: Gridsome logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
-    enable_cards: false
-    grid_cols: four
-    grid_gap_vert: medium
-    subtitle: Our clients
-    title: Who we worked with
-    grid_gap_horiz: medium
-    type: grid_section
-  - align: center
-    grid_items:
-      - type: grid_item
         content: >
           Agnes is a brilliant combination of insight and action, compassion and
           clarity. She is destined to be a catalyst for breakthrough innovation
