@@ -78,7 +78,7 @@ sections:
         media_width: fifty
         subtitle: 'We believe in developing your teams to solve complex problems. '
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: "Complex challenges fall outside any one person’s or organisation’s ability to define,\_predict and control."
         content: >
           In complex problems there are different perspectives and conflicting
           goals and unseen causal relationships. Complex problem-solving hence
