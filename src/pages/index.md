@@ -148,15 +148,12 @@ sections:
           real-life problems that they are prepared to share in a group training
           setting.
 
-          　
 
           　
 
-          　
 
           　
 
-          　
 
           　
         type: grid_item
