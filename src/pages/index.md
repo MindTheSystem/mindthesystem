@@ -18,7 +18,7 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-    media_position: left
+    media_position: right
     media_width: fifty
     align: left
     padding_top: large
