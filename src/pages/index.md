@@ -25,7 +25,6 @@ sections:
     padding_bottom: large
     background_color: none
     has_border: false
-    background_image: /images/mindthesystem-background-bright.png
     image: /images/hero-icon-bright.png
   - type: grid_section
     title: Image Grid
