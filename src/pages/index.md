@@ -145,7 +145,7 @@ sections:
             icon_position: center
         title_align: left
         content_align: left
-      - title: 'Cognitive Behavioural Coaching:'
+      - title: Cognitive Behavioural Coaching
         subtitle: lorem-ipsum
         title_align: left
         content: >-
