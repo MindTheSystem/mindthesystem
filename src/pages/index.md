@@ -107,28 +107,6 @@ sections:
     grid_items:
       - image_align: left
         actions_align: left
-        image_alt: Section item 1 icon
-        image_has_padding: true
-        image_position: top
-        title: Section Item 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        type: grid_item
-        image: images/classic/icon-1.svg
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        title_align: left
-        content_align: left
-      - image_align: left
-        actions_align: left
         image_alt: Section item 2 icon
         image_has_padding: true
         image_position: top
