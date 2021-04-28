@@ -155,7 +155,7 @@
                 "icon": "linkedin",
                 "icon_position": "center",
                 "new_window": true,
-                "no_follow": true
+                "no_follow": false
             },
             {
                 "type": "action",
