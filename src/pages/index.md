@@ -67,7 +67,7 @@ sections:
     grid_gap_horiz: medium
     align: center
   - type: features_section
-    title: Value proposition
+    title: Why work with us?
     subtitle: Features Section Example
     features:
       - type: feature
