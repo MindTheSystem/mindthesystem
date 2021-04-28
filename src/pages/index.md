@@ -274,7 +274,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Book a call
+    title: Let's talk
     content: |
       Schedule a call to explore if we're a fit to what you need
     actions:
