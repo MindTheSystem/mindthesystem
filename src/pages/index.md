@@ -136,7 +136,7 @@ sections:
           “Agnes is a brilliant combination of insight and action, compassion
           and clarity. She is destined to be a catalyst for breakthrough
           innovation wherever she goes.”
-        subtitle: 'Lei Lin Fung, Chair & Cofounder, People Centered Internet</em>'
+        subtitle: 'Lei Lin Fung, <em>Chair & Cofounder, People Centered Internet</em>'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
