@@ -212,42 +212,6 @@ sections:
         url: /features
         style: secondary
         label: Get in touch now
-  - type: grid_section
-    title: Who we are
-    subtitle: Our team
-    actions:
-      - type: action
-        label: Read more
-        url: /style-guide
-        style: primary
-    grid_items:
-      - type: grid_item
-        title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - type: grid_item
-        title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - type: grid_item
-        title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - type: grid_item
-        title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
 seo:
   type: stackbit_page_meta
   title: MindTheSystem
