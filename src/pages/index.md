@@ -193,7 +193,7 @@ sections:
         image_has_padding: false
         type: grid_item
     enable_cards: true
-    grid_cols: three
+    grid_cols: four
     background_color: none
     grid_gap_vert: small
     subtitle: Our offerings
