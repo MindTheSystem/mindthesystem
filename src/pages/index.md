@@ -55,10 +55,8 @@ sections:
             icon_position: right
       - type: feature
         title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          We believe in developing your teams to solve complex problems.
         actions:
           - type: action
             label: Learn More
