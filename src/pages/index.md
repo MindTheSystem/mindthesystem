@@ -133,10 +133,17 @@ sections:
         image_has_padding: true
         image_position: top
         title: Training
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          I train your team on the approaches, tools and frameworks, applied to
+          real-life problems that they are prepared to share in a group training
+          setting. Examples of Programme:
+
+
+          *   5-week MasterClass in Approach to Complex Systems Challenges
+
+
+          *   3-day Module Programmes: Futures Thinking, Systems Thinking,
+          Design Thinking, Psychological Approach to Change Management
         type: grid_item
         actions:
           - type: action
