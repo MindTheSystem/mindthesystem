@@ -368,7 +368,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: MindTheSystem
-  description: The preview of the DIY theme
+  description: Tackling your complex system challenges.
   extra:
     - name: 'og:type'
       value: website
