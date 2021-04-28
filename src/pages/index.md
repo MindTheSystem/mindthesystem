@@ -137,7 +137,7 @@ sections:
           and clarity. She is destined to be a catalyst for breakthrough
           innovation wherever she goes.”
         subtitle: 'Lei Lin Fung, Chair & Cofounder, People Centered Internet'
-        image: /images/eleanor-carr.png
+        image: /images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
