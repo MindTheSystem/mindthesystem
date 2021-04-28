@@ -275,10 +275,8 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Book a call
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Schedule a call to explore if we're a fit to what you need
     actions:
       - type: action
         label: Learn More
