@@ -8,7 +8,7 @@ sections:
     has_border: false
     background_color: none
     subtitle: Tackling your complex system challenges
-    title: Mind the system
+    title: MindTheSystem
     content: >
       MindTheSystem equips governments, non-profits and private sector companies
       with an approach, tools and training to tackle complex problems. We have
