@@ -33,12 +33,16 @@ sections:
       - media_position: right
         image_alt: Feature 1 placeholder image
         media_width: fifty
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        title: The Big Title For the Feature
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        subtitle: >-
+          We believe in equipping you with a sustained approach to complex
+          problem-solving, which is a system for quality of decisions.
+        title: A system for quality decisions
+        content: >
+          “How did we arrive at that decision? Should a different mix of people
+          be involved, or involved in a different way? Should we change how we
+          analyse opportunities before making similar decisions in the future?
+          How do the incentives we have in place affect our decision-making?
+          Should they be changed?”
         type: feature
         image: images/classic/feature-1.png
         actions:
@@ -50,11 +54,16 @@ sections:
             icon: arrow-right
             icon_position: right
       - type: feature
-        title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        title: Growth alongside consulting
+        content: >
+          Tackling complex challenges is an on-going, infinite game. There is no
+          “end-state” at community-building, education, social services or
+          economic development; only constant improvements and pivots.
+          Consultants who pop in and out might improve certain project outcomes,
+          but your people, who grapple with the challenge on a daily basis, will
+          determine how effective you are going to be. So even as we consult on
+          your project, we focus not just on the solution but also on training
+          your people’s mindset, instinct and behaviours in the process.
         actions:
           - type: action
             label: Learn More
@@ -67,6 +76,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        subtitle: 'We believe in developing your teams to solve complex problems. '
       - media_position: right
         image_alt: Feature 3 placeholder image
         media_width: fifty
@@ -107,16 +117,17 @@ sections:
     grid_items:
       - image_align: left
         actions_align: left
-        image_alt: Section item 1 icon
         image_has_padding: true
         image_position: top
-        title: Section Item 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        title: Project consultancy
+        content: >
+          I am part of your team that tackles the problem and delivers the
+          strategy. While in the process of working on real-life problems, I
+          seek to develop
+
+          your team’s capabilities, but also ensure quality of inputs and
+          outputs required for decision making.
         type: grid_item
-        image: images/classic/icon-1.svg
         actions:
           - type: action
             label: Learn More
@@ -129,16 +140,14 @@ sections:
         content_align: left
       - image_align: left
         actions_align: left
-        image_alt: Section item 2 icon
         image_has_padding: true
         image_position: top
-        title: Section Item 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        title: Training
+        content: >
+          I train your team on the approaches, tools and frameworks, applied to
+          real-life problems that they are prepared to share in a group training
+          setting.
         type: grid_item
-        image: images/classic/icon-2.svg
         actions:
           - type: action
             label: Learn More
@@ -149,30 +158,56 @@ sections:
             icon_position: center
         title_align: left
         content_align: left
-      - image_align: left
+      - title: Cognitive Behavioural Coaching
+        title_align: left
+        content: >
+          To support project teams in gaining self-mastery and confidence
+          required to guide difficult change management, and provide
+          psychological tools for intervention in change management.
+        content_align: left
+        actions:
+          - url: '#'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
-        image_alt: Section item 3 icon
-        image_has_padding: true
+        actions_width: auto
+        image_alt: lorem-ipsum
         image_position: top
-        title: Section Item 3
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
         type: grid_item
-        image: images/classic/icon-3.svg
+      - title: 1-day Intervention in Problem Framing
+        title_align: left
+        content: >
+          A quick intervention to point you in the right direction. I review
+          your research, problem-framing and intended action plan, and help you
+          ask the right questions and sharpen your problem definition.
+        content_align: left
         actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
+          - url: '#'
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: center
-        title_align: left
-        content_align: left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
     enable_cards: true
-    grid_cols: three
+    grid_cols: four
     background_color: none
     grid_gap_vert: small
     subtitle: Our offerings
