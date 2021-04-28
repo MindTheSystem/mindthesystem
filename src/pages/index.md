@@ -37,10 +37,12 @@ sections:
           We believe in equipping you with a sustained approach to complex
           problem-solving, which is a system for quality of decisions.
         title: The Big Title For the Feature
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          “How did we arrive at that decision? Should a different mix of people
+          be involved, or involved in a different way? Should we change how we
+          analyse opportunities before making similar decisions in the future?
+          How do the incentives we have in place affect our decision-making?
+          Should they be changed?”
         type: feature
         image: images/classic/feature-1.png
         actions:
