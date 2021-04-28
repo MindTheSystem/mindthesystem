@@ -201,6 +201,10 @@ sections:
           A quick intervention to point you in the right direction. I review
           your research, problem-framing and intended action plan, and help you
           ask the right questions and sharpen your problem definition.
+          　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+
+          　
         content_align: left
         actions:
           - url: '#'
