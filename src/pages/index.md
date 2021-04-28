@@ -295,7 +295,7 @@ sections:
     subtitle: Our team
     actions:
       - type: action
-        label: Join the team
+        label: Read more
         url: /style-guide
         style: primary
     grid_items:
