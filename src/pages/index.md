@@ -104,7 +104,7 @@ sections:
           *   System 4: The Self. How am I prepared to guide this problem
           solving and change?
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
