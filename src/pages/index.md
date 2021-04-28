@@ -77,25 +77,6 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: 'We believe in developing your teams to solve complex problems. '
-      - media_position: right
-        image_alt: Feature 3 placeholder image
-        media_width: fifty
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        type: feature
-        image: images/classic/feature-3.png
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
     feature_padding_vert: large
     align: center
     background_color: secondary
