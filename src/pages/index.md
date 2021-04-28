@@ -30,7 +30,7 @@ sections:
     title: Why work with us?
     subtitle: Value proposition
     features:
-      - media_position: left
+      - media_position: right
         image_alt: Feature 1 placeholder image
         media_width: fifty
         subtitle: >-
