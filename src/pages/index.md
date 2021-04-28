@@ -279,7 +279,6 @@ sections:
       Schedule a call to explore if we're a fit to what you need
     actions:
       - type: action
-        label: Learn More
         url: /features
         style: secondary
     actions_position: right
