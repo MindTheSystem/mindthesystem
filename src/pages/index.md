@@ -388,7 +388,7 @@ seo:
     - name: 'twitter:title'
       value: MindTheSystem
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Tackling your complex system challenges.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
