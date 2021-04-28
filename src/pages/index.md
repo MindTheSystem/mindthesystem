@@ -265,7 +265,7 @@ seo:
       value: Tackling your complex system challenges.
       keyName: property
     - name: 'og:image'
-      value: /images/mindthesystem-logo.png
+      value: /images/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
