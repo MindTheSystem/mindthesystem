@@ -35,13 +35,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Contact",
-                "url": "/style-guide",
-                "style": "link",
-                "has_icon": false
             }
         ],
         "has_secondary_nav": true,
