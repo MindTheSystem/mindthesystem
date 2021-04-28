@@ -27,7 +27,7 @@ sections:
     has_border: false
     image: /images/hero-icon-bright.png
   - type: grid_section
-    title: Our clients
+    title: Who we worked with
     subtitle: Who we worked with
     grid_items:
       - type: grid_item
