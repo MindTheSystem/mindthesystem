@@ -221,7 +221,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Reviews Section
-    subtitle: Grid Section Example
+    subtitle: Reviews from client
     grid_items:
       - type: grid_item
         content: >
