@@ -384,22 +384,6 @@ sections:
     show_recent: true
     show_categories: true
     show_excerpt: false
-  - align: center
-    padding_top: large
-    actions_position: bottom
-    background_color: secondary
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    padding_bottom: large
-    type: cta_section
-    actions:
-      - type: action
-        label: Button
-        url: /pricing
-        style: primary
 seo:
   type: stackbit_page_meta
   title: MindTheSystem
