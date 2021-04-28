@@ -110,10 +110,13 @@ sections:
         image_has_padding: true
         image_position: top
         title: Project consultancy
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          I am part of your team that tackles the problem and delivers the
+          strategy. While in the process of working on real-life problems, I
+          seek to develop
+
+          your team’s capabilities, but also ensure quality of inputs and
+          outputs required for decision making.
         type: grid_item
         actions:
           - type: action
