@@ -41,7 +41,7 @@
                 "label": "Contact",
                 "url": "/style-guide",
                 "style": "link",
-                "has_icon": true
+                "has_icon": false
             }
         ],
         "has_secondary_nav": true,
