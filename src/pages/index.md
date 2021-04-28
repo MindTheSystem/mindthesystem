@@ -11,7 +11,7 @@ sections:
       futures thinking, systems thinking, design thinking and innovation.
     actions:
       - type: action
-        label: Try Free
+        label: Contact us
         url: /pricing
         style: primary
       - type: action
