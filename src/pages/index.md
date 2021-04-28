@@ -2,7 +2,7 @@
 title: Home
 sections:
   - media_position: right
-    align: center
+    align: right
     padding_top: medium
     media_width: fourty
     has_border: false
