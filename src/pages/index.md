@@ -27,8 +27,8 @@ sections:
     has_border: false
     image: /images/hero-icon-bright.png
   - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
+    title: Who we worked with
+    subtitle: Our clients
     grid_items:
       - type: grid_item
         image: images/logo-1.svg
@@ -67,8 +67,8 @@ sections:
     grid_gap_horiz: medium
     align: center
   - type: features_section
-    title: Features Section
-    subtitle: Features Section Example
+    title: Why work with us?
+    subtitle: Value proposition
     features:
       - type: feature
         title: The Big Title For the Feature
@@ -274,16 +274,14 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    title: Book a call
+    content: |
+      Schedule a call to explore if we're a fit to what you need
     actions:
       - type: action
-        label: Learn More
         url: /features
         style: secondary
+        label: Book now
     actions_position: right
     actions_width: fourty
     align: left
@@ -327,8 +325,8 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: What's New
-    subtitle: Blog Feed Section Example
+    title: What's new
+    subtitle: Blog
     actions:
       - type: action
         label: View All
