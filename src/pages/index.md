@@ -7,7 +7,9 @@ sections:
     media_width: fourty
     has_border: false
     background_color: none
-    subtitle: Build confidence in solving complex problems
+    subtitle: >-
+      MindTheSystem equips governments, non-profits and private sector companies
+      with an approach, tools and training to tackle complex problems.
     title: Build confidence in solving complex problems
     content: >
       We have 20 years of public sector experience with the Singapore
