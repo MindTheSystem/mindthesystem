@@ -233,7 +233,7 @@ sections:
         image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
-    enable_cards: false
+    enable_cards: true
     grid_cols: four
     grid_gap_vert: medium
     subtitle: Our clients
