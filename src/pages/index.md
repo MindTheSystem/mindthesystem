@@ -52,7 +52,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/pixeltrue-icons-security-3.svg
+        image: /images/noun_Checklist_1016151 Copy.svg
       - type: feature
         title: Growth alongside consulting
         content: >
