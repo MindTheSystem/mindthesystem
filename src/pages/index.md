@@ -25,6 +25,7 @@ sections:
     padding_bottom: large
     background_color: none
     has_border: false
+    background_image: /images/mindthesystem-background.png
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
