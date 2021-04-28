@@ -119,7 +119,7 @@ sections:
         actions_align: left
         image_has_padding: true
         image_position: top
-        title: Project consultancy
+        title: Project consultancy with mentoring
         content: >
           I am part of your team that tackles the problem and delivers the
           strategy. While in the process of working on real-life problems, I
