@@ -77,6 +77,44 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: 'We believe in developing your teams to solve complex problems. '
+      - title: Our 4 systems approach
+        subtitle: "Complex challenges fall outside any one person’s or organisation’s ability to define,\_predict and control."
+        content: >
+          The key tool of affecting systems change is not command and control,
+          but rather influence. But it is possible to make systematic progress,
+          as long as we mind the system of decision-making.
+
+
+          Through years of practical experience, we have broken down the
+          approach to complex problems into 4 systems:
+
+
+          *   System 1: Future Operating Environment. What would our reality
+          look like in the future; what are we solving towards?
+
+          *   System 2: Stakeholders. Who is or needs to be involved, and how?
+
+          *   System 3: Purpose. How do we agree on the new future, and take
+          steps towards it?
+
+          *   System 4: The Self. How am I prepared to guide this problem
+          solving and change?
+        actions:
+          - label: Learn More
+            url: '#'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        image_alt: lorem-ipsum
+        media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+        image: /images/pixeltrue-icons-seo-optimize.svg
     feature_padding_vert: large
     align: center
     background_color: secondary
