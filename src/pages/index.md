@@ -79,17 +79,30 @@ sections:
         subtitle: 'We believe in developing your teams to solve complex problems. '
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          In complex problems there are different perspectives and conflicting
+          goals and unseen causal relationships. Complex problem-solving hence
+          require us to hold the space for discovery. The key tool of affecting
+          systems change is not command and control, but rather influence. But
+          it is possible to make systematic progress, as long as we mind the
+          system of decision-making.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Through years of practical experience, we have broken down the
+          approach to complex problems into 4 systems, and have developed tools
+          to address each.
 
 
-          - Lorem ipsum
+          *   System 1: Future Operating Environment. What would our reality
+          look like in the future; what are we solving towards?
 
-          - dolor sit amet
+          *   System 2: Stakeholders. Who is or needs to be involved, and how?
+
+          *   System 3: Purpose. How do we agree on the new future, and take
+          steps towards it?
+
+          *   System 4: The Self. How am I prepared to guide this problem
+          solving and change?
         actions: []
         image_alt: lorem-ipsum
         media_position: right
