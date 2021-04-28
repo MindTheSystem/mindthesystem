@@ -173,6 +173,7 @@ sections:
           To support project teams in gaining self-mastery and confidence
           required to guide difficult change management, and provide
           psychological tools for intervention in change management.
+          　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
         content_align: left
         actions:
           - url: '#'
