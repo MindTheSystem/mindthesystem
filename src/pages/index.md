@@ -136,10 +136,7 @@ sections:
         content: >
           I train your team on the approaches, tools and frameworks, applied to
           real-life problems that they are prepared to share in a group training
-          setting. Examples: 5-week MasterClass in Approach to Complex Systems
-          Challenges, or 3-day Module Programmes: Futures Thinking, Systems
-          Thinking, Design Thinking, Psychological Approach to Change
-          Management.
+          setting.
         type: grid_item
         actions:
           - type: action
