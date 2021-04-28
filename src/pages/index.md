@@ -107,7 +107,6 @@ sections:
     grid_items:
       - image_align: left
         actions_align: left
-        image_alt: Section item 2 icon
         image_has_padding: true
         image_position: top
         title: Project consultancy
