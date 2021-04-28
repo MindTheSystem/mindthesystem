@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Mind the system
-    subtitle: Tackling Your Complex System Challenges
+    subtitle: Tackling your complex system challenges
     content: >
       MindTheSystem equips governments, non-profits and private sector companies
       with an approach, tools and training to tackle complex problems. We have
