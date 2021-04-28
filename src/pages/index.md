@@ -16,7 +16,7 @@ sections:
       futures thinking, systems thinking, design thinking and innovation.
     padding_bottom: large
     type: hero_section
-    image: /images/noun_brainstorming_1016145 copy.svg
+    image: /images/noun_complex idea_1710293(1).svg
     actions:
       - type: action
         label: Contact us
