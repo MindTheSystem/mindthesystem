@@ -68,7 +68,7 @@ sections:
     align: center
   - type: features_section
     title: Why work with us?
-    subtitle: Features Section Example
+    subtitle: Value proposition
     features:
       - type: feature
         title: The Big Title For the Feature
