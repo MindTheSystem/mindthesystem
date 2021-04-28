@@ -137,7 +137,7 @@ sections:
           and clarity. She is destined to be a catalyst for breakthrough
           innovation wherever she goes.”
         subtitle: 'Mei Lin Fung, Chair & Cofounder, People Centered Internet'
-        image: /images/brandon-guidelines.png
+        image: /images/Mei-Lin-Fung.jpg
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
