@@ -143,16 +143,17 @@ sections:
         image_has_padding: true
         image_position: top
         title: Training
-        content: >
+        content: >+
           I train your team on the approaches, tools and frameworks, applied to
           real-life problems that they are prepared to share in a group training
           setting.
 
+          　
 
           　
 
+          　
 
-          　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
         type: grid_item
         actions:
           - type: action
