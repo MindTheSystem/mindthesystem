@@ -144,7 +144,7 @@ sections:
         actions_align: left
         image_has_padding: true
         image_position: top
-        title: Training
+        title: Training on methodology
         content: >
           I will train your team on the approaches, tools and frameworks,
           applied to real-life problems that they are prepared to share in a
