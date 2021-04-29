@@ -244,7 +244,7 @@ sections:
       truly need, tailored to you.
     actions:
       - type: action
-        label: Compare Plans
+        label: Get in touch now
         url: /pricing
         style: primary
     actions_position: right
