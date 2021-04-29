@@ -115,7 +115,7 @@ sections:
         label: Subject
         options:
           - Enquiry about services
-          - lorem-ipsum
+          - Enquiry about rate
           - lorem-ipsum
         is_required: true
         type: form_field
