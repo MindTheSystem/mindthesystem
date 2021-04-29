@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Why work with us
-    subtitle: Features Page Demo
+    subtitle: Our value proposition
     background_color: none
   - type: features_section
     features:
