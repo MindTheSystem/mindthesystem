@@ -51,7 +51,7 @@ sections:
         actions_width: full-width
       - type: grid_item
         title: Cognitive Behavioural Coaching
-        subtitle: Optional subtitle
+        subtitle: Coach me
         title_align: left
         content: >
           ***
