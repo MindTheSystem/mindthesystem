@@ -10,77 +10,78 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: Personal
-        subtitle: Optional subtitle
+        title: Project consultancy
+        subtitle: '"Walk with me"'
         title_align: left
-        content: |
+        content: >
           ***
 
-          ### $9
 
-          per month, billed yearly
 
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Nisi cubilia interdum ultricies
+
+          I am part of your team that tackles the problem and delivers the
+          strategy. While in the process of working on real-life problems, I
+          seek to develop your team’s capabilities, but also ensure quality of
+          inputs and outputs required for decision making.
         content_align: left
-        actions:
-          - type: action
-            label: Start with Personal
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - type: grid_item
-        title: Premium
-        subtitle: Optional subtitle
+        title: Training
+        subtitle: '"Show me"'
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $19
 
-          per month, billed yearly
+          I train your team on the approaches, tools and frameworks, applied to
+          real-life problems that they are prepared to share in a group training
+          setting. Examples of programme:
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+
+          *   5-week MasterClass in Approach to Complex Systems Challenges
+
+
+          *   3-day Module Programmes: Futures Thinking, Systems Thinking,
+          Design Thinking, Psychological Approach to Change Management
         content_align: left
-        actions:
-          - type: action
-            label: Start with Premium
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - type: grid_item
-        title: Business
-        subtitle: Optional subtitle
+        title: Cognitive Behavioural Coaching
+        subtitle: '"Coach me"'
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $39
 
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          To support project teams in gaining self-mastery and confidence
+          required to guide difficult change management, and provide
+          psychological tools for intervention in change management.
         content_align: left
-        actions:
-          - type: action
-            label: Start with Business
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
-    grid_cols: three
+      - title: 1-day Intervention in Problem Framing
+        subtitle: '"Tell me"'
+        title_align: left
+        content: >
+          A quick intervention to point you in the right direction. I review
+          your research, problem-framing and intended action plan, and help you
+          ask the right questions and sharpen your problem definition.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
