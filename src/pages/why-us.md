@@ -170,23 +170,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: cta_section
-    title: Let's talk
-    content: >
-      Unlike other consultants, we love to understand your context first before
-      offering any advice or service. This way we can be sure you get what you
-      truly need, tailored to you.
-    actions:
-      - type: action
-        label: Get in touch now
-        url: /pricing
-        style: primary
-    actions_position: right
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
@@ -220,6 +203,23 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+  - type: cta_section
+    title: Let's talk
+    content: >
+      Unlike other consultants, we love to understand your context first before
+      offering any advice or service. This way we can be sure you get what you
+      truly need, tailored to you.
+    actions:
+      - type: action
+        label: Get in touch now
+        url: /pricing
+        style: primary
+    actions_position: right
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
 seo:
   type: stackbit_page_meta
   title: Features
