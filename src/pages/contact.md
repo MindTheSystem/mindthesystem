@@ -79,7 +79,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Contact
-  description: This is the contact page
+  description: >-
+    For enquiries about our services or approach, please drop us a message using
+    the contact form.
   extra:
     - name: 'og:type'
       value: website
