@@ -151,7 +151,7 @@ seo:
       value: What we do
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: /images/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
