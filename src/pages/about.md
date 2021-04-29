@@ -48,7 +48,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: About
-  description: This is the about us page
+  description: About our team
   extra:
     - name: 'og:type'
       value: website
