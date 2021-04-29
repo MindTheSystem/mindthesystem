@@ -122,7 +122,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: text
-        name: Your message
+        name: Message
         label: Message
         default_value: lorem-ipsum
         options: []
