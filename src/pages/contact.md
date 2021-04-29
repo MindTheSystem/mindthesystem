@@ -108,7 +108,7 @@ sections:
         label: Email
         default_value: Your email address
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: text
         name: lorem-ipsum
