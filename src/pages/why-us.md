@@ -135,10 +135,22 @@ sections:
       - type: grid_item
         title: 'System 2: Stakeholders'
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          *Systems thinking*
+
+
+          #### Who is or needs to be involved, and how? 
+
+
+          —
+
+
+          We help you identify your key stakeholders, their relationships and
+          interactions as a system, and their roles in the value chain. This
+          helps us be systematic in setting up the governance process of
+          problem-solving: who is in the core decision-making team, who should
+          be co-opted as strategic contributors or partners, and at which stage
+          of the process.
         content_align: left
         actions:
           - type: action
