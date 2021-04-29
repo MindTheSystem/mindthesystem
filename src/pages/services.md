@@ -50,7 +50,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - type: grid_item
-        title: Business
+        title: Cognitive Behavioural Coaching
         subtitle: Optional subtitle
         title_align: left
         content: >
