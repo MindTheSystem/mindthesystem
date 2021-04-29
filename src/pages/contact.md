@@ -85,7 +85,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Let's talk
-    subtitle: lorem-ipsum
     title_align: left
     content: >
       For enquiries about our services or approach, please drop us a message
