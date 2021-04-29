@@ -161,7 +161,7 @@ seo:
     - name: 'twitter:description'
       value: What we do
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: /images/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---
