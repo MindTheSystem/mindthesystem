@@ -9,7 +9,7 @@ sections:
     media_position: left
   - type: features_section
     features:
-      - title: lorem-ipsum
+      - title: Agnes Kwek
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
