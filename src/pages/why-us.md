@@ -177,10 +177,21 @@ sections:
       - type: grid_item
         title: 'System 4: The Self'
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          *Cognitive Behavioural Coaching*
+
+
+          #### How am I prepared to guide this problem solving and change? 
+
+
+          —
+
+
+          With Cognitive Behavioural Coaching, we help you and your team develop
+          self-mastery and behaviours that are required of practitioners who
+          deal with complex problems. This includes being comfortable with
+          ambiguity, embracing different perspectives, pivoting quickly, and
+          assuring others to do the same.
         content_align: left
         actions:
           - type: action
