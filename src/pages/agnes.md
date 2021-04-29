@@ -10,7 +10,7 @@ template: page
 ---
 ### Founder, MindTheSystem
 
-\<hr>
+\<hr />
 
 Agnes has a passion for the intellectual and humanitarian challenges that public service brings. She spent 17 years in the well-respected and rigorous Administrative Service of the government of Singapore. During this time, she gained much policy and service delivery experience, not to mention networks, through 6 extremely varied portfolios: defence diplomacy, labour policy, community organisation and social welfare, public service transformation, and land transport. 
 
