@@ -194,8 +194,8 @@ sections:
       - title: Cognitive Behavioural Coaching
         title_align: left
         content: >
-          Coaching with psychological tools for self-mastery and confidence for
-          project teams to implement difficult change management.
+          Self-mastery and confidence for project teams to implement difficult
+          change management.
         content_align: left
         actions:
           - url: '#'
