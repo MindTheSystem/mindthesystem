@@ -170,7 +170,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - title: lorem-ipsum
+  - title: Learn more
     subtitle: Learn more
     title_align: left
     content: >-
