@@ -7,7 +7,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: lorem-ipsum
+      - title: What is a Complex Systems Challenge?
         subtitle: lorem-ipsum
         content: >
           Improving recycling rates. Re-invigorating a high street or town
