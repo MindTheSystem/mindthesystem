@@ -13,17 +13,16 @@ sections:
         title: Personal
         subtitle: Optional subtitle
         title_align: left
-        content: |
+        content: >
           ***
 
-          ### $9
 
-          per month, billed yearly
 
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Nisi cubilia interdum ultricies
+
+          I am part of your team that tackles the problem and delivers the
+          strategy. While in the process of working on real-life problems, I
+          seek to develop your team’s capabilities, but also ensure quality of
+          inputs and outputs required for decision making.
         content_align: left
         actions:
           - type: action
