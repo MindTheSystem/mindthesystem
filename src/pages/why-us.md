@@ -9,11 +9,20 @@ sections:
     features:
       - title: What is a complex systems challenge?
         content: >
-          *   Complex problems:
-              Face constantly evolving environments
-              Are hard to define, and the desired outcomes equally hard to pin down
-              Cannot be addressed by one single solution, but rather require an infinite mindset of constant improvement of multiple solutions over time
-              Involve multiple stakeholders who might hold conflicting perspectives and values
+          Complex problems:
+
+
+          *   Face constantly evolving environments
+
+          *   Are hard to define, and the desired outcomes equally hard to pin
+          down
+
+          *   Cannot be addressed by one single solution, but rather require an
+          infinite mindset of constant improvement of multiple solutions over
+          time
+
+          *   Involve multiple stakeholders who might hold conflicting
+          perspectives and values
 
 
           *Such challenges fall outside any one person’s or organisation’s
