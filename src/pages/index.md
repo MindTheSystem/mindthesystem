@@ -292,7 +292,7 @@ seo:
     - name: 'twitter:title'
       value: MindTheSystem
     - name: 'twitter:description'
-      value: Tackling your complex system challenges.
+      value: Clarity for complex challenges.
     - name: 'twitter:image'
       value: /images/mindthesystem-logo.jpg
       relativeUrl: true
