@@ -10,7 +10,7 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: About our founder
+        title: Agnes Kwek
         subtitle: >-
           Agnes has 20 years of career in the Singapore Government across
           defence, labour policy, community organisation and social welfare,
