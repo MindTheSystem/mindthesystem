@@ -11,83 +11,77 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
-  - type: grid_section
-    grid_items:
-      - type: grid_item
-        title: Partnering and Sponsorships
-        title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
-        content_align: center
-        actions:
-          - type: action
-            label: Get Support
-            url: /general-enquiries
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/classic/icon-1.svg
-        image_alt: Partnering and sponsorships icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-      - type: grid_item
-        title: Help & Support
-        title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
-        content_align: center
-        actions:
-          - type: action
-            label: Get Support
-            url: /general-enquiries
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/classic/icon-2.svg
-        image_alt: Help and support icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-      - type: grid_item
-        title: Other Queries
-        title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
-        content_align: center
-        actions:
-          - type: action
-            label: Get Support
-            url: /general-enquiries
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/classic/icon-3.svg
-        image_alt: Other queries icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-    grid_cols: three
-    grid_gap_vert: medium
-    grid_gap_horiz: medium
-    enable_cards: true
-    align: center
-    padding_top: large
-    padding_bottom: large
+  - title_align: left
+    content: >
+      ### Let's talk
+
+
+      For enquiries about our services or approach, please drop us a message
+      using the contact form.
+    content_align: left
+    form_position: right
+    form_width: fifty
+    form_layout: stacked
+    enable_card: true
+    form_id: contact
+    form_fields:
+      - input_type: text
+        name: Name
+        label: Name
+        default_value: Your name
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: email
+        name: Email
+        label: Email
+        default_value: Your email address
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: select
+        name: Subject
+        label: Subject
+        options:
+          - Please select
+          - Enquiry about services
+          - Enquiry about rate
+          - Enquiry about our approach/work
+          - Others
+        is_required: true
+        type: form_field
+      - input_type: textarea
+        name: Message
+        label: Message
+        default_value: Your message
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: checkbox
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
+        options: []
+        is_required: true
+        type: form_field
+        name: Permission
+    submit_label: Submit
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
     background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
 seo:
   type: stackbit_page_meta
   title: Contact
-  description: This is the contact page
+  description: >-
+    For enquiries about our services or approach, please drop us a message using
+    the contact form.
   extra:
     - name: 'og:type'
       value: website
@@ -96,13 +90,17 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        For enquiries about our services or approach, please drop us a message
+        using the contact form.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        For enquiries about our services or approach, please drop us a message
+        using the contact form.
 template: advanced
 ---
