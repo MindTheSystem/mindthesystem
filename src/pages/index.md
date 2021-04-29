@@ -128,7 +128,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image_alt: lorem-ipsum
+        image_alt: Puzzle by Gregor Cresnar from the Noun Project
         media_position: right
         media_width: fourty
         align: left
