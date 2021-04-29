@@ -202,7 +202,7 @@ sections:
       - input_type: text
         name: Name
         label: Name
-        default_value: Leave your
+        default_value: What's your name?
         options: []
         is_required: false
         type: form_field
