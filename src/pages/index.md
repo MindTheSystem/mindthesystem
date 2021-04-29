@@ -48,7 +48,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - type: features_section
-    title: Why work with us?
+    title: Why work with us
     subtitle: Value proposition
     features:
       - media_position: right
