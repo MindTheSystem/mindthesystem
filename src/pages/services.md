@@ -61,11 +61,7 @@ sections:
           required to guide difficult change management, and provide
           psychological tools for intervention in change management.
         content_align: left
-        actions:
-          - type: action
-            label: Start with Business
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
     grid_cols: three
