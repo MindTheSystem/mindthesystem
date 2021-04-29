@@ -170,8 +170,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - title: Learn more
-    subtitle: Get a copy of our primer to learn more
+  - subtitle: Get a copy of our primer to learn more
     title_align: center
     content: >
       ## We'll email you our primer
