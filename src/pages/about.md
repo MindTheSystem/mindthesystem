@@ -11,17 +11,14 @@ sections:
     features:
       - title: Agnes Kwek
         subtitle: 'Founder, MindTheSystem'
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          *Agnes has 20 years of career in the Singapore Government across
+          defence, labour policy, community organisation and social welfare,
+          public service innovation, land transport, and industry development.
+          Thanks to her stint at IDEO in San Francisco in 2013, she is a
+          policy-wonk-turned-designer; in particular, a systems designer focused
+          on complex economic and social issues. She loves combining futures
+          foresight, systems thinking and human-centred design.*
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
