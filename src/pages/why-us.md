@@ -112,7 +112,7 @@ sections:
         media_width: fifty
   - type: grid_section
     title: Our approach
-    subtitle: Grid Section Example
+    subtitle: Our approach
     grid_items:
       - type: grid_item
         title: Section Item 1
