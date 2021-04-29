@@ -132,7 +132,7 @@ sections:
     has_border: false
     background_color: secondary
     grid_gap_vert: medium
-    title: 'You asked, we answered!'
+    title: FAQs
     padding_bottom: medium
     grid_gap_horiz: medium
     type: grid_section
