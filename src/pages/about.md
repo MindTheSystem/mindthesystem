@@ -33,7 +33,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: /images/Screen Shot 2021-04-29 at 8.55.00 AM.png
+        image: /images/agnes.jpg
   - type: cta_section
     title: Let's talk
     content: >
