@@ -67,6 +67,28 @@ sections:
         media_width: fifty
         align: left
         type: feature
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
       - type: feature
         title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
@@ -103,28 +125,6 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
