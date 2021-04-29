@@ -116,7 +116,7 @@ sections:
         options:
           - Enquiry about services
           - Enquiry about rate
-          - Enquiry about our work
+          - Enquiry about our approach/work
         is_required: true
         type: form_field
       - input_type: text
