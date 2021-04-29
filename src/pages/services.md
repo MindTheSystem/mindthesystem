@@ -65,7 +65,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: 1-day Intervention in Problem Framing
-        subtitle: lorem-ipsum
+        subtitle: '"Tell me"'
         title_align: left
         content: >
           A quick intervention to point you in the right direction. I review
