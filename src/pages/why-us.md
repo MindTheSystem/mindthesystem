@@ -62,6 +62,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+    background_color: secondary
   - type: grid_section
     title: Our holistic approach
     subtitle: Interventions on 4 levels of systems
