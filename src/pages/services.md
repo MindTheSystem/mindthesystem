@@ -139,7 +139,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Services
-  description: This is the pricing page
+  description: What we do
   extra:
     - name: 'og:type'
       value: website
