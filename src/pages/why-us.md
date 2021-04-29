@@ -115,6 +115,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/photo-1511632765486-a01980e01a18.jpeg
       - image_align: left
         actions_align: left
         image_alt: Item 3 icon
