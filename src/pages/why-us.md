@@ -164,7 +164,7 @@ sections:
         content_align: left
     enable_cards: true
     grid_cols: two
-    background_color: none
+    background_color: primary
     grid_gap_vert: medium
     subtitle: Interventions on 4 levels of systems
     title: Our holistic approach
