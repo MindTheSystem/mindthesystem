@@ -138,6 +138,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/photo-1502101872923-d48509bff386.jpeg
       - image_align: left
         actions_align: left
         image_alt: Item 4 icon
