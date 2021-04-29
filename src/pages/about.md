@@ -25,7 +25,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         image: /images/Screen Shot 2021-04-29 at 8.55.00 AM.png
