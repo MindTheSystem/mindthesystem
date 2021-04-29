@@ -67,7 +67,7 @@ sections:
     grid_items:
       - image_align: left
         actions_align: left
-        image_alt: Item 1 icon
+        image_alt: Image of future world
         image_has_padding: true
         image_position: top
         title: 'System 1: Future Operating Environment'
@@ -88,6 +88,8 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/photo-1498084393753-b411b2d26b34.jpeg
+        image_width: twenty-five
       - image_align: left
         actions_align: left
         image_alt: Item 2 icon
@@ -114,6 +116,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/photo-1511632765486-a01980e01a18.jpeg
       - image_align: left
         actions_align: left
         image_alt: Item 3 icon
@@ -137,6 +140,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/photo-1502101872923-d48509bff386.jpeg
       - image_align: left
         actions_align: left
         image_alt: Item 4 icon
@@ -162,6 +166,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/photo-1534185468818-f3eba1d779c0.jpeg
     enable_cards: true
     grid_cols: two
     background_color: secondary
@@ -179,7 +184,6 @@ sections:
     submit_label: Submit
     background_image_repeat: no-repeat
     has_border: false
-    form_action: lorem-ipsum
     background_color: none
     form_fields:
       - input_type: text
@@ -197,7 +201,7 @@ sections:
         is_required: true
         type: form_field
     background_image_size: cover
-    form_id: lorem-ipsum
+    form_id: primer-pdf
     background_image_opacity: 0
     content: >
       ## Learn more
