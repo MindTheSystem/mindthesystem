@@ -112,7 +112,7 @@ sections:
         media_width: fifty
   - type: grid_section
     title: Our approach
-    subtitle: Our approach
+    subtitle: Interventions on 4 levels of systems
     grid_items:
       - type: grid_item
         title: Section Item 1
