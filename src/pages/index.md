@@ -281,7 +281,7 @@ seo:
       value: MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: Tackling your complex system challenges.
+      value: Clarity for complex challenges.
       keyName: property
     - name: 'og:image'
       value: /images/mindthesystem-logo.jpg
