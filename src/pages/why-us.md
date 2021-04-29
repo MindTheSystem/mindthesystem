@@ -14,29 +14,48 @@ sections:
 
           *   Face constantly evolving environments
 
-          *   Are hard to define, and the desired outcomes equally hard to pin down
+          *   Are hard to define, and the desired outcomes equally hard to pin
+          down
 
-          *   Cannot be addressed by one single solution, but rather require an infinite mindset of constant improvement of multiple solutions over time
+          *   Cannot be addressed by one single solution, but rather require an
+          infinite mindset of constant improvement of multiple solutions over
+          time
 
-          *   Involve multiple stakeholders who might hold conflicting perspectives and values
-
-
-          *Such challenges fall outside any one person’s or organisation’s ability to define, predict and control.*
-
-
-          Improving access to social services, addressing recycling rates, encouraging take up of public transport, safeguarding heritage, are all examples of complex problems – or in fact, pretty much any area of government that requires the politics, the policies, the service delivery, citizens and communities to be aligned.
+          *   Involve multiple stakeholders who might hold conflicting
+          perspectives and values
 
 
-          But complex systems are not limited to the ambit of governments; business models are evolving towards ecosystems, which require new alliances, strategies and leadership practices (see [Thinkers50 report](https://thinkers50.com/thinkers50-books/ecosystems-inc/)).
+          *Such challenges fall outside any one person’s or organisation’s
+          ability to define, predict and control.*
 
 
-          The key tension in solving complex problems is between forward momentum and space for emergence. People, in wanting fast answers, often default to the most obvious solution or tick-the-box mentality. This does not solve complex problems.
+          Improving access to social services, addressing recycling rates,
+          encouraging take up of public transport, safeguarding heritage, are
+          all examples of complex problems – or in fact, pretty much any area of
+          government that requires the politics, the policies, the service
+          delivery, citizens and communities to be aligned.
 
 
-          In complex problems there are different perspectives and conflicting goals and unseen causal relationships. Complex problem-solving hence require us to hold the space for discovery. The key tool of affecting systems change is not command and control, but rather influence.
+          But complex systems are not limited to the ambit of governments;
+          business models are evolving towards ecosystems, which require new
+          alliances, strategies and leadership practices (see [Thinkers50
+          report](https://thinkers50.com/thinkers50-books/ecosystems-inc/)).
 
 
-          But it is possible to make systematic progress, as long as we mind the system of decision-making.
+          The key tension in solving complex problems is between forward
+          momentum and space for emergence. People, in wanting fast answers,
+          often default to the most obvious solution or tick-the-box mentality.
+          This does not solve complex problems.
+
+
+          In complex problems there are different perspectives and conflicting
+          goals and unseen causal relationships. Complex problem-solving hence
+          require us to hold the space for discovery. The key tool of affecting
+          systems change is not command and control, but rather influence.
+
+
+          But it is possible to make systematic progress, as long as we mind the
+          system of decision-making.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
@@ -51,7 +70,7 @@ sections:
         image_alt: Item 1 icon
         image_has_padding: true
         image_position: top
-        title: "System 1: Future Operating Environment"
+        title: 'System 1: Future Operating Environment'
         content: >-
           *Futures thinking*
 
@@ -59,10 +78,12 @@ sections:
           - - -
 
 
-          #### What would our reality look like in the future; what are we solving towards?
+          #### What would our reality look like in the future; what are we
+          solving towards?
 
 
-          We help you break down the key drivers in your operating environment, and develop potential scenarios as a reality check.
+          We help you break down the key drivers in your operating environment,
+          and develop potential scenarios as a reality check.
         type: grid_item
         actions: []
         title_align: left
@@ -72,7 +93,7 @@ sections:
         image_alt: Item 2 icon
         image_has_padding: true
         image_position: top
-        title: "System 2: Stakeholders"
+        title: 'System 2: Stakeholders'
         content: >-
           *Systems thinking*
 
@@ -83,7 +104,12 @@ sections:
           #### Who is or needs to be involved, and how?
 
 
-          We help you identify your key stakeholders, their relationships and interactions as a system, and their roles in the value chain. This helps us be systematic in setting up the governance process of problem-solving: who is in the core decision-making team, who should be co-opted as strategic contributors or partners, and at which stage of the process.
+          We help you identify your key stakeholders, their relationships and
+          interactions as a system, and their roles in the value chain. This
+          helps us be systematic in setting up the governance process of
+          problem-solving: who is in the core decision-making team, who should
+          be co-opted as strategic contributors or partners, and at which stage
+          of the process.
         type: grid_item
         actions: []
         title_align: left
@@ -93,7 +119,7 @@ sections:
         image_alt: Item 3 icon
         image_has_padding: true
         image_position: top
-        title: "System 3: Purpose"
+        title: 'System 3: Purpose'
         content: >-
           *Design thinking*
 
@@ -104,7 +130,9 @@ sections:
           #### How do we agree on the new future, and take steps towards it?
 
 
-          We help you and your stakeholders develop a collective vision that can inspire action, and design a set of experiments to learn about possible interventions before you scale them.
+          We help you and your stakeholders develop a collective vision that can
+          inspire action, and design a set of experiments to learn about
+          possible interventions before you scale them.
         type: grid_item
         actions: []
         title_align: left
@@ -114,7 +142,7 @@ sections:
         image_alt: Item 4 icon
         image_has_padding: true
         image_position: top
-        title: "System 4: The Self"
+        title: 'System 4: The Self'
         content: >-
           *Cognitive Behavioural Coaching*
 
@@ -125,7 +153,11 @@ sections:
           #### How am I prepared to guide this problem solving and change?
 
 
-          With Cognitive Behavioural Coaching, we help you and your team develop self-mastery and behaviours that are required of practitioners who deal with complex problems. This includes being comfortable with ambiguity, embracing different perspectives, pivoting quickly, and assuring others to do the same.
+          With Cognitive Behavioural Coaching, we help you and your team develop
+          self-mastery and behaviours that are required of practitioners who
+          deal with complex problems. This includes being comfortable with
+          ambiguity, embracing different perspectives, pivoting quickly, and
+          assuring others to do the same.
         type: grid_item
         actions: []
         title_align: left
@@ -171,7 +203,8 @@ sections:
       ## Learn more
 
 
-      Please fill out the form on the right with your email and we'll send you a primer PDF document on our 4 systems approach.
+      Please fill out the form with your email address and we'll send you a
+      primer PDF document on our 4 systems approach.
     padding_bottom: medium
     type: form_section
     title_align: center
@@ -199,26 +232,26 @@ seo:
   title: Features
   description: This is the features page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Features
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the features page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/about-3.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Features
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the features page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
 template: advanced
