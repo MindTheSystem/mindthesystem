@@ -31,18 +31,20 @@ sections:
         title: Premium
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $19
 
-          per month, billed yearly
+          I train your team on the approaches, tools and frameworks, applied to
+          real-life problems that they are prepared to share in a group training
+          setting. Examples of programme:
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+
+          *   5-week MasterClass in Approach to Complex Systems Challenges
+
+
+          *   3-day Module Programmes: Futures Thinking, Systems Thinking,
+          Design Thinking, Psychological Approach to Change Management
         content_align: left
         actions:
           - type: action
