@@ -237,7 +237,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Learn more
+    title: Let's talk
     content: >
       Unlike other consultants, we love to understand your context first before
       offering any advice or service. This way we can be sure you get what you
