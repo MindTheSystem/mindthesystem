@@ -114,11 +114,11 @@ sections:
         name: Subject
         label: Subject
         options:
+          - Please select
           - Enquiry about services
           - Enquiry about rate
           - Enquiry about our approach/work
           - Others
-          - Please select
         is_required: true
         type: form_field
       - input_type: text
