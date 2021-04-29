@@ -111,7 +111,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Our approach
+    title: 4 systems
     subtitle: Our approach
     grid_items:
       - type: grid_item
