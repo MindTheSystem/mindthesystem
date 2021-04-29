@@ -24,7 +24,10 @@ sections:
         media_width: fifty
   - type: cta_section
     title: Let's talk
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      Unlike other consultants, we love to understand your context first before
+      offering any advice or service. This way we can be sure you get what you
+      truly need, tailored to you.
     actions:
       - type: action
         label: Compare Plans
