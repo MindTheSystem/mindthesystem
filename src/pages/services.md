@@ -110,6 +110,19 @@ sections:
           systems inquiry must maintain enough unstructured space for
           exploration, iteration, and divergence for surprises to emerge and be
           exploited.
+
+
+          You will learn how to ask better questions, and demand higher
+          standards and the right approaches from all the consultants whom you
+          subsequently
+
+          work with, creating better outcomes for your stakeholders, and greater
+          confidence within your organization.
+
+
+          *Ultimately, our assessment of decision quality is not based on
+          whether the outcome was good or bad, but on whether the process was
+          sound (Kahneman, 2011).*
       - type: grid_item
         title: Sagittis vitae et leo duis ut diam?
         content: >-
