@@ -41,7 +41,7 @@ sections:
     padding_top: medium
     padding_bottom: small
     has_border: false
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
@@ -136,7 +136,7 @@ sections:
         image: /images/noun_Puzzle_1016136 Copy.svg
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: none
   - type: features_section
     features:
       - type: feature
