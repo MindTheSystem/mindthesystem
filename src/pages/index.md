@@ -94,7 +94,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/noun_growth_1016135 copy.svg
-        image_alt: Feature 2 placeholder image
+        image_alt: growth by Gregor Cresnar from the Noun Project
         media_position: left
         media_width: fourty
         subtitle: 'We believe in developing your teams to solve complex problems. '
