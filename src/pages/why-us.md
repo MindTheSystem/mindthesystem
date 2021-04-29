@@ -172,7 +172,7 @@ sections:
     background_color: none
   - title_align: center
     content: >
-      ## We'll email you our primer
+      ## Learn more
 
 
       Please drop your email and we'll send you a primer on our 4 systems
