@@ -16,7 +16,7 @@ sections:
       futures thinking, systems thinking, design thinking and innovation.
     padding_bottom: large
     type: hero_section
-    image: /images/hero-icon-bright.png
+    image: /images/noun_brainstorming_1016145 copy.svg
     actions:
       - type: action
         label: Contact us
@@ -33,7 +33,8 @@ sections:
       - media_position: right
         image_alt: Feature 1 placeholder image
         media_width: fifty
-        subtitle: We believe in equipping you with a sustained approach to complex
+        subtitle: >-
+          We believe in equipping you with a sustained approach to complex
           problem-solving, which is a system for quality of decisions.
         title: A system for quality decisions
         content: >
@@ -55,7 +56,7 @@ sections:
       - media_position: left
         image_alt: Feature 2 placeholder image
         media_width: fifty
-        subtitle: "We believe in developing your teams to solve complex problems. "
+        subtitle: 'We believe in developing your teams to solve complex problems. '
         title: Growth alongside consulting
         content: >
           Tackling complex challenges is an on-going, infinite game. There is no
@@ -79,11 +80,12 @@ sections:
       - media_position: right
         image_alt: Feature 3 placeholder image
         media_width: fifty
-        subtitle: Sed sed commodo turpis, eget rutrum dui.
+        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         title: The Big Title For the Feature
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         type: feature
         image: images/classic/feature-3.png
         actions:
@@ -100,10 +102,11 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: “Agnes is a brilliant combination of insight and action, compassion and
-          clarity. She is destined to be a catalyst for breakthrough innovation
-          wherever she goes.”
-        subtitle: Mei Lin Fung, Chair & Cofounder, People Centered Internet
+        title: >-
+          “Agnes is a brilliant combination of insight and action, compassion
+          and clarity. She is destined to be a catalyst for breakthrough
+          innovation wherever she goes.”
+        subtitle: 'Mei Lin Fung, Chair & Cofounder, People Centered Internet'
         image: /images/meilinfung-round.png
         image_alt: Brandon Guidelines
         media_position: right
@@ -122,7 +125,8 @@ sections:
           strategy. While in the process of working on real-life problems, I
           seek to develop
 
-          your team’s capabilities, but also ensure quality of inputs and outputs required for decision making.
+          your team’s capabilities, but also ensure quality of inputs and
+          outputs required for decision making.
         type: grid_item
         actions:
           - type: action
@@ -168,12 +172,12 @@ sections:
           psychological tools for intervention in change management.
         type: grid_item
         actions:
-          - url: "#"
+          - url: '#'
             icon_position: right
             new_window: false
             no_follow: false
             style: link
-            label: " Learn More"
+            label: ' Learn More'
             icon: arrow-right
             type: action
             has_icon: true
@@ -193,7 +197,7 @@ sections:
           ask the right questions and sharpen your problem definition.
         type: grid_item
         actions:
-          - url: "#"
+          - url: '#'
             icon_position: right
             new_window: false
             no_follow: false
@@ -387,7 +391,8 @@ sections:
     actions_position: bottom
     background_color: secondary
     title: This is Call To Action Section In DIY Theme!
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     padding_bottom: large
@@ -399,30 +404,30 @@ sections:
         style: primary
 seo:
   type: stackbit_page_meta
-  title: ""
-  description: ""
+  title: ''
+  description: ''
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
-      value: ""
+    - name: 'og:title'
+      value: ''
       keyName: property
-    - name: og:description
-      value: ""
+    - name: 'og:description'
+      value: ''
       keyName: property
-    - name: og:image
-      value: ""
+    - name: 'og:image'
+      value: ''
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
-      value: ""
-    - name: twitter:description
-      value: ""
-    - name: twitter:image
-      value: ""
+    - name: 'twitter:title'
+      value: ''
+    - name: 'twitter:description'
+      value: ''
+    - name: 'twitter:image'
+      value: ''
       relativeUrl: true
 template: advanced
 ---
