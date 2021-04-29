@@ -19,7 +19,10 @@ sections:
 
 
 
-          I am part of your team that tackles the problem and delivers the strategy. While in the process of working on real-life problems, I seek to develop your team’s capabilities, but also ensure quality of inputs and outputs required for decision making.
+          I am part of your team that tackles the problem and delivers the
+          strategy. While in the process of working on real-life problems, I
+          seek to develop your team’s capabilities, but also ensure quality of
+          inputs and outputs required for decision making.
         type: grid_item
         actions: []
         title_align: left
@@ -32,13 +35,16 @@ sections:
           ***
 
 
-          I train your team on the approaches, tools and frameworks, applied to real-life problems that they are prepared to share in a group training setting. Examples of programme:
+          I train your team on the approaches, tools and frameworks, applied to
+          real-life problems that they are prepared to share in a group training
+          setting. Examples of programme:
 
 
           *   5-week MasterClass in Approach to Complex Systems Challenges
 
 
-          *   3-day Module Programmes: Futures Thinking, Systems Thinking, Design Thinking, Psychological Approach to Change Management
+          *   3-day Module Programmes: Futures Thinking, Systems Thinking,
+          Design Thinking, Psychological Approach to Change Management
         type: grid_item
         actions: []
         title_align: left
@@ -51,7 +57,9 @@ sections:
           ***
 
 
-          To support project teams in gaining self-mastery and confidence required to guide difficult change management, and provide psychological tools for intervention in change management.
+          To support project teams in gaining self-mastery and confidence
+          required to guide difficult change management, and provide
+          psychological tools for intervention in change management.
         type: grid_item
         actions: []
         title_align: left
@@ -69,7 +77,9 @@ sections:
           ***
 
 
-          A quick intervention to point you in the right direction. I review your research, problem-framing and intended action plan, and help you ask the right questions and sharpen your problem definition.
+          A quick intervention to point you in the right direction. I review
+          your research, problem-framing and intended action plan, and help you
+          ask the right questions and sharpen your problem definition.
         type: grid_item
         actions: []
         title_align: left
@@ -86,30 +96,35 @@ sections:
     grid_items:
       - type: grid_item
         title: Lorem ipsum dolor sit amet consectetur?
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
       - type: grid_item
         title: Sagittis vitae et leo duis ut diam?
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
       - type: grid_item
         title: Viverra nam libero justo laoreet sit?
-        content: In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
+        content: >-
+          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
           amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
           nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
           tellus. Non enim praesent elementum facilisis.
       - type: grid_item
         title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
-        content: Blandit aliquam etiam erat velit. In massa tempor nec feugiat. Volutpat
-          maecenas volutpat blandit aliquam. Sem integer vitae justo eget magna
-          fermentum iaculis. Amet est placerat in egestas erat imperdiet sed
-          euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >-
+          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
+          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
+          eget magna fermentum iaculis. Amet est placerat in egestas erat
+          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
       - type: grid_item
         title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: Facilisis gravida neque convallis a cras semper auctor neque vitae.
+        content: >-
+          Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
           pulvinar neque laoreet suspendisse interdum consectetur libero.
     enable_cards: true
@@ -117,35 +132,35 @@ sections:
     has_border: false
     background_color: secondary
     grid_gap_vert: medium
-    title: You asked, we answered!
+    title: 'You asked, we answered!'
     padding_bottom: medium
     grid_gap_horiz: medium
     type: grid_section
 seo:
   type: stackbit_page_meta
-  title: Pricing
+  title: Services
   description: This is the pricing page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Services
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: What we do
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/about-3.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Services
-    - name: twitter:description
+    - name: 'twitter:description'
       value: What we do
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
 template: advanced
