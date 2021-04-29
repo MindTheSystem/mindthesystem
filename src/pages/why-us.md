@@ -65,7 +65,7 @@ sections:
     background_color: none
   - align: center
     grid_items:
-      - image_align: right
+      - image_align: left
         actions_align: left
         image_alt: Image of future world
         image_has_padding: true
