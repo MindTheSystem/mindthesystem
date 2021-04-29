@@ -71,7 +71,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         type: feature
         subtitle: Tackling complex system challenges
       - type: feature
