@@ -217,9 +217,8 @@ sections:
       - title: 1-day Intervention in Problem Framing
         title_align: left
         content: >
-          A quick intervention to point you in the right direction. I review
-          your research, problem-framing and intended action plan, and help you
-          ask the right questions and sharpen your problem definition.
+          A quick intervention to point you in the right direction. Reviewing
+          and sharpening your problem-framing.
         content_align: left
         actions:
           - url: '#'
