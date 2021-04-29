@@ -90,7 +90,9 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        For enquiries about our services or approach, please drop us a message
+        using the contact form.
       keyName: property
     - name: 'twitter:card'
       value: summary
