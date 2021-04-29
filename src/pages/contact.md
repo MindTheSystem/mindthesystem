@@ -99,6 +99,8 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        For enquiries about our services or approach, please drop us a message
+        using the contact form.
 template: advanced
 ---
