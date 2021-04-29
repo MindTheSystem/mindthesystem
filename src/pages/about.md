@@ -48,7 +48,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: About
-  description: This is the about us page
+  description: About our team
   extra:
     - name: 'og:type'
       value: website
@@ -57,10 +57,10 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: About our team.
       keyName: property
     - name: 'og:image'
-      value: images/about-1.jpg
+      value: /images/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -68,9 +68,9 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: About our team.
     - name: 'twitter:image'
-      value: images/about-1.jpg
+      value: /images/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---

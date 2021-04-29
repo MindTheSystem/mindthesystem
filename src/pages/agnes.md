@@ -1,8 +1,8 @@
 ---
 title: Agnes Kwek
 seo:
-  title: ""
-  description: ""
+  title: Agnes Kwek | MindTheSystem
+  description: 'About Agnes Kwek, Founder, MindTheSystem'
   robots: []
   extra: []
   type: stackbit_page_meta
