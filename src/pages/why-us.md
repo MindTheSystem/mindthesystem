@@ -152,14 +152,7 @@ sections:
           be co-opted as strategic contributors or partners, and at which stage
           of the process.
         content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 2 icon
         image_position: top
