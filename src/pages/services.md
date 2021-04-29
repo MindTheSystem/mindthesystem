@@ -11,7 +11,7 @@ sections:
     grid_items:
       - type: grid_item
         title: Project consultancy
-        subtitle: Optional subtitle
+        subtitle: Walk with me
         title_align: left
         content: >
           ***
