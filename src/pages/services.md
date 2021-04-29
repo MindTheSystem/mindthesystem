@@ -29,7 +29,7 @@ sections:
         actions_width: full-width
       - type: grid_item
         title: Training
-        subtitle: Optional subtitle
+        subtitle: Show me
         title_align: left
         content: >
           ***
