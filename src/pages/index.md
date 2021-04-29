@@ -165,7 +165,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /style-guide
+            url: /services
             style: link
             has_icon: true
             icon: arrow-right
