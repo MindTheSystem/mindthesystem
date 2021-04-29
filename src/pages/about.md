@@ -34,6 +34,7 @@ sections:
         align: left
         type: feature
         image: /images/agnes.png
+    background_color: secondary
   - type: cta_section
     title: Let's talk
     content: >
