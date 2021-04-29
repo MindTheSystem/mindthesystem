@@ -57,7 +57,7 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: About our team
       keyName: property
     - name: 'og:image'
       value: /images/mindthesystem-logo.jpg
