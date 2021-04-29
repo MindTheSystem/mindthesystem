@@ -53,18 +53,13 @@ sections:
         title: Business
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $39
 
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          To support project teams in gaining self-mastery and confidence
+          required to guide difficult change management, and provide
+          psychological tools for intervention in change management.
         content_align: left
         actions:
           - type: action
