@@ -26,14 +26,14 @@ sections:
         url: /features
         style: secondary
   - content: >
-      ### “At Pixar, \[Ed] Catmull probed both systems and processes, after both
-      wins and stumbles. How should the feedback process, for example, be
+      ##### “At Pixar, \[Ed] Catmull probed both systems and processes, after
+      both wins and stumbles. How should the feedback process, for example, be
       adjusted so a director is given the most valuable possible input, in a
       form most likely to be well received?...Catmull saw his job as minding the
       system rather than managing the projects.”
 
 
-      #####  - Safi Bahcall, Loonshots (2019)
+      ###### - Safi Bahcall, Loonshots (2019)
     actions: []
     actions_position: bottom
     actions_width: fourty
