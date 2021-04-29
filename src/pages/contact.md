@@ -84,8 +84,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: Let's talk
-    title_align: left
+  - title_align: left
     content: >
       For enquiries about our services or approach, please drop us a message
       using the contact form.
