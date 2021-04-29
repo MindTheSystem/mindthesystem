@@ -26,6 +26,7 @@ sections:
         label: Learn More
         url: /features
         style: secondary
+    image_alt: brainstorming by Gregor Cresnar from the Noun Project
   - type: features_section
     title: Why work with us?
     subtitle: Value proposition
