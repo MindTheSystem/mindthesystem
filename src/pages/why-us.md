@@ -192,17 +192,17 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
-      - input_type: email
-        name: Email
-        label: Email
-        default_value: Type your email address here...
-        options: []
-        is_required: true
-        type: form_field
       - input_type: text
         name: Name
         label: Name
         default_value: What's your name?
+        options: []
+        is_required: true
+        type: form_field
+      - input_type: email
+        name: Email
+        label: Email
+        default_value: Type your email address here...
         options: []
         is_required: true
         type: form_field
