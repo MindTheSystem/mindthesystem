@@ -64,7 +64,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        subtitle: Towards Momentum + Emergence
+        subtitle: Tackling complex system challenges
       - type: feature
         title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
