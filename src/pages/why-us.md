@@ -62,18 +62,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: Our approach
-        content: >
-          Through years of practical experience, we have broken down the
-          approach to complex problems into 4 systems, and have developed tools
-          to address each.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: center
-        type: feature
-        subtitle: Tackling complex system challenges
       - type: feature
         title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
