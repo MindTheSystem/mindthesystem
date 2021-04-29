@@ -175,8 +175,8 @@ sections:
       ## Learn more
 
 
-      Please drop your email and we'll send you a primer on our 4 systems
-      approach.
+      Please fill out the form on the right with your email and we'll send you a
+      primer PDF document on our 4 systems approach.
     content_align: left
     form_position: right
     form_width: fifty
