@@ -11,14 +11,7 @@ sections:
     features:
       - title: Agnes Kwek
         subtitle: 'Founder, MindTheSystem'
-        content: >
-          *Agnes has 20 years of career in the Singapore Government across
-          defence, labour policy, community organisation and social welfare,
-          public service innovation, land transport, and industry development.
-          Thanks to her stint at IDEO in San Francisco in 2013, she is a
-          policy-wonk-turned-designer; in particular, a systems designer focused
-          on complex economic and social issues. She loves combining futures
-          foresight, systems thinking and human-centred design.*
+        content: "Agnes has 20 years of career in the Singapore Government across defence, labour policy, community organisation and social welfare, public service innovation, land transport, and industry development.\_Thanks to her stint at IDEO in San Francisco in 2013, she is a policy-wonk-turned-designer; in particular, a\_systems designer focused on complex economic and social issues.\_She loves combining futures foresight, systems thinking and human-centred design.\n"
         actions:
           - url: /agnes
             style: link
