@@ -9,58 +9,44 @@ sections:
     features:
       - title: What is a complex systems challenge?
         content: >
-          Improving recycling rates. Re-invigorating a high street or town
-          centre. Tackling obesity. Improving access to social services or
-          education. Upskilling a workforce to prepare for job disruptions due
-          to technology. Kick-starting an industry alliance.
+          *   Complex problems:
+              Face constantly evolving environments
+              Are hard to define, and the desired outcomes equally hard to pin down
+              Cannot be addressed by one single solution, but rather require an infinite mindset of constant improvement of multiple solutions over time
+              Involve multiple stakeholders who might hold conflicting perspectives and values
 
 
-          These are all complex systems challenges characterized by 2 defining
-          properties. One, people don’t necessarily agree on the outcomes, and
-          even if they do, there are many different potential pathways. Two, the
-          outcomes depend on the actions of stakeholders outside your control,
-          and the interdependencies create unintended outcomes.
+          *Such challenges fall outside any one person’s or organisation’s
+          ability to define, predict and control.*
 
 
-          Inherent complexity are situations characterized by value conflicts
-          and ambiguity over objectives. They fall outside your ability to
-          control, to know, and to predict.
+          Improving access to social services, addressing recycling rates,
+          encouraging take up of public transport, safeguarding heritage, are
+          all examples of complex problems – or in fact, pretty much any area of
+          government that requires the politics, the policies, the service
+          delivery, citizens and communities to be aligned.
 
 
-          Complex system challenges are not limited to public policy. A
-          Thinkers50 report shows that the operating environment for many
-          businesses has morphed from a linear value chain model to that of a
-          complex ecosystem. Companies sometimes collaborate, sometimes compete,
-          to offer multiple services and products that cut across industry
-          lines.
+          But complex systems are not limited to the ambit of governments;
+          business models are evolving towards ecosystems, which require new
+          alliances, strategies and leadership practices (see [Thinkers50
+          report](https://thinkers50.com/thinkers50-books/ecosystems-inc/)).
 
 
-          Analysing strategy becomes about understanding the complex and
-          emergent networks of relationships. McKinsey estimated that just
-          twelve ecosystems will account for 30% of global revenues by 2025,
-          representing $60 trillion in revenues.
+          The key tension in solving complex problems is between forward
+          momentum and space for emergence. People, in wanting fast answers,
+          often default to the most obvious solution or tick-the-box mentality.
+          This does not solve complex problems.
 
 
-          You are trying to juggle all these variables in your head, but are
-          being pressed to take action. Changes in your external operating
-          environment is happening at an increased pace, competitors are pulling
-          ahead, and someone-up-there is demanding a response.
+          In complex problems there are different perspectives and conflicting
+          goals and unseen causal relationships. Complex problem-solving hence
+          require us to hold the space for discovery. The key tool of affecting
+          systems change is not command and control, but rather influence.
 
 
-          So you gravitate towards tried and tested methods, but all the while
-          harbouring this niggling suspicion of diminishing returns. You start
-          to see your
-
-          stakeholders lose interest and fade away from key engagements (look at
-          how many junior back-bencher staff replace key decision makers at your
-          meetings).
-
-
-          Sounds familiar?
-
-
-          That is because you are trying to use linear methods for complex,
-          emergent challenges.
+          But it is possible to make systematic progress, as long as we mind the
+          system of decision-making.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
