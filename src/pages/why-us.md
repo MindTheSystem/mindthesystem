@@ -168,14 +168,7 @@ sections:
           inspire action, and design a set of experiments to learn about
           possible interventions before you scale them.
         content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 3 icon
         image_position: top
