@@ -136,7 +136,7 @@ sections:
         image: /images/noun_Puzzle_1016136 Copy.svg
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: none
   - type: features_section
     features:
       - type: feature
