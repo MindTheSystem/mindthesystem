@@ -172,7 +172,7 @@ sections:
     background_color: none
   - title: Learn more
     subtitle: Get a copy of our primer to learn more
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
