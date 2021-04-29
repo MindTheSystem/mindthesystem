@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Why us
 sections:
   - type: hero_section
     title: Why work with us
