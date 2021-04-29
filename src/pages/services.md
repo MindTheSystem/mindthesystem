@@ -24,10 +24,6 @@ sections:
           *   Quisque eleifend imperdiet tortor
           *   Elementum eu rhoncus, volutpat
           *   Nisi cubilia interdum ultricies
-
-          ###
-
-          f
         content_align: left
         actions:
           - type: action
