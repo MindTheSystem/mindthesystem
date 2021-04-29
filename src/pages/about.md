@@ -6,6 +6,7 @@ sections:
     subtitle: Our background and experience
     align: center
     background_color: secondary
+    image: /images/Screen Shot 2021-04-29 at 8.55.00 AM.png
   - type: features_section
     features:
       - type: feature
