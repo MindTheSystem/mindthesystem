@@ -175,7 +175,7 @@ sections:
         image_align: left
         image_has_padding: true
       - type: grid_item
-        title: Section Item 4
+        title: 'System 4: The Self'
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
