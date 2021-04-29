@@ -28,6 +28,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/Screen Shot 2021-04-29 at 8.55.00 AM.png
       - type: feature
         title: Agnes Kwek
         subtitle: 'Founder, MindTheSystem'
