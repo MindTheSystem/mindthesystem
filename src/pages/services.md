@@ -86,7 +86,7 @@ sections:
     enable_cards: true
     padding_top: small
     padding_bottom: medium
-    has_border: false
+    has_border: true
     background_color: none
   - type: grid_section
     title: 'You asked, we answered!'
