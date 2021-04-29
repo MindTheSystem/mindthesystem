@@ -106,7 +106,10 @@ sections:
         title: 'System 1: Future Operating Environment'
         title_align: left
         content: >
-          #### What would our reality look like in the future; what are we
+          *Futures thinking*
+
+
+          ### What would our reality look like in the future; what are we
           solving towards?
 
 
