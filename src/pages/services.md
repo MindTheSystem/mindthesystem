@@ -130,10 +130,10 @@ seo:
       value: website
       keyName: property
     - name: og:title
-      value: Pricing
+      value: Services
       keyName: property
     - name: og:description
-      value: This is the pricing page
+      value: What we do
       keyName: property
     - name: og:image
       value: images/about-3.jpg
@@ -142,9 +142,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Pricing
+      value: Services
     - name: twitter:description
-      value: This is the pricing page
+      value: What we do
     - name: twitter:image
       value: images/about-3.jpg
       relativeUrl: true
