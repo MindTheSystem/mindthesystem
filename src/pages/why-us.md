@@ -69,17 +69,12 @@ sections:
         type: feature
       - title: 4 Behaviours towards Momentum + Emergence
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The key to tackling a complex systems challenge is balancing the
+          tension between forward momentum to drive decisions while holding the
+          space for emergence. This requires 4 types of behaviours from leaders
+          and their teams, that are rather different from traditional
+          decision-making.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
