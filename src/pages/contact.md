@@ -84,7 +84,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: lorem-ipsum
+  - title: Let's talk
     subtitle: lorem-ipsum
     title_align: left
     content: >
