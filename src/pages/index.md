@@ -272,7 +272,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: MindTheSystem
-  description: Tackling your complex system challenges.
+  description: Clarity for complex challenges.
   extra:
     - name: 'og:type'
       value: website
