@@ -136,6 +136,7 @@ sections:
     padding_bottom: medium
     grid_gap_horiz: medium
     type: grid_section
+    subtitle: Frequently asked questions
 seo:
   type: stackbit_page_meta
   title: Services
