@@ -119,14 +119,7 @@ sections:
           We help you break down the key drivers in your operating environment,
           and develop potential scenarios as a reality check.
         content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 1 icon
         image_position: top
