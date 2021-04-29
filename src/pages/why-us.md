@@ -197,7 +197,7 @@ sections:
         is_required: true
         type: form_field
     background_image_size: cover
-    form_id: primer
+    form_id: primer-pdf
     background_image_opacity: 0
     content: >
       ## Learn more
