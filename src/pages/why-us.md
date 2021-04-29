@@ -109,7 +109,7 @@ sections:
           *Futures thinking*
 
 
-          ### What would our reality look like in the future; what are we
+          #### What would our reality look like in the future; what are we
           solving towards?
 
 
