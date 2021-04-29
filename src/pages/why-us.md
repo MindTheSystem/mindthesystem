@@ -103,7 +103,9 @@ sections:
     subtitle: Interventions on 4 levels of systems
     grid_items:
       - type: grid_item
-        title: Section Item 1
+        title: >-
+          System 1: Future Operating Environment. What would our reality look
+          like in the future; what are we solving towards?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
