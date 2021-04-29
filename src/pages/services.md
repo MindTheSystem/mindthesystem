@@ -91,7 +91,7 @@ sections:
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
-    enable_cards: false
+    enable_cards: true
     padding_top: small
     padding_bottom: medium
     has_border: false
