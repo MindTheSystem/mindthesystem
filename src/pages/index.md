@@ -49,7 +49,7 @@ sections:
     type: cta_section
   - type: features_section
     title: Why work with us
-    subtitle: Value proposition
+    subtitle: Our value proposition
     features:
       - media_position: right
         image_alt: Feature 1 placeholder image
