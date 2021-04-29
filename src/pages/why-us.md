@@ -67,7 +67,7 @@ sections:
     grid_items:
       - image_align: left
         actions_align: left
-        image_alt: Item 1 icon
+        image_alt: futur
         image_has_padding: true
         image_position: top
         title: 'System 1: Future Operating Environment'
