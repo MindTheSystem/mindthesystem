@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Services
 sections:
   - type: hero_section
     title: Our services
