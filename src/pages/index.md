@@ -267,7 +267,7 @@ sections:
     actions:
       - type: action
         url: /features
-        style: secondary
+        style: primary
         label: Get in touch now
 seo:
   type: stackbit_page_meta

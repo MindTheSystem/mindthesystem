@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Explore Features
     subtitle: Features Page Demo
-    background_color: primary
+    background_color: none
   - type: features_section
     features:
       - type: feature
