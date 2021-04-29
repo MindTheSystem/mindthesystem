@@ -10,7 +10,7 @@ sections:
   - type: features_section
     features:
       - title: Agnes Kwek
-        subtitle: lorem-ipsum
+        subtitle: 'Founder, MindTheSystem'
         content: >-
           ## Lorem ipsum
 
