@@ -68,7 +68,6 @@ sections:
         align: left
         type: feature
       - title: 4 Behaviours towards Momentum + Emergence
-        subtitle: lorem-ipsum
         content: >
           The key to tackling a complex systems challenge is balancing the
           tension between forward momentum to drive decisions while holding the
