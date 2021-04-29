@@ -60,7 +60,7 @@ seo:
       value: This is the about us page
       keyName: property
     - name: 'og:image'
-      value: images/about-1.jpg
+      value: /images/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
