@@ -70,7 +70,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
-      value: images/about-1.jpg
+      value: /images/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---
