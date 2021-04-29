@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: Our background and experience
+    subtitle: About our team
     align: left
     background_color: secondary
     media_position: left
