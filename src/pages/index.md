@@ -159,12 +159,8 @@ sections:
         image_position: top
         title: Project consultancy with mentoring
         content: >
-          I am part of your team that tackles the problem and delivers the
-          strategy. While in the process of working on real-life problems, I
-          seek to develop
-
-          your team’s capabilities, but also ensure quality of inputs and
-          outputs required for decision making.
+          I am part of your team that tackles the problem, delivers the
+          strategy, while also building your team’s capabilities.
         type: grid_item
         actions:
           - type: action
