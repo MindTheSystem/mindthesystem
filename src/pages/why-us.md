@@ -173,17 +173,12 @@ sections:
   - title: Learn more
     subtitle: Get a copy of our primer to learn more
     title_align: center
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## We'll email you our primer
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Please drop your email and we'll send you a primer on our 4 systems
+      approach.
     content_align: left
     form_position: right
     form_width: fifty
