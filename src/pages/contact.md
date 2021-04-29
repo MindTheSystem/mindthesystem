@@ -117,7 +117,7 @@ sections:
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: text
         name: lorem-ipsum
