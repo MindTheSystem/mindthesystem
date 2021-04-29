@@ -67,7 +67,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-4 Behaviours towards Momentum + Emergence
+      - title: 4 Behaviours towards Momentum + Emergence
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
