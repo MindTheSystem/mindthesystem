@@ -96,10 +96,20 @@ sections:
     grid_items:
       - type: grid_item
         title: Why can't you do it all for us instead?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          You’ve noticed by now that my key approach is to build your internal
+          capabilities to explore the strategy
+
+          yourselves, instead of delivering a strategy to you.
+
+
+          That is because I believe that strategy cannot and should not be
+          outsourced. Complex systems are an increasing mainstay of our
+          challenges, and you need to know how to manage that strategy process.
+          It is also not about blindly following any methodology: any complex
+          systems inquiry must maintain enough unstructured space for
+          exploration, iteration, and divergence for surprises to emerge and be
+          exploited.
       - type: grid_item
         title: Sagittis vitae et leo duis ut diam?
         content: >-
