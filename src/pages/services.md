@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Our services
-    subtitle: Optional hero section subtitle
+    subtitle: What we do
     align: center
     padding_top: large
     padding_bottom: small
