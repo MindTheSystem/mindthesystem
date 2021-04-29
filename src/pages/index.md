@@ -26,17 +26,15 @@ sections:
         url: /features
         style: secondary
   - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ### “At Pixar, \[Ed] Catmull probed both systems and processes, after both
+      wins and stumbles. How should the feedback process, for example, be
+      adjusted so a director is given the most valuable possible input, in a
+      form most likely to be well received?...Catmull saw his job as minding the
+      system rather than managing the projects.”
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      #####  - Safi Bahcall, Loonshots (2019)
     actions: []
     actions_position: bottom
     actions_width: fourty
