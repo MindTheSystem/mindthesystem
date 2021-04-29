@@ -178,9 +178,8 @@ sections:
         image_position: top
         title: Training on methodology
         content: >
-          I will train your team on the approaches, tools and frameworks,
-          applied to real-life problems that they are prepared to share in a
-          group training setting.
+          Team training on the tools and frameworks using real-life problems in
+          a group training setting.
         type: grid_item
         actions:
           - type: action
