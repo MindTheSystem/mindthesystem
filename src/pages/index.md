@@ -52,7 +52,7 @@ sections:
     subtitle: Our value proposition
     features:
       - media_position: right
-        image_alt: Feature 1 placeholder image
+        image_alt: Checklist by Gregor Cresnar from the Noun Project
         media_width: fourty
         subtitle: >-
           We believe in equipping you with a sustained approach to complex
@@ -94,7 +94,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/noun_growth_1016135 copy.svg
-        image_alt: Feature 2 placeholder image
+        image_alt: growth by Gregor Cresnar from the Noun Project
         media_position: left
         media_width: fourty
         subtitle: 'We believe in developing your teams to solve complex problems. '
@@ -128,7 +128,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image_alt: lorem-ipsum
+        image_alt: Puzzle by Gregor Cresnar from the Noun Project
         media_position: right
         media_width: fourty
         align: left
