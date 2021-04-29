@@ -116,7 +116,7 @@ sections:
         options:
           - Enquiry about services
           - Enquiry about rate
-          - lorem-ipsum
+          - 'Enquiry about our '
         is_required: true
         type: form_field
       - input_type: text
