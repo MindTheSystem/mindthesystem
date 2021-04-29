@@ -180,7 +180,7 @@ sections:
     background_image_repeat: no-repeat
     has_border: false
     form_action: lorem-ipsum
-    background_color: secondary
+    background_color: none
     form_fields:
       - input_type: text
         name: Name
