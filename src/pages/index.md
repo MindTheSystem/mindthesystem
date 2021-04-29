@@ -159,17 +159,13 @@ sections:
         image_position: top
         title: Project consultancy with mentoring
         content: >
-          I am part of your team that tackles the problem and delivers the
-          strategy. While in the process of working on real-life problems, I
-          seek to develop
-
-          your team’s capabilities, but also ensure quality of inputs and
-          outputs required for decision making.
+          I am part of your team that tackles the problem, delivers the
+          strategy, while also building your team’s capabilities.
         type: grid_item
         actions:
           - type: action
             label: Learn More
-            url: /style-guide
+            url: /services
             style: link
             has_icon: true
             icon: arrow-right
@@ -182,14 +178,13 @@ sections:
         image_position: top
         title: Training on methodology
         content: >
-          I will train your team on the approaches, tools and frameworks,
-          applied to real-life problems that they are prepared to share in a
-          group training setting.
+          Team training on the tools and frameworks using real-life problems in
+          a group training setting.
         type: grid_item
         actions:
           - type: action
             label: Learn More
-            url: /style-guide
+            url: /services
             style: link
             has_icon: true
             icon: arrow-right
@@ -199,12 +194,11 @@ sections:
       - title: Cognitive Behavioural Coaching
         title_align: left
         content: >
-          To support project teams in gaining self-mastery and confidence
-          required to guide difficult change management, and provide
-          psychological tools for intervention in change management.
+          Self-mastery and confidence for project teams to implement difficult
+          change management.
         content_align: left
         actions:
-          - url: '#'
+          - url: /services
             style: link
             has_icon: true
             icon: arrow-right
@@ -223,12 +217,11 @@ sections:
       - title: 1-day Intervention in Problem Framing
         title_align: left
         content: >
-          A quick intervention to point you in the right direction. I review
-          your research, problem-framing and intended action plan, and help you
-          ask the right questions and sharpen your problem definition.
+          A quick intervention to point you in the right direction. Reviewing
+          and sharpening your problem-framing.
         content_align: left
         actions:
-          - url: '#'
+          - url: /services
             style: link
             has_icon: true
             icon: arrow-right
@@ -272,7 +265,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: MindTheSystem
-  description: Tackling your complex system challenges.
+  description: Clarity for complex challenges.
   extra:
     - name: 'og:type'
       value: website
@@ -281,7 +274,7 @@ seo:
       value: MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: Tackling your complex system challenges.
+      value: Clarity for complex challenges.
       keyName: property
     - name: 'og:image'
       value: /images/mindthesystem-logo.jpg
@@ -292,7 +285,7 @@ seo:
     - name: 'twitter:title'
       value: MindTheSystem
     - name: 'twitter:description'
-      value: Tackling your complex system challenges.
+      value: Clarity for complex challenges.
     - name: 'twitter:image'
       value: /images/mindthesystem-logo.jpg
       relativeUrl: true

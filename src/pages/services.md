@@ -7,12 +7,12 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-  - type: grid_section
+  - padding_top: small
     grid_items:
-      - type: grid_item
-        title: Project consultancy
+      - actions_align: left
+        actions_width: full-width
         subtitle: '"Walk with me"'
-        title_align: left
+        title: Project consultancy
         content: >
           ***
 
@@ -23,14 +23,14 @@ sections:
           strategy. While in the process of working on real-life problems, I
           seek to develop your team’s capabilities, but also ensure quality of
           inputs and outputs required for decision making.
-        content_align: left
+        type: grid_item
         actions: []
-        actions_align: left
-        actions_width: full-width
-      - type: grid_item
-        title: Training
-        subtitle: '"Show me"'
         title_align: left
+        content_align: left
+      - actions_align: left
+        actions_width: full-width
+        subtitle: '"Show me"'
+        title: Training
         content: >
           ***
 
@@ -45,14 +45,14 @@ sections:
 
           *   3-day Module Programmes: Futures Thinking, Systems Thinking,
           Design Thinking, Psychological Approach to Change Management
-        content_align: left
+        type: grid_item
         actions: []
-        actions_align: left
-        actions_width: full-width
-      - type: grid_item
-        title: Cognitive Behavioural Coaching
-        subtitle: '"Coach me"'
         title_align: left
+        content_align: left
+      - actions_align: left
+        actions_width: full-width
+        subtitle: '"Coach me"'
+        title: Cognitive Behavioural Coaching
         content: >
           ***
 
@@ -60,44 +60,69 @@ sections:
           To support project teams in gaining self-mastery and confidence
           required to guide difficult change management, and provide
           psychological tools for intervention in change management.
-        content_align: left
+        type: grid_item
         actions: []
-        actions_align: left
-        actions_width: full-width
-      - title: 1-day Intervention in Problem Framing
-        subtitle: '"Tell me"'
         title_align: left
-        content: >
-          A quick intervention to point you in the right direction. I review
-          your research, problem-framing and intended action plan, and help you
-          ask the right questions and sharpen your problem definition.
         content_align: left
-        actions: []
+      - image_align: left
+        image_width: fifty
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
         image_has_padding: false
+        image_position: top
+        subtitle: '"Tell me"'
+        title: 1-day Intervention in Problem Framing
+        content: >-
+          ***
+
+
+          A quick intervention to point you in the right direction. I review
+          your research, problem-framing and intended action plan, and help you
+          ask the right questions and sharpen your problem definition.
         type: grid_item
-    grid_cols: two
-    grid_gap_vert: small
-    grid_gap_horiz: small
+        actions: []
+        title_align: left
+        content_align: left
     enable_cards: true
-    padding_top: small
-    padding_bottom: medium
+    grid_cols: two
     has_border: false
     background_color: none
-  - type: grid_section
-    title: 'You asked, we answered!'
+    grid_gap_vert: small
+    padding_bottom: medium
+    grid_gap_horiz: small
+    type: grid_section
+  - padding_top: medium
     grid_items:
       - type: grid_item
-        title: Lorem ipsum dolor sit amet consectetur?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        title: Why can't you do it all for us instead?
+        content: >
+          You’ve noticed by now that my key approach is to build your internal
+          capabilities to explore the strategy
+
+          yourselves, instead of delivering a strategy to you.
+
+
+          That is because I believe that strategy cannot and should not be
+          outsourced. Complex systems are an increasing mainstay of our
+          challenges, and you need to know how to manage that strategy process.
+          It is also not about blindly following any methodology: any complex
+          systems inquiry must maintain enough unstructured space for
+          exploration, iteration, and divergence for surprises to emerge and be
+          exploited.
+
+
+          You will learn how to ask better questions, and demand higher
+          standards and the right approaches from all the consultants whom you
+          subsequently
+
+          work with, creating better outcomes for your stakeholders, and greater
+          confidence within your organization.
+
+
+          *Ultimately, our assessment of decision quality is not based on
+          whether the outcome was good or bad, but on whether the process was
+          sound (Kahneman, 2011).*
       - type: grid_item
         title: Sagittis vitae et leo duis ut diam?
         content: >-
@@ -125,40 +150,42 @@ sections:
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
           pulvinar neque laoreet suspendisse interdum consectetur libero.
-    grid_cols: two
-    grid_gap_vert: medium
-    grid_gap_horiz: medium
     enable_cards: true
-    padding_top: medium
-    padding_bottom: medium
+    grid_cols: two
     has_border: false
     background_color: secondary
+    grid_gap_vert: medium
+    title: Frequently Asked Questions
+    padding_bottom: medium
+    grid_gap_horiz: medium
+    type: grid_section
+    subtitle: 'You asked, we answered'
 seo:
   type: stackbit_page_meta
-  title: Pricing
-  description: This is the pricing page
+  title: Services
+  description: What we do
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: Services
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: What we do
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: /images/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Pricing
+      value: Services
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: What we do
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: /images/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---
