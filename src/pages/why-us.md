@@ -62,7 +62,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-    background_color: secondary
+    background_color: none
   - align: center
     grid_items:
       - image_align: left
