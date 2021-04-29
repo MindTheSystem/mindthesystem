@@ -163,6 +163,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/photo-1534185468818-f3eba1d779c0.jpeg
     enable_cards: true
     grid_cols: two
     background_color: secondary
