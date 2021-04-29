@@ -33,7 +33,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: /images/agnes.jpg
+        image: /images/agnes.png
   - type: cta_section
     title: Let's talk
     content: >
