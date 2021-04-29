@@ -114,7 +114,7 @@ sections:
         name: Subject
         label: Subject
         options:
-          - lorem-ipsum
+          - Enquiry about services
           - lorem-ipsum
           - lorem-ipsum
         is_required: true
