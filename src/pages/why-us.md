@@ -154,10 +154,19 @@ sections:
       - type: grid_item
         title: 'System 3: Purpose'
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          *Design thinking*
+
+
+          #### How do we agree on the new future, and take steps towards it? 
+
+
+          —
+
+
+          We help you and your stakeholders develop a collective vision that can
+          inspire action, and design a set of experiments to learn about
+          possible interventions before you scale them.
         content_align: left
         actions:
           - type: action
