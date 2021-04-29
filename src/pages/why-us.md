@@ -55,11 +55,9 @@ sections:
         type: feature
       - title: 4 Behaviours
         content: >
-          The key to tackling a complex systems challenge is balancing the
-          tension between forward momentum to drive decisions while holding the
-          space for emergence. This requires 4 types of behaviours from leaders
-          and their teams, that are rather different from traditional
-          decision-making.
+          Through years of practical experience, we have broken down the
+          approach to complex problems into 4 systems, and have developed tools
+          to address each.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
