@@ -121,7 +121,7 @@ sections:
           - Others
         is_required: true
         type: form_field
-      - input_type: text
+      - input_type: textarea
         name: Message
         label: Message
         default_value: lorem-ipsum
