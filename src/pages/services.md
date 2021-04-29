@@ -46,11 +46,7 @@ sections:
           *   3-day Module Programmes: Futures Thinking, Systems Thinking,
           Design Thinking, Psychological Approach to Change Management
         content_align: left
-        actions:
-          - type: action
-            label: Start with Premium
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - type: grid_item
