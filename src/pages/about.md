@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: About
     subtitle: About our team
-    align: left
+    align: center
     background_color: secondary
     media_position: left
   - type: features_section
