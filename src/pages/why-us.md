@@ -111,7 +111,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Interventions at 4 systems
+    title: Our approach
     subtitle: Our approach
     grid_items:
       - type: grid_item
