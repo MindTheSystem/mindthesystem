@@ -194,9 +194,9 @@ sections:
       - title: Cognitive Behavioural Coaching
         title_align: left
         content: >
-          To support project teams in gaining self-mastery and confidence
-          required to guide difficult change management, and provide
-          psychological tools for intervention in change management.
+          Self-mastery and confidence for project teams guide difficult change
+          management, and provide psychological tools for intervention in change
+          management.
         content_align: left
         actions:
           - url: '#'
