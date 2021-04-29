@@ -110,7 +110,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: text
+      - input_type: select
         name: Subject
         label: Subject
         options:
