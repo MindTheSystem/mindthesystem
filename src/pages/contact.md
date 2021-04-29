@@ -118,7 +118,7 @@ sections:
           - Enquiry about rate
           - Enquiry about our approach/work
           - Others
-          - lorem-ipsum
+          - Please select
         is_required: true
         type: form_field
       - input_type: text
