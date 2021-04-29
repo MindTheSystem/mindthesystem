@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: Section Title One
+        title: About our founder
         subtitle: >-
           Agnes has 20 years of career in the Singapore Government across
           defence, labour policy, community organisation and social welfare,
