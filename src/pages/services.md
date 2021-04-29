@@ -67,17 +67,12 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          A quick intervention to point you in the right direction. I review
+          your research, problem-framing and intended action plan, and help you
+          ask the right questions and sharpen your problem definition.
         content_align: left
         actions: []
         actions_align: left
