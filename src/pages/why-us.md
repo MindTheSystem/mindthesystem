@@ -80,6 +80,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        subtitle: towards Momentum + Emergence
       - type: feature
         title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
