@@ -204,7 +204,7 @@ sections:
         label: Name
         default_value: What's your name?
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     align_vert: top
