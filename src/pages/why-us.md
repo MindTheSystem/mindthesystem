@@ -105,10 +105,16 @@ sections:
       - type: grid_item
         title: 'System 1: Future Operating Environment'
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          #### What would our reality look like in the future; what are we
+          solving towards?
+
+
+          —
+
+
+          We help you break down the key drivers in your operating environment,
+          and develop potential scenarios as a reality check.
         content_align: left
         actions:
           - type: action
