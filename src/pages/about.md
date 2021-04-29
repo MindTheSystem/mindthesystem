@@ -5,7 +5,7 @@ sections:
     title: About
     subtitle: About our team
     align: center
-    background_color: secondary
+    background_color: none
     media_position: left
   - type: features_section
     features:
