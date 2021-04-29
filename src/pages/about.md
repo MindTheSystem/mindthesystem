@@ -20,8 +20,7 @@ sections:
           on complex economic and social issues. She loves combining futures
           foresight, systems thinking and human-centred design.*
         actions:
-          - label: Read More
-            url: '#'
+          - url: '#'
             style: link
             has_icon: true
             icon: arrow-right
