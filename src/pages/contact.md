@@ -129,7 +129,9 @@ sections:
         is_required: true
         type: form_field
       - input_type: checkbox
-        label: lorem-ipsum
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
         default_value: lorem-ipsum
         options: []
         is_required: false
