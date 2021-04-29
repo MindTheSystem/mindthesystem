@@ -7,7 +7,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: What is a Complex systems challenge?
+      - title: What is a complex systems challenge?
         content: >
           Improving recycling rates. Re-invigorating a high street or town
           centre. Tackling obesity. Improving access to social services or
