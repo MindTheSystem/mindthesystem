@@ -68,7 +68,7 @@ sections:
       - image_align: left
         actions_align: left
         image_alt: Image of future world
-        image_has_padding: true
+        image_has_padding: false
         image_position: top
         title: 'System 1: Future Operating Environment'
         content: >-
