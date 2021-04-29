@@ -194,7 +194,7 @@ sections:
     form_fields:
       - input_type: email
         name: Email
-        label: 'Type your email '
+        label: Type your email address here...
         default_value: lorem-ipsum
         options: []
         is_required: false
