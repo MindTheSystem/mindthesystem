@@ -175,7 +175,7 @@ sections:
     padding_top: medium
     align_vert: top
     form_width: fifty
-    enable_card: true
+    enable_card: false
     submit_label: Submit
     background_image_repeat: no-repeat
     has_border: false
