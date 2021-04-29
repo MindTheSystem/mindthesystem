@@ -134,6 +134,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        name: Permission
     submit_label: Submit
     align_vert: top
     padding_top: medium
