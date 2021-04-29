@@ -88,6 +88,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/photo-1498084393753-b411b2d26b34.jpeg
       - image_align: left
         actions_align: left
         image_alt: Item 2 icon
