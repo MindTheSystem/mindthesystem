@@ -133,7 +133,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: Permission
     submit_label: Submit
