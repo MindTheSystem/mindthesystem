@@ -95,7 +95,7 @@ sections:
   - padding_top: medium
     grid_items:
       - type: grid_item
-        title: Lorem ipsum dolor sit amet consectetur?
+        title: Why can't you do it all for us instead?
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
