@@ -5,6 +5,61 @@ sections:
     title: Why work with us
     subtitle: Our value proposition
     background_color: none
+    content: >
+      ### What is a Complex Systems Challenge?
+
+
+      Improving recycling rates. Re-invigorating a high street or town centre.
+      Tackling obesity. Improving access to social services or education.
+      Upskilling a workforce to prepare for job disruptions due to technology.
+      Kick-starting an industry alliance.
+
+
+      These are all complex systems challenges characterized by 2 defining
+      properties. One, people don’t necessarily agree on the outcomes, and even
+      if they do, there are many different potential pathways. Two, the outcomes
+      depend on the actions of stakeholders outside your control, and the
+      interdependencies create unintended outcomes.
+
+
+      Inherent complexity are situations characterized by value conflicts and
+      ambiguity over objectives. They fall outside your ability to control, to
+      know, and to predict.
+
+
+      Complex system challenges are not limited to public policy. A Thinkers50
+      report shows that the operating environment for many businesses has
+      morphed from a linear value chain model to that of a complex ecosystem.
+      Companies sometimes collaborate, sometimes compete, to offer multiple
+      services and products that cut across industry lines.
+
+
+      Analysing strategy becomes about understanding the complex and emergent
+      networks of relationships. McKinsey estimated that just twelve ecosystems
+      will account for 30% of global revenues by 2025, representing $60 trillion
+      in revenues.
+
+
+      You are trying to juggle all these variables in your head, but are being
+      pressed to take action. Changes in your external operating environment is
+      happening at an increased pace, competitors are pulling ahead, and
+      someone-up-there is demanding a response.
+
+
+      So you gravitate towards tried and tested methods, but all the while
+      harbouring this niggling suspicion of diminishing returns. You start to
+      see your
+
+      stakeholders lose interest and fade away from key engagements (look at how
+      many junior back-bencher staff replace key decision makers at your
+      meetings).
+
+
+      Sounds familiar?
+
+
+      That is because you are trying to use linear methods for complex, emergent
+      challenges.
   - type: features_section
     features:
       - type: feature
