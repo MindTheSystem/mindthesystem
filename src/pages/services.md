@@ -24,11 +24,7 @@ sections:
           seek to develop your team’s capabilities, but also ensure quality of
           inputs and outputs required for decision making.
         content_align: left
-        actions:
-          - type: action
-            label: Start with Personal
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - type: grid_item
