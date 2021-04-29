@@ -53,7 +53,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: 4 Behaviours
+      - title: Our approach
         content: >
           Through years of practical experience, we have broken down the
           approach to complex problems into 4 systems, and have developed tools
