@@ -64,7 +64,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
-      - title: lorem-ipsum
+      - title: 1-day Intervention in Problem Framing
         subtitle: lorem-ipsum
         title_align: left
         content: >
