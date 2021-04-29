@@ -62,7 +62,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-    background_color: secondary
+    background_color: none
   - align: center
     grid_items:
       - image_align: left
@@ -164,7 +164,7 @@ sections:
         content_align: left
     enable_cards: true
     grid_cols: two
-    background_color: none
+    background_color: secondary
     grid_gap_vert: medium
     subtitle: Interventions on 4 levels of systems
     title: Our holistic approach
@@ -180,7 +180,7 @@ sections:
     background_image_repeat: no-repeat
     has_border: false
     form_action: lorem-ipsum
-    background_color: secondary
+    background_color: none
     form_fields:
       - input_type: text
         name: Name

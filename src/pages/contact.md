@@ -45,7 +45,7 @@ sections:
         options:
           - Please select
           - Enquiry about services
-          - Enquiry about rate
+          - Enquiry about rates
           - Enquiry about our approach/work
           - Others
         is_required: true
