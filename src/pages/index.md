@@ -33,7 +33,7 @@ sections:
       system rather than managing the projects.”
 
 
-      ###### - Safi Bahcall, Loonshots (2019)
+      *- Safi Bahcall, Loonshots (2019)*
     actions: []
     actions_position: bottom
     actions_width: fourty
