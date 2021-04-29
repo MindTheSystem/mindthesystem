@@ -171,7 +171,7 @@ sections:
     align: center
     background_color: none
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Learn more
     title_align: left
     content: >-
       ## Lorem ipsum
