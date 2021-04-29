@@ -117,7 +117,7 @@ sections:
           - Enquiry about services
           - Enquiry about rate
           - Enquiry about our approach/work
-          - lorem-ipsum
+          - Others
           - lorem-ipsum
         is_required: true
         type: form_field
