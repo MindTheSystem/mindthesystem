@@ -7,6 +7,7 @@ sections:
     align: left
     background_color: secondary
     image: /images/Screen Shot 2021-04-29 at 8.55.00 AM.png
+    media_position: right
   - type: features_section
     features:
       - type: feature
