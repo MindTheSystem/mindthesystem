@@ -248,7 +248,7 @@ sections:
     grid_cols: four
     background_color: none
     grid_gap_vert: small
-    subtitle: Our offerings
+    subtitle: Our services
     title: What we do
     grid_gap_horiz: medium
     type: grid_section
