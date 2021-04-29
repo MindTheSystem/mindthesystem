@@ -26,10 +26,6 @@ sections:
         align: left
         type: feature
         image: /images/Screen Shot 2021-04-29 at 8.55.00 AM.png
-      - type: feature
-        image_alt: People in conversation in the office lounge area
-        media_position: left
-        media_width: thirty-three
   - type: cta_section
     title: Let's talk
     content: >
