@@ -193,14 +193,7 @@ sections:
           ambiguity, embracing different perspectives, pivoting quickly, and
           assuring others to do the same.
         content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 4 icon
         image_position: top
