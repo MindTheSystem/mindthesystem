@@ -27,7 +27,7 @@ sections:
         actions:
           - label: Start with consultancy
             url: /contact
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
