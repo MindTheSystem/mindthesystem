@@ -28,7 +28,7 @@ sections:
         title_align: left
         content_align: left
         image: /images/consultancy.png
-        image_has_padding: false
+        image_has_padding: true
       - actions_align: left
         actions_width: full-width
         subtitle: '"Show me"'
