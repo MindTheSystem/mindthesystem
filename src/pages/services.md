@@ -24,16 +24,7 @@ sections:
           seek to develop your team’s capabilities, but also ensure quality of
           inputs and outputs required for decision making.
         type: grid_item
-        actions:
-          - label: Start with consultancy
-            url: /contact
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         title_align: left
         content_align: left
         image: /images/consultancy.svg
