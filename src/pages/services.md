@@ -10,7 +10,7 @@ sections:
   - padding_top: small
     grid_items:
       - actions_align: left
-        actions_width: full-width
+        actions_width: auto
         subtitle: '"Walk with me"'
         title: Project consultancy
         content: >
