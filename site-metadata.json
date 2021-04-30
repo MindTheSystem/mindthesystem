@@ -58,7 +58,7 @@
         "type": "footer",
         "logo": "/images/mindthesystem-logo-300px.png",
         "logo_alt": "MindTheSystem logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_title": "Blog",
         "primary_nav_links": [
             {
