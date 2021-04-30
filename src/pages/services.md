@@ -27,7 +27,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
-        image: /images/consultancy.png
+        image: /images/classic/icon-3.svg
         image_has_padding: true
       - actions_align: left
         actions_width: full-width
