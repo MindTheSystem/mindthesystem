@@ -27,6 +27,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/consultancy.png
       - actions_align: left
         actions_width: full-width
         subtitle: '"Show me"'
