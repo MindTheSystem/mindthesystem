@@ -141,7 +141,7 @@
             {
                 "type": "action",
                 "label": "Services",
-                "url": "/blog/category/general",
+                "url": "/services",
                 "style": "link"
             },
             {
