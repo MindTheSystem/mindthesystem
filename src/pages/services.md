@@ -26,7 +26,7 @@ sections:
         type: grid_item
         actions:
           - label: Start with consultancy
-            url: '#'
+            url: /contact
             style: link
             has_icon: false
             icon: arrow-left
