@@ -18,12 +18,12 @@ sections:
     type: hero_section
     actions:
       - type: action
-        label: Contact us
-        url: /pricing
+        label: Learn more
+        url: /why-us
         style: primary
       - type: action
-        label: Learn More
-        url: /features
+        label: Contact us
+        url: /contact
         style: secondary
   - content: >
       ##### “At Pixar, \[Ed] Catmull probed both systems and processes, after
