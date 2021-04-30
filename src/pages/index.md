@@ -22,7 +22,7 @@ sections:
         url: /why-us
         style: primary
       - type: action
-        label: Learn More
+        label: Contact us
         url: /why-us
         style: secondary
   - content: >
