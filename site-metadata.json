@@ -140,7 +140,7 @@
             },
             {
                 "type": "action",
-                "label": "General",
+                "label": "Services",
                 "url": "/blog/category/general",
                 "style": "link"
             },
