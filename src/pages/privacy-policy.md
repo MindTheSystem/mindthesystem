@@ -3,42 +3,78 @@ title: Privacy Policy
 seo:
   type: stackbit_page_meta
   title: Privacy Policy
-  description: This is the privacy policy page
+  description: Privacy Policy for MindTheSystem Pte Ltd
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Privacy Policy
       keyName: property
-    - name: 'og:description'
-      value: This is the privacy policy page
+    - name: og:description
+      value: Privacy Policy for MindTheSystem Pte Ltd
       keyName: property
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Privacy Policy
-    - name: 'twitter:description'
-      value: This is the privacy policy page
+    - name: twitter:description
+      value: Privacy Policy for MindTheSystem Pte Ltd
 template: page
 ---
+<p>At MindTheSystem, accessible from https://mindthesystem.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by MindTheSystem and how we use it.</p>
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. Our Privacy Policy was created with the help of the <a href="https://www.generateprivacypolicy.com">Privacy Policy Generator</a>.</p>
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
+<h2>Log Files</h2>
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
+<p>MindTheSystem follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
 
-### Morbi Egestas Ullamcorper Vulputate
+<h2>Cookies and Web Beacons</h2>
 
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+<p>Like any other website, MindTheSystem uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
 
-### Donec Vitae Tincidunt Erat
+<p>For more general information on cookies, please read <a href="https://www.privacypolicyonline.com/what-are-cookies/">"What Are Cookies" from Cookie Consent</a>.</p>
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+<h2>Google DoubleClick DART Cookie</h2>
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
+<p>Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
 
-## Aliquam at Velit eu Elit Iaculis Cursus
+<h2>Our Advertising Partners</h2>
 
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+<p>Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.</p>
+
+<ul>
+    <li>
+        <p>Google</p>
+        <p><a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
+    </li>
+</ul>
+
+<h2>Privacy Policies</h2>
+
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of MindTheSystem.</p>
+
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on MindTheSystem, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+
+<p>Note that MindTheSystem has no access to or control over these cookies that are used by third-party advertisers.</p>
+
+<h2>Third Party Privacy Policies</h2>
+
+<p>MindTheSystem's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?</p>
+
+<h2>Children's Information</h2>
+
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+
+<p>MindTheSystem does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+
+<h2>Online Privacy Policy Only</h2>
+
+<p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in MindTheSystem. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+
+<h2>Consent</h2>
+
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
