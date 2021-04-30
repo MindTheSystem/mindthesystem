@@ -26,7 +26,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: /images/agnes.png
+        image: /images/agnes-greyback.png
     background_color: none
   - type: cta_section
     title: Let's talk
