@@ -163,7 +163,20 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; MindTheSystem. All rights reserved."
+        "content": "&copy; MindTheSystem. All rights reserved. Made by",
+        "links": [
+            {
+                "label": "Sweet Jam Sites",
+                "url": "https://sweetjamsites.com",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-right",
+                "icon_position": "right",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://mindthesystem.netlify.app",
     "favicon": "/images/favicon.png"
