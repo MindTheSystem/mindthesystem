@@ -59,19 +59,7 @@
         "logo": "/images/mindthesystem-logo-300px.png",
         "logo_alt": "MindTheSystem logo",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_title": "Company",
         "secondary_nav_links": [
