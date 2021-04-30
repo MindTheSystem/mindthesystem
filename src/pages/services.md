@@ -99,74 +99,33 @@ sections:
     padding_bottom: medium
     grid_gap_horiz: small
     type: grid_section
-  - padding_top: medium
-    grid_items:
-      - type: grid_item
-        title: Why can't you do it all for us instead?
-        content: >
-          You’ve noticed by now that my key approach is to build your internal
-          capabilities to explore the strategy
-
-          yourselves, instead of delivering a strategy to you.
-
-
-          That is because I believe that strategy cannot and should not be
-          outsourced. Complex systems are an increasing mainstay of our
-          challenges, and you need to know how to manage that strategy process.
-          It is also not about blindly following any methodology: any complex
-          systems inquiry must maintain enough unstructured space for
-          exploration, iteration, and divergence for surprises to emerge and be
-          exploited.
-
-
-          You will learn how to ask better questions, and demand higher
-          standards and the right approaches from all the consultants whom you
-          subsequently
-
-          work with, creating better outcomes for your stakeholders, and greater
-          confidence within your organization.
-
-
-          *Ultimately, our assessment of decision quality is not based on
-          whether the outcome was good or bad, but on whether the process was
-          sound (Kahneman, 2011).*
-      - type: grid_item
-        title: Sagittis vitae et leo duis ut diam?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-      - type: grid_item
-        title: Viverra nam libero justo laoreet sit?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
-      - type: grid_item
-        title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
-      - type: grid_item
-        title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
-    enable_cards: true
-    grid_cols: two
-    has_border: false
-    background_color: secondary
-    grid_gap_vert: medium
-    title: Frequently Asked Questions
+  - title: Let's talk
+    content: >
+      Unlike other consultants, we love to understand your context first before
+      offering any advice or service. This way we can be sure you get what you
+      truly need, tailored to you.
+    actions:
+      - label: Get in touch now
+        url: /contact
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: medium
     padding_bottom: medium
-    grid_gap_horiz: medium
-    type: grid_section
-    subtitle: 'You asked, we answered'
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
 seo:
   type: stackbit_page_meta
   title: Services
