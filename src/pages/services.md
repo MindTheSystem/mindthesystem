@@ -24,7 +24,16 @@ sections:
           seek to develop your team’s capabilities, but also ensure quality of
           inputs and outputs required for decision making.
         type: grid_item
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         title_align: left
         content_align: left
         image: /images/consultancy.svg
