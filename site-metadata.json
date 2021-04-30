@@ -147,7 +147,7 @@
             {
                 "type": "action",
                 "label": "About",
-                "url": "/blog/category/tutorials",
+                "url": "/about",
                 "style": "link"
             }
         ],
