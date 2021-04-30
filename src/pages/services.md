@@ -52,6 +52,7 @@ sections:
         title_align: left
         content_align: left
         image: /images/training.svg
+        image_has_padding: true
       - actions_align: left
         actions_width: full-width
         subtitle: '"Coach me"'
