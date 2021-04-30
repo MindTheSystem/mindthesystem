@@ -27,7 +27,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
-        image: /images/classic/icon-3.svg
+        image: /images/consultancy.svg
         image_has_padding: true
       - actions_align: left
         actions_width: full-width
@@ -51,6 +51,8 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/training.svg
+        image_has_padding: true
       - actions_align: left
         actions_width: full-width
         subtitle: '"Coach me"'
@@ -66,12 +68,14 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/coaching.svg
+        image_has_padding: true
       - image_align: left
         image_width: fifty
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
-        image_has_padding: false
+        image_has_padding: true
         image_position: top
         subtitle: '"Tell me"'
         title: 1-day Intervention in Problem Framing
@@ -86,6 +90,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/1dayintervention.svg
     enable_cards: true
     grid_cols: two
     has_border: false
