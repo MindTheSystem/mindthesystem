@@ -19,7 +19,7 @@ sections:
     actions:
       - type: action
         label: Contact us
-        url: /cont
+        url: /why-us
         style: primary
       - type: action
         label: Learn More
