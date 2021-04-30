@@ -61,17 +61,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "General",
-                "url": "/blog/category/general",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Tutorials",
                 "url": "/blog/category/tutorials",
                 "style": "link",
