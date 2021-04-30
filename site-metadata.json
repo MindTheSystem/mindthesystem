@@ -135,7 +135,7 @@
             {
                 "type": "action",
                 "label": "Why us",
-                "url": "/blog/category/news",
+                "url": "/why-us",
                 "style": "link"
             },
             {
