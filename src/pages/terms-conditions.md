@@ -3,7 +3,7 @@ title: Terms & Conditions
 seo:
   type: stackbit_page_meta
   title: Terms and Conditions
-  description: Terms and conditions
+  description: Terms and conditions for MindTheSystem Pte Ltd
   extra:
     - name: og:type
       value: website
@@ -12,14 +12,14 @@ seo:
       value: Terms and Conditions
       keyName: property
     - name: og:description
-      value: Terms and Conditions
+      value: Terms and conditions for MindTheSystem Pte Ltd
       keyName: property
     - name: twitter:card
       value: summary
     - name: twitter:title
       value: Terms and Conditions
     - name: twitter:description
-      value: Terms and Conditions
+      value: Terms and conditions for MindTheSystem Pte Ltd
 template: page
 ---
 <p>Welcome to MindTheSystem!</p>
