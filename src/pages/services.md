@@ -90,6 +90,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
+        image: /images/1dayintervention.svg
     enable_cards: true
     grid_cols: two
     has_border: false
