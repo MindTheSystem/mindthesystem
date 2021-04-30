@@ -25,7 +25,7 @@ sections:
           inputs and outputs required for decision making.
         type: grid_item
         actions:
-          - label: 'Start with '
+          - label: Start with consultancy
             url: '#'
             style: link
             has_icon: false
