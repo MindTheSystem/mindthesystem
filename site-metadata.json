@@ -59,8 +59,10 @@
         "logo": "/images/mindthesystem-logo-300px.png",
         "logo_alt": "MindTheSystem logo",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
-        "primary_nav_links": [
+        "primary_nav_links": [],
+        "has_secondary_nav": true,
+        "secondary_nav_title": "Company",
+        "secondary_nav_links": [
             {
                 "type": "action",
                 "label": "Why us",
@@ -68,15 +70,10 @@
                 "style": "link"
             },
             {
+                "type": "action",
                 "label": "Services",
                 "url": "/services",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
+                "style": "link"
             },
             {
                 "type": "action",
@@ -94,28 +91,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            }
-        ],
-        "has_secondary_nav": false,
-        "secondary_nav_title": "Blog",
-        "secondary_nav_links": [
-            {
-                "type": "action",
-                "label": "News",
-                "url": "/blog/category/news",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "General",
-                "url": "/blog/category/general",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": true,
