@@ -62,12 +62,6 @@
         "primary_nav_title": "Blog",
         "primary_nav_links": [
             {
-                "type": "action",
-                "label": "Why us",
-                "url": "/why-us",
-                "style": "link"
-            },
-            {
                 "label": "Services",
                 "url": "/services",
                 "style": "link",
