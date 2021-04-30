@@ -105,7 +105,7 @@ sections:
       offering any advice or service. This way we can be sure you get what you
       truly need, tailored to you.
     actions:
-      - label: lorem-ipsum
+      - label: Get in tpuch now
         url: '#'
         style: link
         has_icon: false
