@@ -21,10 +21,6 @@ sections:
         label: Learn more
         url: /why-us
         style: primary
-      - type: action
-        label: Contact us
-        url: /contact
-        style: secondary
   - content: >
       ##### “At Pixar, \[Ed] Catmull probed both systems and processes, after
       both wins and stumbles. How should the feedback process, for example, be
