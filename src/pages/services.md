@@ -69,6 +69,7 @@ sections:
         title_align: left
         content_align: left
         image: /images/coaching.svg
+        image_has_padding: true
       - image_align: left
         image_width: fifty
         actions_align: left
