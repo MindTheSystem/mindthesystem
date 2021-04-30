@@ -18,7 +18,7 @@ sections:
     type: hero_section
     actions:
       - type: action
-        label: Contact us
+        label: Learn more
         url: /why-us
         style: primary
       - type: action
