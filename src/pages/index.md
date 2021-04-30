@@ -23,7 +23,7 @@ sections:
         style: primary
       - type: action
         label: Contact us
-        url: /why-us
+        url: /contact
         style: secondary
   - content: >
       ##### “At Pixar, \[Ed] Catmull probed both systems and processes, after
