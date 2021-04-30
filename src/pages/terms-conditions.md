@@ -22,8 +22,6 @@ seo:
       value: Terms and Conditions
 template: page
 ---
-<h2><strong>Terms and Conditions</strong></h2>
-
 <p>Welcome to MindTheSystem!</p>
 
 <p>These terms and conditions outline the rules and regulations for the use of MindTheSystem Pte Ltd's Website, located at https://mindthesystem.com.</p>
