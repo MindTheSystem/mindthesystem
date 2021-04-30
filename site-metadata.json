@@ -62,12 +62,6 @@
         "primary_nav_title": "Blog",
         "primary_nav_links": [
             {
-                "type": "action",
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link",
