@@ -105,7 +105,7 @@ sections:
       offering any advice or service. This way we can be sure you get what you
       truly need, tailored to you.
     actions: []
-    actions_position: bottom
+    actions_position: right
     actions_width: fourty
     align: left
     padding_top: medium
