@@ -99,7 +99,7 @@ sections:
     padding_bottom: medium
     grid_gap_horiz: small
     type: grid_section
-  - title: lorem-ipsum
+  - title: Let's talk
     content: >-
       ## Lorem ipsum
 
