@@ -75,7 +75,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
-        image_has_padding: false
+        image_has_padding: true
         image_position: top
         subtitle: '"Tell me"'
         title: 1-day Intervention in Problem Framing
