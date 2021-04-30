@@ -96,7 +96,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "News",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
