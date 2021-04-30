@@ -69,12 +69,6 @@
         "primary_nav_links": [
             {
                 "type": "action",
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Why us",
                 "url": "/why-us",
                 "style": "link"
@@ -89,6 +83,12 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "type": "action",
+                "label": "About",
+                "url": "/about",
+                "style": "link"
             },
             {
                 "label": "Contact",
