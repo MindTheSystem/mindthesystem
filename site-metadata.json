@@ -108,7 +108,7 @@
             },
             {
                 "label": "General",
-                "url": "#",
+                "url": "/blog/category/general",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
