@@ -146,7 +146,7 @@
             },
             {
                 "type": "action",
-                "label": "Tutorials",
+                "label": "About",
                 "url": "/blog/category/tutorials",
                 "style": "link"
             }
