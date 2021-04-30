@@ -197,8 +197,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; MindTheSystem. All rights reserved.",
-        "primary_nav_title": "Blog"
+        "content": "&copy; MindTheSystem. All rights reserved."
     },
     "domain": "https://mindthesystem.netlify.app",
     "favicon": "/images/favicon.png"
