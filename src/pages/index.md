@@ -69,7 +69,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/noun_Checklist_1016151 Copy.svg
+        image: /images/system.png
       - type: feature
         title: Growth alongside consulting
         content: >
