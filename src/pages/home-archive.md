@@ -45,7 +45,7 @@ sections:
           How do the incentives we have in place affect our decision-making?
           Should they be changed?”
         type: feature
-        image: images/classic/feature-1.png
+        image: /images/Group 196.svg
         actions:
           - type: action
             label: Learn More
