@@ -89,7 +89,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/noun_growth_1016135 copy.svg
+        image: /images/growth.png
         image_alt: growth by Gregor Cresnar from the Noun Project
         media_position: left
         media_width: fourty
