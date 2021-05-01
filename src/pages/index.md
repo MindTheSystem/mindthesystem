@@ -129,7 +129,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-        image: /images/noun_Puzzle_1016136 Copy.svg
+        image: /images/4systems.png
     feature_padding_vert: large
     align: center
     background_color: none
