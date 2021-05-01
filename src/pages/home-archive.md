@@ -99,7 +99,7 @@ sections:
             icon_position: right
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: none
   - type: features_section
     features:
       - type: feature
