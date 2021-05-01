@@ -69,7 +69,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/noun_Checklist_1016151 Copy.svg
+        image: /images/system.png
       - type: feature
         title: Growth alongside consulting
         content: >
@@ -89,7 +89,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/noun_growth_1016135 copy.svg
+        image: /images/growth.png
         image_alt: growth by Gregor Cresnar from the Noun Project
         media_position: left
         media_width: fourty
@@ -129,7 +129,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-        image: /images/noun_Puzzle_1016136 Copy.svg
+        image: /images/4systems.png
     feature_padding_vert: large
     align: center
     background_color: none
