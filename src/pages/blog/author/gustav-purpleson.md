@@ -23,7 +23,7 @@ sections:
     has_border: true
   - type: form_section
     title: Let's talk
-    title_align: center
+    title_align: left
     content: Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
     form_position: bottom
