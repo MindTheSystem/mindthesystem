@@ -2,7 +2,7 @@
 title: gustav-purpleson
 sections:
   - type: hero_section
-    title: Agnes Kwek
+    title: gustav-purpleson
     subtitle: Posts
     align: center
     padding_top: medium
