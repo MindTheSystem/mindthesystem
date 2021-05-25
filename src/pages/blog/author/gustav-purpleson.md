@@ -2,7 +2,7 @@
 title: gustav-purpleson
 sections:
   - type: hero_section
-    title: Gustav-purpleson
+    title: Gustav Purpleson
     subtitle: Posts
     align: center
     padding_top: medium
