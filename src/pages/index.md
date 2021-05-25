@@ -317,7 +317,7 @@ sections:
         url: /features
         style: primary
         label: Get in touch now
-  - title: lorem-ipsum
+  - title: Updates
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
