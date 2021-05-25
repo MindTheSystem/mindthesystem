@@ -33,13 +33,7 @@ sections:
     form_layout: inline
     form_id: subscribeForm
     form_action: /thank-you
-    form_fields:
-      - type: form_field
-        input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
+    form_fields: []
     submit_label: Subscribe
     padding_top: medium
     padding_bottom: medium
