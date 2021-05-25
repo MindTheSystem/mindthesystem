@@ -246,23 +246,6 @@ sections:
     title: What we do
     grid_gap_horiz: medium
     type: grid_section
-  - actions_width: fourty
-    align: left
-    padding_top: large
-    actions_position: right
-    background_color: primary
-    title: Let's talk
-    content: >
-      Unlike other consultants, we love to understand your context first before
-      offering any advice or service. This way we can be sure you get what you
-      truly need, tailored to you.
-    padding_bottom: large
-    type: cta_section
-    actions:
-      - type: action
-        url: /features
-        style: primary
-        label: Get in touch now
   - title: Our clients
     subtitle: Organisations we worked with
     actions: []
@@ -353,6 +336,23 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - actions_width: fourty
+    align: left
+    padding_top: large
+    actions_position: right
+    background_color: primary
+    title: Let's talk
+    content: >
+      Unlike other consultants, we love to understand your context first before
+      offering any advice or service. This way we can be sure you get what you
+      truly need, tailored to you.
+    padding_bottom: large
+    type: cta_section
+    actions:
+      - type: action
+        url: /features
+        style: primary
+        label: Get in touch now
 seo:
   type: stackbit_page_meta
   title: MindTheSystem
