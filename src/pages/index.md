@@ -168,8 +168,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/spectacular-panda.png
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
