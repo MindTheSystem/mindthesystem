@@ -33,7 +33,7 @@ sections:
     form_layout: inline
     form_id: subscribeForm
     form_fields: []
-    submit_label: Subscribe
+    submit_label: Get in touch noq
     padding_top: medium
     padding_bottom: medium
     has_border: true
