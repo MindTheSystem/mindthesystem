@@ -104,19 +104,21 @@ sections:
           approach to complex problems into 4 systems:
 
 
-          &nbsp;&nbsp;&nbsp;‎☑️ System 1: Future Operating Environment. What would our reality
-          look like in the future; what are we solving towards?
+          &nbsp;&nbsp;&nbsp;‎☑️ System 1: Future Operating Environment. What
+          would our reality look like in the future; what are we solving
+          towards?
 
 
-          &nbsp;&nbsp;&nbsp;☑️ System 2: Stakeholders. Who is or needs to be involved, and how?
+          &nbsp;&nbsp;&nbsp;☑️ System 2: Stakeholders. Who is or needs to be
+          involved, and how?
 
 
-          &nbsp;&nbsp;&nbsp;☑️ System 3: Purpose. How do we agree on the new future, and take
-          steps towards it?
+          &nbsp;&nbsp;&nbsp;☑️ System 3: Purpose. How do we agree on the new
+          future, and take steps towards it?
 
 
-          &nbsp;&nbsp;&nbsp;☑️ System 4: The Self. How am I prepared to guide this problem solving
-          and change?
+          &nbsp;&nbsp;&nbsp;☑️ System 4: The Self. How am I prepared to guide
+          this problem solving and change?
         actions:
           - label: Learn More
             url: '#'
@@ -261,6 +263,24 @@ sections:
         url: /features
         style: primary
         label: Get in touch now
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    grid_items: []
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
 seo:
   type: stackbit_page_meta
   title: MindTheSystem
