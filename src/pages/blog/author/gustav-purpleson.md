@@ -60,7 +60,7 @@ seo:
       value: Posts by Agnes Kwek
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Author archive page of Agnes Kwek
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
