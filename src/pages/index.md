@@ -64,7 +64,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /style-guide
+            url: /why-us
             style: primary
             has_icon: true
             icon: arrow-right
