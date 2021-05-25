@@ -9,7 +9,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image_alt: City Hall in Singapore
-image_alt: Post 1 placeholder image
+image_alt: City Hall in Singapore
 image_position: right
 seo:
   type: stackbit_page_meta
