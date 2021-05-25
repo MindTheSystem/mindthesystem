@@ -45,6 +45,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
+    form_width: sixty
 seo:
   type: stackbit_page_meta
   title: Posts by Gustav Purpleson
