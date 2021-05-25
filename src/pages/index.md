@@ -158,16 +158,7 @@ sections:
     grid_items:
       - title_align: center
         content_align: center
-        actions:
-          - label: Learn more
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-            url: '#'
+        actions: []
         actions_align: center
         actions_width: auto
         image_alt: HCLI
