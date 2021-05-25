@@ -294,7 +294,7 @@ sections:
         type: grid_item
     enable_cards: true
     grid_cols: four
-    background_color: none
+    background_color: secondary
     grid_gap_vert: small
     subtitle: Our services
     title: What we do
