@@ -326,7 +326,7 @@ sections:
     recent_count: 0
     show_date: true
     show_categories: true
-    show_author: false
+    show_author: true
     show_excerpt: false
     show_image: true
     align: center
