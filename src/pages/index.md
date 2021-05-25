@@ -160,7 +160,7 @@ sections:
         content_align: center
         actions:
           - label: Learn more
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
