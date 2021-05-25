@@ -1,5 +1,5 @@
 ---
-title: Gustav-purpleson
+title: Gustav Purpleson
 sections:
   - type: hero_section
     title: Agnes Kwek
