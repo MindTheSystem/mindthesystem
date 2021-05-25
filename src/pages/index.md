@@ -318,7 +318,7 @@ sections:
         style: primary
         label: Get in touch now
   - title: What we're thinking
-    subtitle: 'Updates, news & blog'
+    subtitle: 'Updates, news & thought leadership'
     actions: []
     blog_feed_cols: two
     enable_cards: false
