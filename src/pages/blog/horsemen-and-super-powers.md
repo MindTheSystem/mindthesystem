@@ -1,8 +1,6 @@
 ---
 title: Horsemen & super-powers
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+subtitle: How to maximise the impact of design in government
 date: '2021-04-30'
 categories:
   - src/data/categories/tutorials.yaml
