@@ -2,7 +2,7 @@
 title: Government
 sections:
   - type: hero_section
-    title: Stackbit
+    title: Government
     subtitle: The optional subtitle
     align: center
     padding_top: medium
