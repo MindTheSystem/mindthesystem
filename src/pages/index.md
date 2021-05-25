@@ -264,7 +264,7 @@ sections:
         style: primary
         label: Get in touch now
   - title: Our clients
-    subtitle: lorem-ipsum
+    subtitle: Organisations we worked with
     actions: []
     grid_items: []
     grid_cols: four
