@@ -10,7 +10,7 @@ tags:
 excerpt: How to maximise the impact of design in government
 thumb_image_alt: City Hall building in Singapore
 image_alt: City Hall building in Singapore
-image_position: left
+image_position: top
 seo:
   type: stackbit_page_meta
   title: Amet Nulla Facilisi Morbi Tempus
