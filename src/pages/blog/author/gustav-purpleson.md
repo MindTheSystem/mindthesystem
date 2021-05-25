@@ -21,23 +21,6 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - type: form_section
-    title: Let's talk
-    title_align: left
-    content: >
-      Unlike other consultants, we love to understand your context first before
-      offering any advice or service. This way we can be sure you get what you
-      truly need, tailored to you.
-    content_align: left
-    form_position: right
-    form_layout: inline
-    form_fields: []
-    submit_label: Get in touch now
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: secondary
-    form_width: sixty
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
