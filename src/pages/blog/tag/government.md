@@ -3,7 +3,7 @@ title: Government
 sections:
   - type: hero_section
     title: Government
-    subtitle: The optional subtitle
+    subtitle: 'Posts under the tag #Government'
     align: center
     padding_top: medium
     padding_bottom: none
