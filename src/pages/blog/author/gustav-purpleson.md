@@ -29,7 +29,7 @@ sections:
       offering any advice or service. This way we can be sure you get what you
       truly need, tailored to you.
     content_align: left
-    form_position: bottom
+    form_position: right
     form_layout: inline
     form_id: subscribeForm
     form_action: /thank-you
