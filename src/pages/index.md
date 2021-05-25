@@ -167,6 +167,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            url: '#'
         actions_align: center
         actions_width: auto
         image_alt: HCLI
