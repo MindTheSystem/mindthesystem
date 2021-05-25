@@ -4,8 +4,7 @@ subtitle: How to maximise the impact of design in government
 date: '2021-04-30'
 categories:
   - src/data/categories/tutorials.yaml
-tags:
-  - src/data/tags/tag-bzxkq42ri.yaml
+tags: []
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
