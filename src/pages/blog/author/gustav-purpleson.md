@@ -1,5 +1,5 @@
 ---
-title: /blog/post-4/
+title: gustav-purpleson
 sections:
   - type: hero_section
     title: Agnes Kwek
