@@ -318,7 +318,7 @@ sections:
         style: primary
         label: Get in touch now
   - title: Updates
-    subtitle: lorem-ipsum
+    subtitle: 'Updates, news & blog'
     actions: []
     blog_feed_cols: three
     enable_cards: false
