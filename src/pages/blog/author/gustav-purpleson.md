@@ -31,7 +31,6 @@ sections:
     content_align: left
     form_position: right
     form_layout: inline
-    form_id: subscribeForm
     form_fields: []
     submit_label: Get in touch noq
     padding_top: medium
