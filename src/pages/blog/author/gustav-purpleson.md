@@ -1,9 +1,9 @@
 ---
-title: Gustav Purpleson
+title: Agnes Kwek
 sections:
   - type: hero_section
-    title: Gustav Purpleson
-    subtitle: The optional subtitle
+    title: Agnes Kwek
+    subtitle: Posts
     align: center
     padding_top: medium
     padding_bottom: none
@@ -21,53 +21,59 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - type: form_section
-    title: Inline Form
-    title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
-    content_align: center
-    form_position: bottom
-    form_layout: inline
-    form_id: subscribeForm
-    form_action: /thank-you
-    form_fields:
-      - type: form_field
-        input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
-    submit_label: Subscribe
+  - title: Let's talk
+    content: >
+      Unlike other consultants, we love to understand your context first before
+      offering any advice or service. This way we can be sure you get what you
+      truly need, tailored to you.
+    actions:
+      - label: Get in touch now
+        url: /contact
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    actions_position: right
+    actions_width: sixty
+    align: left
     padding_top: medium
     padding_bottom: medium
-    has_border: true
-    background_color: secondary
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts by Gustav Purpleson
-  description: This is the author archive page
+  title: Posts by Agnes Kwek
+  description: Author archive page of Agnes Kwek
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts by Gustav Purpleson
+      value: Posts by Agnes Kwek
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Author archive page of Agnes Kwek
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/agnes.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts by Gustav Purpleson
+      value: Posts by Agnes Kwek
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Author archive page of Agnes Kwek
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/agnes.jpg
       relativeUrl: true
 template: advanced
 ---
