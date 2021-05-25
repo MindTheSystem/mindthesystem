@@ -314,7 +314,7 @@ sections:
     type: cta_section
     actions:
       - type: action
-        url: /features
+        url: /contact
         style: primary
         label: Get in touch now
   - title: What we're thinking
