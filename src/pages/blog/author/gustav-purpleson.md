@@ -45,10 +45,6 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-    subtitle: >-
-      Unlike other consultants, we love to understand your context first before
-      offering any advice or service. This way we can be sure you get what you
-      truly need, tailored to you.
 seo:
   type: stackbit_page_meta
   title: Posts by Gustav Purpleson
