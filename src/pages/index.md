@@ -322,7 +322,7 @@ sections:
     actions: []
     blog_feed_cols: two
     enable_cards: false
-    show_recent: true
+    show_recent: false
     recent_count: 0
     show_date: true
     show_categories: true
