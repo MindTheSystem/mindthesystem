@@ -45,7 +45,7 @@ template: post
 author: src/data/team/gustav-purpleson.yaml
 thumb_image: images/classic/post-5.png
 image: images/classic/post-5.png
-date: '2021-05-25'
+date: '2021-05-03'
 ---
 30 April 2021 marks the end of a 20-year career in the Singapore Public Service, after 7 different postings across policy, service delivery and governance approaches. I had the immense privilege of serving the Singapore design industry over the past 4 plus years, first as the Executive Director of the DesignSingapore Council, then as the Design Ambassador to Europe and North America, based in Paris – possibly the only such role in the world.
 
