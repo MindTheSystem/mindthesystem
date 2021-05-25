@@ -1,7 +1,7 @@
 ---
 title: Horsemen & Super-powers
 subtitle: How to maximise the impact of design in government
-date: '2020-06-02'
+date: '2020-06-03'
 author: src/data/team/gustav-purpleson.yaml
 categories:
   - src/data/categories/tutorials.yaml
