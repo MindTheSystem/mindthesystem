@@ -159,7 +159,7 @@ sections:
       - title_align: center
         content: |
           ![](/\_static/app-assets/hcli.png)
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
