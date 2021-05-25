@@ -99,26 +99,7 @@ sections:
           Affecting systems change is not about command and control, but rather
           influence. It is possible to make systematic progress, as long as we
           mind the system of decision-making.
-        content: >
-          Through years of practical experience, we have broken down the
-          approach to complex problems into 4 systems:
-
-
-          &nbsp;&nbsp;&nbsp;‎☑️ System 1: Future Operating Environment. What
-          would our reality look like in the future; what are we solving
-          towards?
-
-
-          &nbsp;&nbsp;&nbsp;☑️ System 2: Stakeholders. Who is or needs to be
-          involved, and how?
-
-
-          &nbsp;&nbsp;&nbsp;☑️ System 3: Purpose. How do we agree on the new
-          future, and take steps towards it?
-
-
-          &nbsp;&nbsp;&nbsp;☑️ System 4: The Self. How am I prepared to guide
-          this problem solving and change?
+        content: "Through years of practical experience, we have broken down the approach to complex problems into 4 systems:\n\n\_\_\_‎▶ System 1: Future Operating Environment. What would our reality look like in the future; what are we solving towards?\n\n\_\_\_‎▶︎️ System 2: Stakeholders. Who is or needs to be involved, and how?\n\n\_\_\_▶︎️ System 3: Purpose. How do we agree on the new future, and take steps towards it?\n\n\_\_\_▶︎️ System 4: The Self. How am I prepared to guide this problem solving and change?\n"
         actions:
           - label: Learn More
             url: /why-us
