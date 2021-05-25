@@ -10,7 +10,7 @@ sections:
     background_color: none
   - type: blog_feed_section
     blog_feed_cols: three
-    enable_cards: true
+    enable_cards: false
     show_recent: false
     author: src/data/team/gustav-purpleson.yaml
     show_date: true
