@@ -157,8 +157,6 @@ sections:
     actions: []
     grid_items:
       - title_align: center
-        content: |
-          ![](/\_static/app-assets/hcli.png)
         content_align: center
         actions: []
         actions_align: left
