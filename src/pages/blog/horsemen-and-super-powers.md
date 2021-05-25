@@ -7,7 +7,7 @@ tags:
   - src/data/tags/stackbit.yaml
   - src/data/tags/netlify.yaml
   - src/data/tags/tag-1ixjy8q4a.yaml
-excerpt: 'How '
+excerpt: How to maximise the impact of design in government
 thumb_image_alt: Post 5 placeholder image
 image_alt: Post 5 placeholder image
 image_position: right
