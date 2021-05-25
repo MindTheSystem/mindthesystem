@@ -73,7 +73,7 @@ seo:
     - name: 'twitter:description'
       value: Author archive page of Agnes Kwek
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/agnes.jpg
       relativeUrl: true
 template: advanced
 ---
