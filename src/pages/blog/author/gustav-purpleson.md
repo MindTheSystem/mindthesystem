@@ -3,7 +3,7 @@ title: Agnes Kwek
 sections:
   - type: hero_section
     title: Agnes Kwek
-    subtitle: The optional subtitle
+    subtitle: Posts
     align: center
     padding_top: medium
     padding_bottom: none
