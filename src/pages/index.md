@@ -104,7 +104,7 @@ sections:
           approach to complex problems into 4 systems:
 
 
-          &nbsp;&nbsp;‎☑️ System 1: Future Operating Environment. What would our reality
+          &nbsp;&nbsp;&nbsp;‎☑️ System 1: Future Operating Environment. What would our reality
           look like in the future; what are we solving towards?
 
 
