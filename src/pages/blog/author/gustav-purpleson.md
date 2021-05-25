@@ -32,7 +32,7 @@ sections:
     form_position: right
     form_layout: inline
     form_fields: []
-    submit_label: Get in touch noq
+    submit_label: Get in touch now
     padding_top: medium
     padding_bottom: medium
     has_border: true
