@@ -153,7 +153,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - title: Who we worked with
-    subtitle: Organisations we worked with
+    subtitle: Our clients
     actions: []
     grid_items:
       - title_align: center
