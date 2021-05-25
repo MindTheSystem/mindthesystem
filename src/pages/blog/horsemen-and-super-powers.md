@@ -3,7 +3,7 @@ title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
-date: '2020-04-30'
+date: '2021-04-30'
 categories:
   - src/data/categories/tutorials.yaml
 tags: []
