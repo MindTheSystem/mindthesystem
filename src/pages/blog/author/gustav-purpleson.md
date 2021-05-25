@@ -63,7 +63,7 @@ seo:
       value: Author archive page of Agnes Kwek
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/agnes-greyback.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
