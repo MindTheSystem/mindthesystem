@@ -39,7 +39,7 @@ seo:
       value: images/classic/post-5.png
       relativeUrl: true
 template: post
-author: src/data/team/agnes-kwek.yaml
+author: src/data/team/gustav-purpleson.yaml
 thumb_image: /images/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
 image: /images/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
 date: '2021-04-30'
