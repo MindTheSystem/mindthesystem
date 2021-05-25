@@ -1,8 +1,6 @@
 ---
 title: Horsemen & Super-powers
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+subtitle: How to maximise the impact of design in government
 date: '2020-06-02'
 author: src/data/team/gustav-purpleson.yaml
 categories:
