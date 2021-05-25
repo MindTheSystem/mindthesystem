@@ -317,7 +317,7 @@ sections:
         url: /features
         style: primary
         label: Get in touch now
-  - title: Updates
+  - title: What we're thinking
     subtitle: 'Updates, news & blog'
     actions: []
     blog_feed_cols: two
