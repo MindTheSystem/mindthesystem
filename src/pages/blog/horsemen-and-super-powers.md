@@ -6,7 +6,6 @@ categories:
   - src/data/categories/tutorials.yaml
 tags:
   - src/data/tags/stackbit.yaml
-  - src/data/tags/stackbit.yaml
   - src/data/tags/netlify.yaml
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
