@@ -28,7 +28,7 @@ sections:
       Unlike other consultants, we love to understand your context first before
       offering any advice or service. This way we can be sure you get what you
       truly need, tailored to you.
-    content_align: center
+    content_align: left
     form_position: bottom
     form_layout: inline
     form_id: subscribeForm
