@@ -64,7 +64,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /style-guide
+            url: /why-us
             style: primary
             has_icon: true
             icon: arrow-right
@@ -84,7 +84,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /style-guide
+            url: /why-us
             style: primary
             has_icon: true
             icon: arrow-right
@@ -104,22 +104,24 @@ sections:
           approach to complex problems into 4 systems:
 
 
-          &nbsp;&nbsp;&nbsp;‎☑️ System 1: Future Operating Environment. What would our reality
-          look like in the future; what are we solving towards?
+          &nbsp;&nbsp;&nbsp;‎☑️ System 1: Future Operating Environment. What
+          would our reality look like in the future; what are we solving
+          towards?
 
 
-          &nbsp;&nbsp;&nbsp;☑️ System 2: Stakeholders. Who is or needs to be involved, and how?
+          &nbsp;&nbsp;&nbsp;☑️ System 2: Stakeholders. Who is or needs to be
+          involved, and how?
 
 
-          &nbsp;&nbsp;&nbsp;☑️ System 3: Purpose. How do we agree on the new future, and take
-          steps towards it?
+          &nbsp;&nbsp;&nbsp;☑️ System 3: Purpose. How do we agree on the new
+          future, and take steps towards it?
 
 
-          &nbsp;&nbsp;&nbsp;☑️ System 4: The Self. How am I prepared to guide this problem solving
-          and change?
+          &nbsp;&nbsp;&nbsp;☑️ System 4: The Self. How am I prepared to guide
+          this problem solving and change?
         actions:
           - label: Learn More
-            url: '#'
+            url: /why-us
             style: primary
             has_icon: true
             icon: arrow-right
@@ -150,6 +152,60 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
+  - title: Who we worked with
+    subtitle: Our clients
+    actions: []
+    grid_items:
+      - title_align: center
+        content_align: center
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: HCLI
+        image_position: top
+        image_width: sixty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: /images/spectacular-panda.png
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: CSC
+        image_position: top
+        image_width: sixty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: /images/csci.png
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: /images/dsg.png
+    grid_cols: three
+    grid_gap_vert: medium
+    grid_gap_horiz: medium
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: none
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - align: center
     grid_items:
       - image_align: left
@@ -261,6 +317,28 @@ sections:
         url: /features
         style: primary
         label: Get in touch now
+  - title: What we're thinking
+    subtitle: 'Updates, news & thought leadership'
+    actions: []
+    blog_feed_cols: two
+    enable_cards: false
+    show_recent: true
+    recent_count: 2
+    show_date: true
+    show_categories: true
+    show_author: true
+    show_excerpt: true
+    show_image: true
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: blog_feed_section
 seo:
   type: stackbit_page_meta
   title: MindTheSystem
