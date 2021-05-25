@@ -167,7 +167,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: /images/hcli.png
+        image: /images/spectacular-panda.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
