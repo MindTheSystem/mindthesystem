@@ -156,7 +156,7 @@ sections:
     subtitle: Organisations we worked with
     actions: []
     grid_items:
-      - title_align: left
+      - title_align: right
         content: >-
           ## Lorem ipsum
 
