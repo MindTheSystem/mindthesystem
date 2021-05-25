@@ -323,7 +323,7 @@ sections:
     blog_feed_cols: two
     enable_cards: false
     show_recent: true
-    recent_count: 1
+    recent_count: 2
     show_date: true
     show_categories: true
     show_author: true
