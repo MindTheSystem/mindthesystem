@@ -24,7 +24,10 @@ sections:
   - type: form_section
     title: Let's talk
     title_align: left
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: >
+      Unlike other consultants, we love to understand your context first before
+      offering any advice or service. This way we can be sure you get what you
+      truly need, tailored to you.
     content_align: center
     form_position: bottom
     form_layout: inline
