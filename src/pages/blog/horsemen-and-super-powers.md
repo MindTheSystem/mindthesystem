@@ -4,12 +4,13 @@ subtitle: How to maximise the impact of design in government
 date: '2021-04-30'
 categories:
   - src/data/categories/tutorials.yaml
-tags: []
+tags:
+  - src/data/tags/netlify.yaml
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
-thumb_image_alt: Post 1 placeholder image
-image_alt: Post 1 placeholder image
+thumb_image_alt: City Hall in Singapore
+image_alt: City Hall in Singapore
 image_position: right
 seo:
   type: stackbit_page_meta
@@ -40,8 +41,8 @@ seo:
       relativeUrl: true
 template: post
 author: src/data/team/dianne-ameter.yaml
-thumb_image: images/classic/post-1.png
-image: images/classic/post-1.png
+thumb_image: /images/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
+image: /images/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
 ---
 30 April 2021 marks the end of a 20-year career in the Singapore Public Service, after 7 different postings across policy, service delivery and governance approaches. I had the immense privilege of serving the Singapore design industry over the past 4 plus years, first as the Executive Director of the DesignSingapore Council, then as the Design Ambassador to Europe and North America, based in Paris – possibly the only such role in the world.
 
