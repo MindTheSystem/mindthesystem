@@ -8,6 +8,7 @@ categories:
 tags:
   - src/data/tags/stackbit.yaml
   - src/data/tags/netlify.yaml
+  - src/data/tags/tag-1ixjy8q4a.yaml
 excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
