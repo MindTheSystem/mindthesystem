@@ -263,7 +263,7 @@ sections:
         url: /features
         style: primary
         label: Get in touch now
-  - title: lorem-ipsum
+  - title: Our clients
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
