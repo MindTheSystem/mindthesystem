@@ -1,8 +1,8 @@
 ---
-title: Agnes Kwek
+title: Gustav Purpleson
 sections:
   - type: hero_section
-    title: Agnes Kwek
+    title: Gustav Purpleson
     subtitle: Posts
     align: center
     padding_top: medium
