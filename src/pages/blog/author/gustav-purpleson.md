@@ -32,7 +32,6 @@ sections:
     form_position: right
     form_layout: inline
     form_id: subscribeForm
-    form_action: /thank-you
     form_fields: []
     submit_label: Subscribe
     padding_top: medium
