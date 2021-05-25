@@ -107,13 +107,10 @@ sections:
           ✅ System 1: Future Operating Environment. What would our reality look
           like in the future; what are we solving towards?
 
-
           ✅ System 2: Stakeholders. Who is or needs to be involved, and how?
-
 
           ✅ System 3: Purpose. How do we agree on the new future, and take steps
           towards it?
-
 
           ✅ System 4: The Self. How am I prepared to guide this problem solving
           and change?
