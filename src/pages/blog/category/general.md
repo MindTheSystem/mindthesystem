@@ -49,7 +49,7 @@ sections:
       truly need, tailored to you.
     actions:
       - label: Get in touch now
-        url: '#'
+        url: /contact
         style: link
         has_icon: false
         icon: arrow-left
