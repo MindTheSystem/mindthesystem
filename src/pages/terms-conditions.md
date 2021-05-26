@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Terms and Conditions
+      value: Terms and Conditions | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: Terms and conditions for MindTheSystem Pte Ltd
