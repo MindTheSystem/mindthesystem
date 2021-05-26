@@ -43,17 +43,10 @@ sections:
     has_border: true
     background_color: secondary
   - title: Let's talk
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Unlike other consultants, we love to understand your context first before
+      offering any advice or service. This way we can be sure you get what you
+      truly need, tailored to you.
     actions: []
     actions_position: bottom
     actions_width: fourty
