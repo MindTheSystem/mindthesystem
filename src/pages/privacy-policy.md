@@ -14,6 +14,10 @@ seo:
     - name: 'og:description'
       value: Privacy Policy for MindTheSystem Pte Ltd
       keyName: property
+    - name: 'og:image'
+      value: /images/mindthesystem-logo.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
