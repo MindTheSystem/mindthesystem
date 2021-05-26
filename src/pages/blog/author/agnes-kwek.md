@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     has_border: true
   - title: Stay updated
-    title_align: left
+    title_align: center
     content: |
       Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
