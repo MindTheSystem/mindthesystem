@@ -237,7 +237,7 @@ sections:
     actions_width: fourty
 seo:
   type: stackbit_page_meta
-  title: Features
+  title: Why us | MindTheSystem
   description: This is the features page
   extra:
     - name: 'og:type'
