@@ -78,7 +78,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Stackbit
+      value: Futures thinking | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: 'Posts under the tag #futures-thinking'
