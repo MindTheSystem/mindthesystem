@@ -87,7 +87,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts by Dianne Ameter
+      value: Posts by Agnes Kwek
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
