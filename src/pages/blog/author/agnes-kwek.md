@@ -25,7 +25,7 @@ sections:
     title_align: left
     content: |
       Subscribe to our newsletter to make sure you don't miss anything.
-    content_align: left
+    content_align: center
     form_position: bottom
     form_width: fifty
     form_layout: stacked
