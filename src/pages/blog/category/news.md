@@ -48,7 +48,7 @@ sections:
       offering any advice or service. This way we can be sure you get what you
       truly need, tailored to you.
     actions:
-      - label: get in touch now
+      - label: Get in touch now
         url: '#'
         style: link
         has_icon: false
