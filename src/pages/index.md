@@ -302,6 +302,7 @@ sections:
         style: primary
         label: Get in touch now
         has_icon: true
+        icon: arrow-right
   - title: What we're thinking
     subtitle: 'Updates, news & thought leadership'
     actions: []
