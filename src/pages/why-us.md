@@ -231,6 +231,7 @@ sections:
         label: Get in touch now
         url: /contact
         style: primary
+        has_icon: true
 seo:
   type: stackbit_page_meta
   title: Features
