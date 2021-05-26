@@ -33,7 +33,7 @@ sections:
     form_id: subscribeForm
     form_fields:
       - input_type: email
-        name: Your email
+        name: Email
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
