@@ -301,6 +301,7 @@ sections:
         url: /contact
         style: primary
         label: Get in touch now
+        has_icon: true
   - title: What we're thinking
     subtitle: 'Updates, news & thought leadership'
     actions: []
