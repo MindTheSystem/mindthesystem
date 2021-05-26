@@ -2,7 +2,7 @@
 title: Privacy Policy
 seo:
   type: stackbit_page_meta
-  title: Privacy Policy
+  title: Privacy Policy | MindTheSystem
   description: Privacy Policy for MindTheSystem Pte Ltd
   extra:
     - name: 'og:type'
