@@ -21,6 +21,36 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+  - title: Stay updated
+    title_align: center
+    content: |
+      Subscribe to our newsletter to make sure you don't miss anything.
+    content_align: center
+    form_position: bottom
+    form_width: fourty
+    form_layout: inline
+    enable_card: false
+    form_id: subscribeForm
+    form_fields:
+      - input_type: email
+        name: email
+        default_value: Your email address
+        options: []
+        is_required: true
+        type: form_field
+        label: Email
+    submit_label: Subscribe
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
+    form_action: /thank-you
   - title: Let's talk
     content: >
       Unlike other consultants, we love to understand your context first before

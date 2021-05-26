@@ -21,6 +21,9 @@ sections:
         label: Learn more
         url: /why-us
         style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
   - content: >
       ##### “At Pixar, \[Ed] Catmull probed both systems and processes, after
       both wins and stumbles. How should the feedback process, for example, be
@@ -298,6 +301,9 @@ sections:
         url: /contact
         style: primary
         label: Get in touch now
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
   - title: What we're thinking
     subtitle: 'Updates, news & thought leadership'
     actions: []

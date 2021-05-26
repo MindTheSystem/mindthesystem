@@ -229,7 +229,7 @@ sections:
     actions:
       - type: action
         label: Get in touch now
-        url: /pricing
+        url: /contact
         style: primary
 seo:
   type: stackbit_page_meta
