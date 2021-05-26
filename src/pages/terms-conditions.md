@@ -20,6 +20,9 @@ seo:
       value: Terms and Conditions
     - name: twitter:description
       value: Terms and conditions for MindTheSystem Pte Ltd
+    - name: 'twitter:image'
+      value: /images/mindthesystem-logo.jpg
+      relativeUrl: true
 template: page
 ---
 <p>Welcome to MindTheSystem!</p>
