@@ -2,7 +2,7 @@
 title: Cognitive behavioural coaching
 sections:
   - type: hero_section
-    title: Design thinking
+    title: Cognitive behavioural coaching
     subtitle: 'Posts under the tag #design-thinking'
     align: center
     padding_top: medium
