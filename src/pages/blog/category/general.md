@@ -81,7 +81,7 @@ seo:
       value: General | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: Posts under the category "General"
+      value: General | MindTheSystem
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
