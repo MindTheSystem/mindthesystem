@@ -14,7 +14,7 @@ image_alt: City Hall in Singapore
 image_position: right
 seo:
   type: stackbit_page_meta
-  title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: Horsemen & super-powers
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
