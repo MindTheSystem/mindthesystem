@@ -238,7 +238,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Why us | MindTheSystem
-  description: This is the features page
+  description: Why work with us. Our value proposiition.
   extra:
     - name: 'og:type'
       value: website
