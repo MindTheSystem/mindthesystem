@@ -72,7 +72,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Training | MindTheSystem
-  description: This is the author archive page
+  description: 'Posts under the tag #training'
   extra:
     - name: 'og:type'
       value: website
