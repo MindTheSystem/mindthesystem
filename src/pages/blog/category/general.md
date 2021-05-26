@@ -78,7 +78,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in General
+      value: General | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: Posts under the category "General"
