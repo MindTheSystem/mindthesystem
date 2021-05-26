@@ -72,7 +72,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Posts in General
-  description: This is the author archive page
+  description: Posts under the category "General"
   extra:
     - name: 'og:type'
       value: website
