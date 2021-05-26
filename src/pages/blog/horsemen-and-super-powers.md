@@ -4,8 +4,7 @@ subtitle: How to maximise the impact of design in government
 date: '2021-04-30'
 categories:
   - src/data/categories/general.yaml
-tags:
-  - src/data/tags/netlify.yaml
+tags: []
 excerpt: How to maximise the impact of design in government
 thumb_image_alt: City Hall in Singapore
 image_alt: City Hall in Singapore
