@@ -116,6 +116,7 @@ sections:
         align: left
         type: feature
         image: /images/4systems.png
+        video_embed_html: Puzzle by Gregor Cresnar from the Noun Project
     feature_padding_vert: large
     align: center
     background_color: none
