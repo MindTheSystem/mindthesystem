@@ -14,6 +14,10 @@ seo:
     - name: og:description
       value: Terms and conditions for MindTheSystem Pte Ltd
       keyName: property
+    - name: 'og:image'
+      value: /images/mindthesystem-logo.jpg
+      keyName: property
+      relativeUrl: true
     - name: twitter:card
       value: summary
     - name: twitter:title
