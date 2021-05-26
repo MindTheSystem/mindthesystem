@@ -250,7 +250,7 @@ seo:
       value: Why work with us. Our value proposiition.
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: /_static/app-assets/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
