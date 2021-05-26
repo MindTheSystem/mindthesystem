@@ -3,9 +3,8 @@ title: Horsemen & super-powers
 subtitle: How to maximise the impact of design in government
 date: '2021-04-30'
 categories:
-  - src/data/categories/tutorials.yaml
-tags:
-  - src/data/tags/netlify.yaml
+  - src/data/categories/general.yaml
+tags: []
 excerpt: How to maximise the impact of design in government
 thumb_image_alt: City Hall in Singapore
 image_alt: City Hall in Singapore
@@ -38,7 +37,7 @@ seo:
       value: images/classic/post-1.png
       relativeUrl: true
 template: post
-author: src/data/team/dianne-ameter.yaml
+author: src/data/team/agnes-kwek.yaml
 thumb_image: /images/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
 image: /images/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
 ---
