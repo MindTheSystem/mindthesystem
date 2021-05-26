@@ -92,7 +92,7 @@ seo:
     - name: 'twitter:title'
       value: News | MindTheSystem
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Posts under the category "News"
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
