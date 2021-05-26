@@ -13,7 +13,7 @@ sections:
     background_color: none
   - title_align: left
     content: >
-      ### Let's talk
+      ## Let's talk
 
 
       For enquiries about our services or approach, please drop us a message
