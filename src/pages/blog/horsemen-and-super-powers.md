@@ -7,6 +7,7 @@ categories:
 tags:
   - src/data/tags/systems-thinking.yaml
   - src/data/tags/design-thinking.yaml
+  - src/data/tags/government.yaml
 excerpt: How to maximise the impact of design in government
 thumb_image_alt: City Hall in Singapore
 image_alt: City Hall in Singapore
