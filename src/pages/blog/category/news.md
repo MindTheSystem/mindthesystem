@@ -71,30 +71,30 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts in News
-  description: This is the author archive page
+  title: News | MindTheSystem
+  description: Posts under the category "News"
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in News
+      value: News | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Posts under the category "News"
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in News
+      value: News | MindTheSystem
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Posts under the category "News"
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---

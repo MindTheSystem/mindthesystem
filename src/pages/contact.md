@@ -78,7 +78,7 @@ sections:
     type: form_section
 seo:
   type: stackbit_page_meta
-  title: Contact
+  title: Contact | MindTheSystem
   description: >-
     For enquiries about our services or approach, please drop us a message using
     the contact form.
@@ -87,20 +87,27 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: >-
         For enquiries about our services or approach, please drop us a message
         using the contact form.
       keyName: property
+    - name: 'og:image'
+      value: /images/mindthesystem-logo.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
     - name: 'twitter:title'
-      value: Contact
+      value: Contact | MindTheSystem
     - name: 'twitter:description'
       value: >-
         For enquiries about our services or approach, please drop us a message
         using the contact form.
+    - name: 'twitter:image'
+      value: /images/mindthesystem-logo.jpg
+      relativeUrl: true
 template: advanced
 ---

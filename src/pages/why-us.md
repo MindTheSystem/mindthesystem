@@ -237,30 +237,30 @@ sections:
     actions_width: fourty
 seo:
   type: stackbit_page_meta
-  title: Features
-  description: This is the features page
+  title: Why us | MindTheSystem
+  description: Why work with us. Our value proposiition.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: Why us | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: Why work with us. Our value proposiition.
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: /_static/app-assets/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Features
+      value: Why us | MindTheSystem
     - name: 'twitter:description'
-      value: This is the features page
+      value: Why work with us. Our value proposiition.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---

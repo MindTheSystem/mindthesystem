@@ -128,17 +128,17 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Services
-  description: What we do
+  title: Services | MindTheSystem
+  description: What we do at MindTheSystem
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Services
+      value: Services | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: What we do
+      value: What we do at MindTheSystem
       keyName: property
     - name: 'og:image'
       value: /images/mindthesystem-logo.jpg
@@ -147,9 +147,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Services
+      value: Services | MindTheSystem
     - name: 'twitter:description'
-      value: What we do
+      value: What we do at MindTheSystem
     - name: 'twitter:image'
       value: /images/mindthesystem-logo.jpg
       relativeUrl: true

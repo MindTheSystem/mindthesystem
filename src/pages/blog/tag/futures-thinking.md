@@ -71,30 +71,30 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts in Stackbit
-  description: This is the author archive page
+  title: Futures thinking | MindTheSystem
+  description: 'Posts under the tag #futures-thinking'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Stackbit
+      value: Futures thinking | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: 'Posts under the tag #futures-thinking'
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in Stackbit
+      value: Futures thinking | MindTheSystem
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: 'Posts under the tag #futures-thinking'
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---

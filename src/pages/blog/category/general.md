@@ -71,30 +71,30 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts in General
-  description: This is the author archive page
+  title: General | MindTheSystem
+  description: Posts under the category "General"
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in General
+      value: General | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Posts under the category "General"
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in General
+      value: General | MindTheSystem
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Posts under the category "General"
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---
