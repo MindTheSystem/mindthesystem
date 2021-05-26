@@ -24,6 +24,9 @@ seo:
       value: Privacy Policy
     - name: 'twitter:description'
       value: Privacy Policy for MindTheSystem Pte Ltd
+    - name: 'twitter:image'
+      value: /images/mindthesystem-logo.jpg
+      relativeUrl: true
 template: page
 ---
 <p>At MindTheSystem, accessible from https://mindthesystem.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by MindTheSystem and how we use it.</p>
