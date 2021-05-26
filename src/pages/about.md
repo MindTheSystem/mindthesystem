@@ -71,7 +71,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: About our team.
+      value: About our team at MindTheSystem
     - name: 'twitter:image'
       value: /images/mindthesystem-logo.jpg
       relativeUrl: true
