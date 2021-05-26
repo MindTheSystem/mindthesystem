@@ -92,7 +92,7 @@ seo:
     - name: 'twitter:title'
       value: Posts in Stackbit
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: 'Posts under the tag #government'
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
