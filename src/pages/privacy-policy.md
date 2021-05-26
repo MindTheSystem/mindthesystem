@@ -5,20 +5,20 @@ seo:
   title: Privacy Policy
   description: Privacy Policy for MindTheSystem Pte Ltd
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Privacy Policy
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: Privacy Policy for MindTheSystem Pte Ltd
       keyName: property
-    - name: twitter:card
-      value: summary
-    - name: twitter:title
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
       value: Privacy Policy
-    - name: twitter:description
+    - name: 'twitter:description'
       value: Privacy Policy for MindTheSystem Pte Ltd
 template: page
 ---
