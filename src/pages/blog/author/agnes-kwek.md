@@ -90,7 +90,7 @@ seo:
       value: Posts by Agnes Kwek
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: This is the author archive page of posts authored by Agnes Kwek
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
