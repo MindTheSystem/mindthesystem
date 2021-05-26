@@ -30,7 +30,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: false
-    form_id: lorem-ipsum
+    form_id: Subscribe to our newsletter to make sure you don't miss anything.
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
