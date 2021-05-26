@@ -22,6 +22,7 @@ sections:
         url: /why-us
         style: primary
         has_icon: true
+        icon: arrow-right
   - content: >
       ##### “At Pixar, \[Ed] Catmull probed both systems and processes, after
       both wins and stumbles. How should the feedback process, for example, be
