@@ -71,7 +71,7 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts in Stackbit
+  title: Systems thinking | MindTheSystem
   description: This is the author archive page
   extra:
     - name: 'og:type'
