@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Blog
-    subtitle: The optional subtitle
+    subtitle: 'Updates, news & thought leadership'
     align: center
     padding_top: medium
     padding_bottom: none
