@@ -47,7 +47,16 @@ sections:
       Unlike other consultants, we love to understand your context first before
       offering any advice or service. This way we can be sure you get what you
       truly need, tailored to you.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_position: bottom
     actions_width: fourty
     align: left
