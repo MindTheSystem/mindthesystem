@@ -102,5 +102,8 @@ seo:
       value: >-
         For enquiries about our services or approach, please drop us a message
         using the contact form.
+    - name: 'twitter:image'
+      value: /images/mindthesystem-logo.jpg
+      relativeUrl: true
 template: advanced
 ---
