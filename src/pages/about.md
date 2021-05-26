@@ -37,7 +37,7 @@ sections:
     actions:
       - type: action
         label: Get in touch now
-        url: /pricing
+        url: /contact
         style: primary
     align: left
     padding_top: medium
