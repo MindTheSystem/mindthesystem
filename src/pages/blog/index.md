@@ -71,7 +71,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Blog | MindTheSystem
-  description: This is the blog page
+  description: 'Updates, news & thought leadership'
   extra:
     - name: 'og:type'
       value: website
