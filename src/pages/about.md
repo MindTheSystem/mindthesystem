@@ -51,7 +51,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: About
-  description: About our team
+  description: About our team at MindTheSystem
   extra:
     - name: 'og:type'
       value: website
