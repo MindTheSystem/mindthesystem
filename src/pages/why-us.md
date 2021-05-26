@@ -260,7 +260,7 @@ seo:
     - name: 'twitter:description'
       value: Why work with us. Our value proposiition.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---
