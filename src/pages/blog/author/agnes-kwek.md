@@ -80,30 +80,26 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts by Dianne Ameter
-  description: This is the author archive page
+  title: Posts by Agnes Kwek
+  description: This is the author archive page of posts authored by Agnes Kwek
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts by Dianne Ameter
+      value: Posts by Agnes Kwek
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: This is the author archive page of posts authored by Agnes Kwek
       keyName: property
-    - name: 'og:image'
-      value: images/classic/post-5.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts by Dianne Ameter
+      value: Posts by Agnes Kwek
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: This is the author archive page of posts authored by Agnes Kwek
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/agnes.jpg
       relativeUrl: true
 template: advanced
 ---

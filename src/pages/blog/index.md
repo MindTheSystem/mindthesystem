@@ -70,30 +70,30 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Blog
-  description: This is the blog page
+  title: Blog | MindTheSystem
+  description: 'Updates, news & thought leadership'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'Updates, news & thought leadership'
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Blog | MindTheSystem
     - name: 'twitter:description'
-      value: This is the blog page
+      value: 'Updates, news & thought leadership'
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---
