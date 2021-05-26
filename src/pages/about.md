@@ -40,6 +40,7 @@ sections:
         url: /contact
         style: primary
         has_icon: true
+        icon: arrow-right
     align: left
     padding_top: medium
     padding_bottom: medium
