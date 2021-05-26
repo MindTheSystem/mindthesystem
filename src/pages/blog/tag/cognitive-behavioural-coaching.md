@@ -72,7 +72,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Posts in Stackbit
-  description: This is the author archive page
+  description: 'Posts under the tag #cognitive-behavioural-coaching'
   extra:
     - name: 'og:type'
       value: website
