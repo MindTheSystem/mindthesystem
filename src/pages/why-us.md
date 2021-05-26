@@ -256,7 +256,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Features
+      value: Why us | MindTheSystem
     - name: 'twitter:description'
       value: Why work with us. Our value proposiition.
     - name: 'twitter:image'
