@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Horsemen & super-powers
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
