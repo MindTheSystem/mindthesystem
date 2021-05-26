@@ -24,7 +24,7 @@ seo:
       value: Horsemen & super-powers
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: How to maximise the impact of design in government
       keyName: property
     - name: 'og:image'
       value: images/classic/post-1.png
