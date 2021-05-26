@@ -91,7 +91,7 @@ seo:
     - name: 'twitter:title'
       value: Blog | MindTheSystem
     - name: 'twitter:description'
-      value: This is the blog page
+      value: 'Updates, news & thought leadership'
     - name: 'twitter:image'
       value: /images/mindthesystem-logo.jpg
       relativeUrl: true
