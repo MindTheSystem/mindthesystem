@@ -38,7 +38,7 @@ seo:
       value: images/classic/post-1.png
       relativeUrl: true
 template: post
-author: src/data/team/dianne-ameter.yaml
+author: src/data/team/agnes-kwek.yaml
 thumb_image: /images/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
 image: /images/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
 ---
