@@ -81,7 +81,7 @@ seo:
       value: Posts in Stackbit
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: 'Posts under the tag #cognitive-behavioural-coaching'
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
