@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in Stackbit
+      value: Government | MindTheSystem
     - name: 'twitter:description'
       value: 'Posts under the tag #government'
     - name: 'twitter:image'
