@@ -81,7 +81,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Posts by Agnes Kwek
-  description: This is the author archive page
+  description: This is the author archive page of posts authored by Agnes Kwek
   extra:
     - name: 'og:type'
       value: website
