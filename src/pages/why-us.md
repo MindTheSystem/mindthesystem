@@ -244,7 +244,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: Why us | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: Why work with us. Our value proposiition.
