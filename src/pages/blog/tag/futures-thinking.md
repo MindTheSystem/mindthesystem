@@ -72,7 +72,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Futures thinking | MindTheSystem
-  description: This is the author archive page
+  description: 'Posts under the tag #futures-thinking'
   extra:
     - name: 'og:type'
       value: website
