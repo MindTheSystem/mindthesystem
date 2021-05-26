@@ -81,7 +81,7 @@ seo:
       value: Posts in Stackbit
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: 'Posts under the tag #training'
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
