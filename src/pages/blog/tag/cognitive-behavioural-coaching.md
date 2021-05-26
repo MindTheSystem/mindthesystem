@@ -1,5 +1,5 @@
 ---
-title: Design thinking
+title: Cognitive-behavioural-coaching
 sections:
   - type: hero_section
     title: Design thinking
