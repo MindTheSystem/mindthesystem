@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Terms and Conditions
+      value: Terms and Conditions | MindTheSystem
     - name: 'twitter:description'
       value: Terms and conditions for MindTheSystem Pte Ltd
     - name: 'twitter:image'
