@@ -94,7 +94,7 @@ seo:
     - name: 'twitter:description'
       value: This is the author archive page
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
 template: advanced
 ---
