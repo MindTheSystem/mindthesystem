@@ -92,7 +92,7 @@ seo:
     - name: 'twitter:title'
       value: Posts in Stackbit
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: 'Posts under the tag #cognitive-behavioural-coaching'
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
