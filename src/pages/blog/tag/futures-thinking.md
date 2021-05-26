@@ -2,7 +2,7 @@
 title: Futures thinking
 sections:
   - type: hero_section
-    title: Cognitive behavioural coaching
+    title: Futures thinking
     subtitle: 'Posts under the tag #cognitive-behavioural-coaching'
     align: center
     padding_top: medium
