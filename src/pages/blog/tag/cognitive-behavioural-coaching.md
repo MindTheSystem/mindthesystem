@@ -84,7 +84,7 @@ seo:
       value: 'Posts under the tag #cognitive-behavioural-coaching'
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /_static/app-assets/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
