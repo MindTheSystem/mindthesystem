@@ -28,7 +28,7 @@ sections:
     content_align: center
     form_position: bottom
     form_width: fourty
-    form_layout: stacked
+    form_layout: inline
     enable_card: false
     form_id: Subscribe to our newsletter to make sure you don't miss anything.
     form_fields:
