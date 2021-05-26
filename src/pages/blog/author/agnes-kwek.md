@@ -92,6 +92,10 @@ seo:
     - name: 'og:description'
       value: This is the author archive page of posts authored by Agnes Kwek
       keyName: property
+    - name: 'og:image'
+      value: /_static/app-assets/mindthesystem-logo.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
