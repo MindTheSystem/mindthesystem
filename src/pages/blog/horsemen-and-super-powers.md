@@ -6,9 +6,7 @@ categories:
   - src/data/categories/tutorials.yaml
 tags:
   - src/data/tags/netlify.yaml
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+excerpt: How to maximise the impact of design in government
 thumb_image_alt: City Hall in Singapore
 image_alt: City Hall in Singapore
 image_position: right
