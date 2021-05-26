@@ -15,7 +15,7 @@ image_position: right
 seo:
   type: stackbit_page_meta
   title: Horsemen & super-powers
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: How to maximise the impact of design in government
   extra:
     - name: 'og:type'
       value: article
