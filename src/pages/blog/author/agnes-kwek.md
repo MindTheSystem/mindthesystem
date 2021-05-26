@@ -23,17 +23,8 @@ sections:
     has_border: true
   - title: Stay updated
     title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Subscribe to our newsletter to make sure you don't miss anything.
     content_align: left
     form_position: bottom
     form_width: fifty
