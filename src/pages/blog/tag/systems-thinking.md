@@ -1,5 +1,5 @@
 ---
-title: Government
+title: Systems thinking
 sections:
   - type: hero_section
     title: Government
