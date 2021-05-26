@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in Stackbit
+      value: Cognitive behavioural coaching | MindTheSystem
     - name: 'twitter:description'
       value: 'Posts under the tag #cognitive-behavioural-coaching'
     - name: 'twitter:image'
