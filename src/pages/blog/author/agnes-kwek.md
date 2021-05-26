@@ -21,7 +21,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - title: lorem-ipsum
+  - title: Stay updated
     title_align: left
     content: >-
       ## Lorem ipsum
