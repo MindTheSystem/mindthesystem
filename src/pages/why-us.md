@@ -215,7 +215,7 @@ sections:
     background_image_position: center center
     content_align: left
   - align: left
-    padding_top: medium
+    padding_top: large
     actions_position: right
     has_border: false
     background_color: primary
