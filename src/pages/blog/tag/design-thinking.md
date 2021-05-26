@@ -1,5 +1,5 @@
 ---
-title: Systems thinking
+title: Design thinking
 sections:
   - type: hero_section
     title: Systems thinking
