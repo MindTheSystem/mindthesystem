@@ -80,7 +80,7 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts by Dianne Ameter
+  title: Posts authored by Agnes Kwek
   description: This is the author archive page
   extra:
     - name: 'og:type'
