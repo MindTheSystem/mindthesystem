@@ -135,7 +135,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Services
+      value: Services | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: What we do
