@@ -33,7 +33,7 @@ sections:
     form_id: subscribeForm
     form_fields:
       - input_type: email
-        name: Email
+        name: email
         default_value: Your email
         options: []
         is_required: true
