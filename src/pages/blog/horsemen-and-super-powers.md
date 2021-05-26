@@ -3,7 +3,7 @@ title: Horsemen & super-powers
 subtitle: How to maximise the impact of design in government
 date: '2021-04-30'
 categories:
-  - src/data/categories/tutorials.yaml
+  - src/data/categories/general.yaml
 tags:
   - src/data/tags/netlify.yaml
 excerpt: How to maximise the impact of design in government
