@@ -232,7 +232,7 @@ sections:
         url: /contact
         style: primary
         has_icon: true
-        icon: facebook
+        icon: arrow-right
 seo:
   type: stackbit_page_meta
   title: Features
