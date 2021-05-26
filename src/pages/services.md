@@ -128,7 +128,7 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Services
+  title: Services | MindTheSystem
   description: What we do
   extra:
     - name: 'og:type'
