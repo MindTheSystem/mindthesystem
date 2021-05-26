@@ -234,7 +234,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-    actions_width: fifty
+    actions_width: sixty
 seo:
   type: stackbit_page_meta
   title: Features
