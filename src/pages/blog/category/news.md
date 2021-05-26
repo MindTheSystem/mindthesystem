@@ -72,7 +72,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: News | MindTheSystem
-  description: This is the author archive page
+  description: Posts under the category "News"
   extra:
     - name: 'og:type'
       value: website
