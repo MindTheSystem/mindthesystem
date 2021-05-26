@@ -2,7 +2,7 @@
 title: Systems thinking
 sections:
   - type: hero_section
-    title: Government
+    title: Systems thinking
     subtitle: 'Posts under the tag #government'
     align: center
     padding_top: medium
