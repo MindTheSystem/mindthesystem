@@ -32,7 +32,7 @@ sections:
     enable_card: false
     form_id: subscribeForm
     form_fields:
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
