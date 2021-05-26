@@ -12,6 +12,7 @@ sections:
         url: /
         style: primary
         has_icon: true
+        icon: arrow-right
     align: center
     padding_bottom: large
     background_color: none
