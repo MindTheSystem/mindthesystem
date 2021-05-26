@@ -80,7 +80,7 @@ seo:
       value: Blog | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'Updates, news & thought leadership'
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
