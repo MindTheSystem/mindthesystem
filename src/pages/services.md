@@ -138,7 +138,7 @@ seo:
       value: Services | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: What we do
+      value: What we do at MindTheSystem
       keyName: property
     - name: 'og:image'
       value: /images/mindthesystem-logo.jpg
