@@ -149,7 +149,7 @@ seo:
     - name: 'twitter:title'
       value: Services | MindTheSystem
     - name: 'twitter:description'
-      value: What we do
+      value: What we do at MindTheSystem
     - name: 'twitter:image'
       value: /images/mindthesystem-logo.jpg
       relativeUrl: true
