@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Privacy Policy
+      value: Privacy Policy | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: Privacy Policy for MindTheSystem Pte Ltd
