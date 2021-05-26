@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Privacy Policy
+      value: Privacy Policy | MindTheSystem
     - name: 'twitter:description'
       value: Privacy Policy for MindTheSystem Pte Ltd
     - name: 'twitter:image'
