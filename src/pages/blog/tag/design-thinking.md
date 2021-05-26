@@ -3,7 +3,7 @@ title: Design thinking
 sections:
   - type: hero_section
     title: Design thinking
-    subtitle: 'Posts under the tag #systems-thinking'
+    subtitle: 'Posts under the tag #design-thinking'
     align: center
     padding_top: medium
     padding_bottom: none
