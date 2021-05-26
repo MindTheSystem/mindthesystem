@@ -1,9 +1,9 @@
 ---
-title: Government
+title: Design thinking
 sections:
   - type: hero_section
-    title: Government
-    subtitle: 'Posts under the tag #government'
+    title: Design thinking
+    subtitle: 'Posts under the tag #design-thinking'
     align: center
     padding_top: medium
     padding_bottom: none
@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    tag: src/data/tags/government.yaml
+    tag: src/data/tags/design-thinking.yaml
     show_date: true
     show_categories: true
     show_author: true

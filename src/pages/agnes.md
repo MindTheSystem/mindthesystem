@@ -8,7 +8,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-### Founder, MindTheSystem
+### Founder & CEO, MindTheSystem
 
 ***
 
