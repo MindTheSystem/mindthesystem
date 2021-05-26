@@ -27,7 +27,7 @@ seo:
       value: How to maximise the impact of design in government
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-1.png
+      value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
