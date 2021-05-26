@@ -71,7 +71,7 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts in General
+  title: General | MindTheSystem
   description: Posts under the category "General"
   extra:
     - name: 'og:type'
