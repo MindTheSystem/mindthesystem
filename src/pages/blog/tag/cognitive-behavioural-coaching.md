@@ -71,7 +71,7 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts in Stackbit
+  title: Cognitive behavioural coaching | MindTheSystem
   description: 'Posts under the tag #cognitive-behavioural-coaching'
   extra:
     - name: 'og:type'
