@@ -39,7 +39,7 @@ sections:
         is_required: true
         type: form_field
         label: Email
-    submit_label: lorem-ipsum
+    submit_label: Subscribe
     align_vert: top
     padding_top: medium
     padding_bottom: medium
