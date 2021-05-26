@@ -67,10 +67,10 @@ sections:
         no_follow: false
         type: action
     actions_position: right
-    actions_width: sixty
+    actions_width: fourty
     align: left
-    padding_top: medium
-    padding_bottom: medium
+    padding_top: large
+    padding_bottom: large
     has_border: false
     background_color: primary
     background_image_opacity: 0

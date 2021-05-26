@@ -11,6 +11,9 @@ sections:
         label: Back to homepage
         url: /
         style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
     align: center
     padding_bottom: large
     background_color: none

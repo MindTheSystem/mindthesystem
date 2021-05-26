@@ -215,7 +215,7 @@ sections:
     background_image_position: center center
     content_align: left
   - align: left
-    padding_top: medium
+    padding_top: large
     actions_position: right
     has_border: false
     background_color: primary
@@ -224,13 +224,17 @@ sections:
       Unlike other consultants, we love to understand your context first before
       offering any advice or service. This way we can be sure you get what you
       truly need, tailored to you.
-    padding_bottom: medium
+    padding_bottom: large
     type: cta_section
     actions:
       - type: action
         label: Get in touch now
         url: /contact
         style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+    actions_width: fourty
 seo:
   type: stackbit_page_meta
   title: Features
