@@ -30,7 +30,7 @@ sections:
     form_width: fourty
     form_layout: inline
     enable_card: false
-    form_id: Subscribe to our newsletter to make sure you don't miss anything.
+    form_id: subscribeForm
     form_fields:
       - input_type: text
         name: lorem-ipsum
