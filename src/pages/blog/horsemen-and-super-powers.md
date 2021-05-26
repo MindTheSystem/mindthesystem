@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:description'
       value: How to maximise the impact of design in government
     - name: 'twitter:image'
-      value: images/classic/post-1.png
+      value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
       relativeUrl: true
 template: post
 author: src/data/team/agnes-kwek.yaml
