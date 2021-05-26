@@ -70,7 +70,7 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Blog
+  title: Blog | MindTheSystem
   description: This is the blog page
   extra:
     - name: 'og:type'
