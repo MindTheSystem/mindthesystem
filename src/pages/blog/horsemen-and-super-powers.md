@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:title'
       value: Horsemen & super-powers
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: How to maximise the impact of design in government
     - name: 'twitter:image'
       value: images/classic/post-1.png
       relativeUrl: true
