@@ -47,7 +47,7 @@ sections:
     padding_bottom: large
     has_border: false
     background_color: primary
-    actions_position: left
+    actions_position: right
 seo:
   type: stackbit_page_meta
   title: About
