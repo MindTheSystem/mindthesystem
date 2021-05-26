@@ -97,7 +97,7 @@ seo:
     - name: 'twitter:title'
       value: Posts by Dianne Ameter
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: This is the author archive page of posts authored by Agnes Kwek
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
