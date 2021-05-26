@@ -94,6 +94,10 @@ seo:
         For enquiries about our services or approach, please drop us a message
         using the contact form.
       keyName: property
+    - name: 'og:image'
+      value: /images/mindthesystem-logo.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
