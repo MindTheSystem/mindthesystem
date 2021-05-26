@@ -71,7 +71,7 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Posts in News
+  title: News | MindTheSystem
   description: This is the author archive page
   extra:
     - name: 'og:type'
