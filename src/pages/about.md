@@ -43,7 +43,7 @@ sections:
         icon: arrow-right
         icon_position: right
     align: left
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
     has_border: false
     background_color: primary
