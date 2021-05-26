@@ -14,30 +14,30 @@ image_alt: City Hall in Singapore
 image_position: right
 seo:
   type: stackbit_page_meta
-  title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: Horsemen & super-powers
+  description: How to maximise the impact of design in government
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Horsemen & super-powers
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: How to maximise the impact of design in government
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-1.png
+      value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Horsemen & super-powers
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: How to maximise the impact of design in government
     - name: 'twitter:image'
-      value: images/classic/post-1.png
+      value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
       relativeUrl: true
 template: post
 author: src/data/team/agnes-kwek.yaml
