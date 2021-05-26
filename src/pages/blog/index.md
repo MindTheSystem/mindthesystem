@@ -83,7 +83,7 @@ seo:
       value: 'Updates, news & thought leadership'
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/mindthesystem-logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
