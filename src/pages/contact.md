@@ -97,7 +97,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contact | MindTheSystem
     - name: 'twitter:description'
       value: >-
         For enquiries about our services or approach, please drop us a message
