@@ -50,7 +50,7 @@ sections:
     actions_position: right
 seo:
   type: stackbit_page_meta
-  title: About
+  title: About | MindTheSystem
   description: About our team at MindTheSystem
   extra:
     - name: 'og:type'
