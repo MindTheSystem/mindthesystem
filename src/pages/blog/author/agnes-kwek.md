@@ -84,7 +84,7 @@ seo:
   description: This is the author archive page of posts authored by Agnes Kwek
   extra:
     - name: 'og:type'
-      value: website
+      value: article
       keyName: property
     - name: 'og:title'
       value: Posts by Agnes Kwek
