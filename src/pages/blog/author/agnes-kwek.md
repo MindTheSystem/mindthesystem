@@ -34,7 +34,7 @@ sections:
     form_fields:
       - input_type: email
         name: email
-        default_value: Your email
+        default_value: Your email address
         options: []
         is_required: true
         type: form_field
