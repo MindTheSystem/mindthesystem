@@ -247,7 +247,7 @@ seo:
       value: Features
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: Why work with us. Our value proposiition.
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
