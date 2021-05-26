@@ -78,7 +78,7 @@ sections:
     type: form_section
 seo:
   type: stackbit_page_meta
-  title: Contact
+  title: Contact | MindTheSystem
   description: >-
     For enquiries about our services or approach, please drop us a message using
     the contact form.
