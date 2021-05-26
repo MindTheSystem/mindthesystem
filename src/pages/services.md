@@ -129,7 +129,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Services | MindTheSystem
-  description: What we do
+  description: What we do at MindTheSystem
   extra:
     - name: 'og:type'
       value: website
