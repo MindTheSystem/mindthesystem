@@ -92,7 +92,7 @@ seo:
     - name: 'twitter:title'
       value: Posts in General
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: General | MindTheSystem
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
