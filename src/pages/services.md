@@ -42,11 +42,11 @@ sections:
           setting. Examples of programme:
 
 
-          *   5-week MasterClass in Approach to Complex Systems Challenges
+          *   Understanding and navigating complexity: Leadership mindsets and
+          behaviours
 
 
-          *   3-day Module Programmes: Futures Thinking, Systems Thinking,
-          Design Thinking, Psychological Approach to Change Management
+          *   Design-driven innovation in the public sector
         type: grid_item
         actions: []
         title_align: left
