@@ -123,11 +123,11 @@ sections:
         image_has_padding: true
         image_position: top
         title: 'System 3: Purpose'
-        content: >-
-          *Design thinking*
+        content: >
+          *Design Thinking*
 
 
-          - - -
+          ***
 
 
           #### How do we agree on the new future, and take steps towards it?
