@@ -7,13 +7,14 @@ sections:
     media_width: fourty
     has_border: false
     background_color: none
-    subtitle: Clarity for complex challenges
+    subtitle: Clarity for Complex Challenges
     title: MindTheSystem
     content: >
-      MindTheSystem equips governments, non-profits and private sector companies
-      with an approach, tools and training to tackle complex problems. We have
-      20 years of public sector experience with the Singapore government, in
-      futures thinking, systems thinking, design thinking and innovation.
+      MindTheSystem equips governments, non-profits and private sector
+      organisation with practices, tools and training to tackle complex
+      problems. We have 20 years of public sector experience with the Singapore
+      government, in futures thinking, systems thinking, design thinking and
+      innovation.
     padding_bottom: large
     type: hero_section
     actions:
@@ -25,11 +26,14 @@ sections:
         icon: arrow-right
         icon_position: right
   - content: >
-      ##### “At Pixar, \[Ed] Catmull probed both systems and processes, after
-      both wins and stumbles. How should the feedback process, for example, be
-      adjusted so a director is given the most valuable possible input, in a
-      form most likely to be well received?...Catmull saw his job as minding the
-      system rather than managing the projects.”
+      # “
+
+
+      At Pixar, \[Ed] Catmull probed both systems and processes, after both wins
+      and stumbles. How should the feedback process, for example, be adjusted so
+      a director is given the most valuable possible input, in a form most
+      likely to be well received?...Catmull saw his job as minding the system
+      rather than managing the projects.
 
 
       *- Safi Bahcall, Loonshots (2019)*
