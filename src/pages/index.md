@@ -56,7 +56,7 @@ sections:
     features:
       - media_position: right
         image_alt: Checklist by Gregor Cresnar from the Noun Project
-        media_width: thirty-three
+        media_width: fourty
         subtitle: >-
           We believe in equipping you with a sustained approach to complex
           problem-solving, which is a system for quality of decisions.
