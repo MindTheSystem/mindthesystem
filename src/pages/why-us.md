@@ -3,7 +3,7 @@ title: Why us
 sections:
   - type: hero_section
     title: Why work with us
-    subtitle: Our value proposition
+    subtitle: Our Value Proposition
     background_color: none
   - type: features_section
     features:
