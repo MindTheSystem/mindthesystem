@@ -52,7 +52,7 @@ sections:
     type: cta_section
   - type: features_section
     title: Why work with us
-    subtitle: Our value proposition
+    subtitle: Our Value Proposition
     features:
       - media_position: right
         image_alt: Checklist by Gregor Cresnar from the Noun Project
@@ -141,7 +141,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - title: Who we worked with
-    subtitle: Our clients
+    subtitle: Our Clients & Partners
     actions: []
     grid_items:
       - title_align: center
@@ -200,7 +200,7 @@ sections:
         actions_align: left
         image_has_padding: true
         image_position: top
-        title: Project consultancy with mentoring
+        title: Consultancy
         content: >
           I am part of your team that tackles the problem, delivers the
           strategy, while also building your team’s capabilities.
@@ -219,10 +219,10 @@ sections:
         actions_align: left
         image_has_padding: true
         image_position: top
-        title: Training on methodology
+        title: Training
         content: >
-          Team training on the tools and frameworks using real-life problems in
-          a group training setting.
+          Team training on the tools and frameworks using peer-to-peer coaching
+          on real-life problems.
         type: grid_item
         actions:
           - type: action
@@ -234,11 +234,11 @@ sections:
             icon_position: center
         title_align: left
         content_align: left
-      - title: Cognitive Behavioural Coaching
+      - title: Coaching
         title_align: left
         content: >
-          Self-mastery and confidence for project teams to implement difficult
-          change management.
+          Self-mastery to implement difficult change management, using cognitive
+          behavioural approaches.
         content_align: left
         actions:
           - url: /services
@@ -257,7 +257,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: 1-day Intervention in Problem Framing
+      - title: Facilitation
         title_align: left
         content: >
           A quick intervention to point you in the right direction. Reviewing
@@ -284,7 +284,7 @@ sections:
     grid_cols: four
     background_color: none
     grid_gap_vert: small
-    subtitle: Our services
+    subtitle: Our Services
     title: What we do
     grid_gap_horiz: medium
     type: grid_section
