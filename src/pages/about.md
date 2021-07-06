@@ -21,6 +21,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: Learn more
         image_alt: lorem-ipsum
         media_position: left
         media_width: thirty-three
