@@ -56,7 +56,7 @@ sections:
       - actions_align: left
         actions_width: full-width
         subtitle: '"Coach me"'
-        title: Cognitive Behavioural Coaching
+        title: Coaching
         content: >
           ***
 
