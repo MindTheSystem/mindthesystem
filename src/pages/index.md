@@ -237,8 +237,8 @@ sections:
       - title: Coaching
         title_align: left
         content: >
-          Self-mastery and confidence for project teams to implement difficult
-          change management.
+          Self-mastery and confidence to implement difficult change management,
+          using cognitive behavioural approaches.
         content_align: left
         actions:
           - url: /services
