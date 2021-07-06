@@ -92,7 +92,7 @@ seo:
     - name: 'twitter:title'
       value: Musings | MindTheSystem
     - name: 'twitter:description'
-      value: Posts under the category "General"
+      value: Posts under the category "Musings"
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
