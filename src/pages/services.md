@@ -2,7 +2,7 @@
 title: Services
 sections:
   - type: hero_section
-    title: Our services
+    title: What we do
     subtitle: What We Do
     align: center
     padding_top: large
