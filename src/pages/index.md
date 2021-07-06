@@ -219,7 +219,7 @@ sections:
         actions_align: left
         image_has_padding: true
         image_position: top
-        title: Training
+        title: Training.
         content: >
           Team training on the tools and frameworks using real-life problems in
           a group training setting.
