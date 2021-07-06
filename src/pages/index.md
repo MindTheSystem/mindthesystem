@@ -200,7 +200,7 @@ sections:
         actions_align: left
         image_has_padding: true
         image_position: top
-        title: Project consultancy with mentoring
+        title: Consultancy
         content: >
           I am part of your team that tackles the problem, delivers the
           strategy, while also building your team’s capabilities.
