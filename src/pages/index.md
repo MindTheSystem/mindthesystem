@@ -221,8 +221,8 @@ sections:
         image_position: top
         title: Training.
         content: >
-          Team training on the tools and frameworks using real-life problems in
-          a group training setting.
+          Team training on the tools and frameworks using peer-to-peer coaching
+          on real-life problems.
         type: grid_item
         actions:
           - type: action
