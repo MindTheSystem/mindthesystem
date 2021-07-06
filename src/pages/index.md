@@ -7,7 +7,7 @@ sections:
     media_width: fourty
     has_border: false
     background_color: none
-    subtitle: Clarity for complex challenges
+    subtitle: Clarity for Complex Challenges
     title: MindTheSystem
     content: >
       MindTheSystem equips governments, non-profits and private sector companies
