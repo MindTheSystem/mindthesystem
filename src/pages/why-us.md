@@ -3,7 +3,7 @@ title: Why us
 sections:
   - type: hero_section
     title: Why work with us
-    subtitle: Our value proposition
+    subtitle: Our Value Proposition
     background_color: none
   - type: features_section
     features:
@@ -71,11 +71,11 @@ sections:
         image_has_padding: true
         image_position: top
         title: 'System 1: Future Operating Environment'
-        content: >-
-          *Futures thinking*
+        content: >
+          *Futures Thinking*
 
 
-          - - -
+          ***
 
 
           #### What would our reality look like in the future; what are we
@@ -96,11 +96,11 @@ sections:
         image_has_padding: true
         image_position: top
         title: 'System 2: Stakeholders'
-        content: >-
-          *Systems thinking*
+        content: >
+          *Systems Thinking*
 
 
-          - - -
+          ***
 
 
           #### Who is or needs to be involved, and how?
@@ -123,11 +123,11 @@ sections:
         image_has_padding: true
         image_position: top
         title: 'System 3: Purpose'
-        content: >-
-          *Design thinking*
+        content: >
+          *Design Thinking*
 
 
-          - - -
+          ***
 
 
           #### How do we agree on the new future, and take steps towards it?

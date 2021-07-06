@@ -2,8 +2,8 @@
 title: Services
 sections:
   - type: hero_section
-    title: Our services
-    subtitle: What we do
+    title: What we do
+    subtitle: Our Services
     align: center
     padding_top: large
     padding_bottom: small
@@ -12,7 +12,7 @@ sections:
       - actions_align: left
         actions_width: full-width
         subtitle: '"Walk with me"'
-        title: Project consultancy
+        title: Consultancy
         content: >
           ***
 
@@ -42,11 +42,14 @@ sections:
           setting. Examples of programme:
 
 
-          *   5-week MasterClass in Approach to Complex Systems Challenges
+          *   Understanding and navigating complexity: Leadership mindsets and
+          behaviours
 
 
-          *   3-day Module Programmes: Futures Thinking, Systems Thinking,
-          Design Thinking, Psychological Approach to Change Management
+          *   Design-driven innovation in the public sector
+
+
+          *   Leadership programme curation and curriculum development
         type: grid_item
         actions: []
         title_align: left
@@ -56,7 +59,7 @@ sections:
       - actions_align: left
         actions_width: full-width
         subtitle: '"Coach me"'
-        title: Cognitive Behavioural Coaching
+        title: Coaching
         content: >
           ***
 
@@ -77,8 +80,8 @@ sections:
         image_alt: lorem-ipsum
         image_has_padding: true
         image_position: top
-        subtitle: '"Tell me"'
-        title: 1-day Intervention in Problem Framing
+        subtitle: '"Start conversations"'
+        title: Facilitation
         content: >-
           ***
 

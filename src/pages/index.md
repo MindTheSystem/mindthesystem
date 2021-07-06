@@ -44,7 +44,7 @@ sections:
     padding_top: medium
     padding_bottom: small
     has_border: false
-    background_color: secondary
+    background_color: primary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
@@ -126,20 +126,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - type: features_section
-    features:
-      - type: feature
-        title: >-
-          “Agnes is a brilliant combination of insight and action, compassion
-          and clarity. She is destined to be a catalyst for breakthrough
-          innovation wherever she goes.”
-        subtitle: 'Mei Lin Fung, Chair & Cofounder, People Centered Internet'
-        image: /images/meilinfung-round-400px.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - title: Who we worked with
     subtitle: Our Clients & Partners
     actions: []
@@ -260,8 +246,8 @@ sections:
       - title: Facilitation
         title_align: left
         content: >
-          A quick intervention to point you in the right direction. Reviewing
-          and sharpening your problem-framing.
+          Workshop design and curation, facilitate powerful conversations, theme
+          weaving, panel moderation.
         content_align: left
         actions:
           - url: /services
@@ -309,7 +295,7 @@ sections:
         icon: arrow-right
         icon_position: right
   - title: What we're thinking
-    subtitle: 'Updates, news & thought leadership'
+    subtitle: 'Updates, News & Thought Leadership'
     actions: []
     blog_feed_cols: two
     enable_cards: false

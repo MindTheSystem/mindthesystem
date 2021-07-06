@@ -2,8 +2,8 @@
 title: About
 sections:
   - type: hero_section
-    title: About
-    subtitle: About our team
+    title: About us
+    subtitle: Our Expertise
     align: center
     background_color: none
     media_position: left
@@ -21,6 +21,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: Learn more
         image_alt: lorem-ipsum
         media_position: left
         media_width: thirty-three
