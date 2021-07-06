@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About
+    title: About Us
     subtitle: Our Expertise
     align: center
     background_color: none
