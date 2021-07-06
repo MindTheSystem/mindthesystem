@@ -259,8 +259,9 @@ sections:
         type: grid_item
       - title: Facilitation
         title_align: left
-        content: |
-          Workshop design, facilitate powerful conversations, panel moderation.
+        content: >
+          Workshop design and curation, facilitate powerful conversations, theme
+          weaving.
         content_align: left
         actions:
           - url: /services
