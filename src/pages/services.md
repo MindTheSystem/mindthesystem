@@ -78,7 +78,7 @@ sections:
         image_has_padding: true
         image_position: top
         subtitle: '"Start conversations"'
-        title: 1-day Intervention in Problem Framing
+        title: Facilitation
         content: >-
           ***
 
