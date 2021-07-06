@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: General | MindTheSystem
+      value: Musings | MindTheSystem
     - name: 'twitter:description'
       value: Posts under the category "General"
     - name: 'twitter:image'
