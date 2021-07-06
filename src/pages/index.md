@@ -261,7 +261,7 @@ sections:
         title_align: left
         content: >
           Workshop design and curation, facilitate powerful conversations, theme
-          weaving.
+          weaving, panel moderation.
         content_align: left
         actions:
           - url: /services
