@@ -1,9 +1,9 @@
 ---
-title: General
+title: Musings
 sections:
   - type: hero_section
-    title: General
-    subtitle: Posts under the category "General"
+    title: Musings
+    subtitle: Posts under the category "Musings"
     align: center
     padding_top: medium
     padding_bottom: none
@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: src/data/categories/general.yaml
+    category: src/data/categories/musings.yaml
     show_date: true
     show_categories: true
     show_author: true
@@ -71,17 +71,17 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: General | MindTheSystem
-  description: Posts under the category "General"
+  title: Musings | MindTheSystem
+  description: Posts under the category "Musings"
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: General | MindTheSystem
+      value: Musings | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: Posts under the category "General"
+      value: Posts under the category "Musings"
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
@@ -90,9 +90,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: General | MindTheSystem
+      value: Musings | MindTheSystem
     - name: 'twitter:description'
-      value: Posts under the category "General"
+      value: Posts under the category "Musings"
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
