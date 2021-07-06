@@ -26,7 +26,7 @@ sections:
         icon: arrow-right
         icon_position: right
   - content: >
-      ##### “
+      ## “
 
 
       At Pixar, \[Ed] Catmull probed both systems and processes, after both wins
