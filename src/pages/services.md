@@ -34,9 +34,6 @@ sections:
         subtitle: '"Show me"'
         title: Training
         content: >
-          ***
-
-
           I train your team on the approaches, tools and frameworks, applied to
           real-life problems that they are prepared to share in a group training
           setting. Examples of programme:
@@ -49,7 +46,7 @@ sections:
           *   Design-driven innovation in the public sector
 
 
-          *   Leadership programme curation
+          *   Leadership programme curation and curriculum development
         type: grid_item
         actions: []
         title_align: left
