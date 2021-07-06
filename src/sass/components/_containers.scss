@@ -6,7 +6,7 @@
 	margin-right: auto;
 	max-width: container-max-width(large);
 	padding-left: 5.66667rem; /*$grid-gap;*/
-	padding-right: $grid-gap;
+	padding-right: 5.66667rem; /*$grid-gap;*/
 
 	@include media-breakpoint-down(sm) {
 		padding-left: $grid-gap / 2;
