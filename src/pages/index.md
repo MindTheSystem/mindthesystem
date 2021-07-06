@@ -309,7 +309,7 @@ sections:
         icon: arrow-right
         icon_position: right
   - title: What we're thinking
-    subtitle: 'Updates, news & thought leadership'
+    subtitle: 'Updates, News & Thought Leadership'
     actions: []
     blog_feed_cols: two
     enable_cards: false
