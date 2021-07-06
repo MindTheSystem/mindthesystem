@@ -259,9 +259,8 @@ sections:
         type: grid_item
       - title: Facilitation
         title_align: left
-        content: >
-          A quick intervention to point you in the right direction. Reviewing
-          and sharpening your problem-framing.
+        content: |
+          Workshop design, facilitate powerful conversations, panel moderation.
         content_align: left
         actions:
           - url: /services
