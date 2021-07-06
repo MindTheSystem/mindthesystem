@@ -71,11 +71,11 @@ sections:
         image_has_padding: true
         image_position: top
         title: 'System 1: Future Operating Environment'
-        content: >-
-          *Futures thinking*
+        content: >
+          *Futures Thinking*
 
 
-          - - -
+          ***
 
 
           #### What would our reality look like in the future; what are we
