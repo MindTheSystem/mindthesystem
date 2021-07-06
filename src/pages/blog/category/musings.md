@@ -2,7 +2,7 @@
 title: Musings
 sections:
   - type: hero_section
-    title: News
+    title: Musings
     subtitle: Posts under the category "News"
     align: center
     padding_top: medium
