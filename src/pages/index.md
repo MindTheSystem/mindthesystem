@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
         image: /images/4systems.png
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     background_color: none
   - title: Who we worked with
