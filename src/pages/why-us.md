@@ -96,11 +96,11 @@ sections:
         image_has_padding: true
         image_position: top
         title: 'System 2: Stakeholders'
-        content: >-
-          *Systems thinking*
+        content: >
+          *Systems Thinking*
 
 
-          - - -
+          ***
 
 
           #### Who is or needs to be involved, and how?
