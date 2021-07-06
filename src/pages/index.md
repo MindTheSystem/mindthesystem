@@ -52,7 +52,7 @@ sections:
     type: cta_section
   - type: features_section
     title: Why work with us
-    subtitle: Our value proposition
+    subtitle: Our Value Proposition
     features:
       - media_position: right
         image_alt: Checklist by Gregor Cresnar from the Noun Project
