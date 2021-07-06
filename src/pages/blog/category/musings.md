@@ -1,5 +1,5 @@
 ---
-title: Musings
+title: General
 sections:
   - type: hero_section
     title: Musings
