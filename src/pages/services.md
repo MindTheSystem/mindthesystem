@@ -12,7 +12,7 @@ sections:
       - actions_align: left
         actions_width: full-width
         subtitle: '"Walk with me"'
-        title: Project consultancy
+        title: Consultancy
         content: >
           ***
 
