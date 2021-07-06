@@ -257,7 +257,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: 1-day Intervention in Problem Framing
+      - title: Facilitation
         title_align: left
         content: >
           A quick intervention to point you in the right direction. Reviewing
