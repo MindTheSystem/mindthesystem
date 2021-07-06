@@ -77,7 +77,7 @@ sections:
         image_alt: lorem-ipsum
         image_has_padding: true
         image_position: top
-        subtitle: '"Tell me"'
+        subtitle: '"Start conversations"'
         title: 1-day Intervention in Problem Framing
         content: >-
           ***
