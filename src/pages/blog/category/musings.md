@@ -71,17 +71,17 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: General | MindTheSystem
-  description: Posts under the category "General"
+  title: Musings | MindTheSystem
+  description: Posts under the category "Musings"
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: General | MindTheSystem
+      value: Musings | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: Posts under the category "General"
+      value: Posts under the category "Musings"
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
