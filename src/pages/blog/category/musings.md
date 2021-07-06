@@ -2,8 +2,8 @@
 title: General
 sections:
   - type: hero_section
-    title: Musings
-    subtitle: Posts under the category "Musings"
+    title: General
+    subtitle: Posts under the category "General"
     align: center
     padding_top: medium
     padding_bottom: none
