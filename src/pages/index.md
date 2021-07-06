@@ -234,7 +234,7 @@ sections:
             icon_position: center
         title_align: left
         content_align: left
-      - title: Cognitive Behavioural Coaching
+      - title: Coaching
         title_align: left
         content: >
           Self-mastery and confidence for project teams to implement difficult
