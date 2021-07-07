@@ -2,7 +2,7 @@
 title: Complexity
 sections:
   - type: hero_section
-    title: Futures thinking
+    title: Complexity
     subtitle: 'Posts under the tag #futures-thinking'
     align: center
     padding_top: medium
