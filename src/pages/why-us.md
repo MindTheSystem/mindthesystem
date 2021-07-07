@@ -171,7 +171,7 @@ sections:
     grid_cols: two
     background_color: secondary
     grid_gap_vert: medium
-    subtitle: Interventions on 4 levels of systems
+    subtitle: Interventions on 4 Levels of Systems
     title: Our holistic approach
     grid_gap_horiz: medium
     type: grid_section
