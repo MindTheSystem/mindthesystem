@@ -90,9 +90,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: News | MindTheSystem
+      value: Updates | MindTheSystem
     - name: 'twitter:description'
-      value: Posts under the category "News"
+      value: Posts under the category "Updates"
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
