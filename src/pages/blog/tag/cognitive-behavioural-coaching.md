@@ -78,7 +78,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Cognitive behavioural coaching | MindTheSystem
+      value: Coaching | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: 'Posts under the tag #cognitive-behavioural-coaching'
