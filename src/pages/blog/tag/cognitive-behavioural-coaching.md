@@ -72,7 +72,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Coaching | MindTheSystem
-  description: 'Posts under the tag #cognitive-behavioural-coaching'
+  description: 'Posts under the tag #coaching'
   extra:
     - name: 'og:type'
       value: website
