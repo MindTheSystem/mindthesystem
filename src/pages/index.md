@@ -207,8 +207,8 @@ sections:
         image_position: top
         title: Training
         content: >
-          Team training on the tools and frameworks, using peer-to-peer coaching
-          on real-life problems.
+          Team training on the tools and frameworks that we use at
+          MindTheSystem, using peer-to-peer coaching on real-life problems.
         type: grid_item
         actions:
           - type: action
