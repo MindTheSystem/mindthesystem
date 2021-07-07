@@ -26,11 +26,11 @@ sections:
         icon: arrow-right
         icon_position: right
   - content: >
-      ### At Pixar, \[Ed] Catmull probed both systems and processes, after both
-      wins and stumbles. How should the feedback process, for example, be
-      adjusted so a director is given the most valuable possible input, in a
-      form most likely to be well received?...Catmull saw his job as minding the
-      system rather than managing the projects.
+      At Pixar, \[Ed] Catmull probed both systems and processes, after both wins
+      and stumbles. How should the feedback process, for example, be adjusted so
+      a director is given the most valuable possible input, in a form most
+      likely to be well received?...Catmull saw his job as minding the system
+      rather than managing the projects.
 
 
       *- Safi Bahcall, Loonshots (2019)*
@@ -38,13 +38,13 @@ sections:
     actions_position: bottom
     actions_width: fourty
     align: left
-    padding_top: medium
-    padding_bottom: small
+    padding_top: large
+    padding_bottom: medium
     has_border: false
     background_color: primary
     background_image_opacity: 0
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: center top
     background_image_repeat: no-repeat
     type: cta_section
     background_image: /images/quote-background.png
