@@ -1,5 +1,5 @@
 ---
-title: News
+title: Updates
 sections:
   - type: hero_section
     title: News
