@@ -1,5 +1,5 @@
 ---
-title: Futures thinking
+title: Complexity
 sections:
   - type: hero_section
     title: Futures thinking
