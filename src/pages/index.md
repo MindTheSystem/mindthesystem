@@ -123,7 +123,7 @@ sections:
         image: /images/4systems.png
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
   - title: Who we worked with
     subtitle: Our Clients & Partners
     actions: []
