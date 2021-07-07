@@ -72,7 +72,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Complexity | MindTheSystem
-  description: 'Posts under the tag #futures-thinking'
+  description: 'Posts under the tag #complexity'
   extra:
     - name: 'og:type'
       value: website
