@@ -92,7 +92,7 @@ seo:
     - name: 'twitter:title'
       value: Coaching | MindTheSystem
     - name: 'twitter:description'
-      value: 'Posts under the tag #cognitive-behavioural-coaching'
+      value: 'Posts under the tag #coaching'
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
