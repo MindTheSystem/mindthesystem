@@ -3,7 +3,7 @@ title: Coaching
 sections:
   - type: hero_section
     title: Coaching
-    subtitle: 'Posts under the tag #cognitive-behavioural-coaching'
+    subtitle: 'Posts under the tag #coaching'
     align: center
     padding_top: medium
     padding_bottom: none
