@@ -177,6 +177,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/nac.png
+        image_alt: NAC logo
       - title_align: left
         content_align: left
         actions: []
