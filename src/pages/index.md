@@ -166,6 +166,30 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/dsg.png
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: sixty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: /images/nac.png
+        image_alt: NAC logo
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: SUTD logo
+        image_position: top
+        image_width: sixty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: /images/sutd.png
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
