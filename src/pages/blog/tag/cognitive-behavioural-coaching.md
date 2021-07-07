@@ -1,5 +1,5 @@
 ---
-title: Cognitive behavioural coaching
+title: Coaching
 sections:
   - type: hero_section
     title: Cognitive behavioural coaching
