@@ -2,8 +2,8 @@
 title: Updates
 sections:
   - type: hero_section
-    title: News
-    subtitle: Posts under the category "News"
+    title: Updates
+    subtitle: Posts under the category "Updates"
     align: center
     padding_top: medium
     padding_bottom: none
