@@ -1,9 +1,9 @@
 ---
-title: Cognitive behavioural coaching
+title: Complexity
 sections:
   - type: hero_section
-    title: Cognitive behavioural coaching
-    subtitle: 'Posts under the tag #cognitive-behavioural-coaching'
+    title: Complexity
+    subtitle: 'Posts under the tag #complexity'
     align: center
     padding_top: medium
     padding_bottom: none
@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    tag: src/data/tags/cognitive-behavioural-coaching.yaml
+    tag: src/data/tags/complexity.yaml
     show_date: true
     show_categories: true
     show_author: true
@@ -71,17 +71,17 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Cognitive behavioural coaching | MindTheSystem
-  description: 'Posts under the tag #cognitive-behavioural-coaching'
+  title: Complexity | MindTheSystem
+  description: 'Posts under the tag #complexity'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Cognitive behavioural coaching | MindTheSystem
+      value: Complexity | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: 'Posts under the tag #cognitive-behavioural-coaching'
+      value: 'Posts under the tag #complexity'
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
@@ -90,9 +90,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cognitive behavioural coaching | MindTheSystem
+      value: Complexity | MindTheSystem
     - name: 'twitter:description'
-      value: 'Posts under the tag #cognitive-behavioural-coaching'
+      value: 'Posts under the tag #complexity'
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
