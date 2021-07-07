@@ -124,6 +124,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    has_border: true
   - title: Who we worked with
     subtitle: Our Clients & Partners
     actions: []
