@@ -47,6 +47,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    background_image: /images/quote-background.png
   - type: features_section
     title: Why work with us
     subtitle: Our Value Proposition
