@@ -37,7 +37,7 @@ sections:
     actions: []
     actions_position: bottom
     actions_width: fourty
-    align: center
+    align: left
     padding_top: large
     padding_bottom: medium
     has_border: false
