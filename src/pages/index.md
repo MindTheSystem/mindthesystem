@@ -44,7 +44,7 @@ sections:
     background_color: primary
     background_image_opacity: 0
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: center top
     background_image_repeat: no-repeat
     type: cta_section
     background_image: /images/quote-background.png
