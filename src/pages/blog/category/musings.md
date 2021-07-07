@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: src/data/categories/musings.yaml
+    category: src/data/categories/category-2gawohilp.yaml
     show_date: true
     show_categories: true
     show_author: true
@@ -71,17 +71,17 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: News | MindTheSystem
-  description: Posts under the category "News"
+  title: Musings | MindTheSystem
+  description: Posts under the category "Musings"
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: News | MindTheSystem
+      value: Musings | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: Posts under the category "News"
+      value: Posts under the category "Musings"
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
@@ -90,9 +90,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: News | MindTheSystem
+      value: Musings | MindTheSystem
     - name: 'twitter:description'
-      value: Posts under the category "News"
+      value: Posts under the category "Musings"
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
