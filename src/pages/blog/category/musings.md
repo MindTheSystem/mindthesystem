@@ -71,17 +71,17 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: News | MindTheSystem
-  description: Posts under the category "News"
+  title: Musings | MindTheSystem
+  description: Posts under the category "Musings"
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: News | MindTheSystem
+      value: Musings | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: Posts under the category "News"
+      value: Posts under the category "Musings"
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
