@@ -3,7 +3,7 @@ title: Complexity
 sections:
   - type: hero_section
     title: Complexity
-    subtitle: 'Posts under the tag #Complexity'
+    subtitle: 'Posts under the tag #complexity'
     align: center
     padding_top: medium
     padding_bottom: none
