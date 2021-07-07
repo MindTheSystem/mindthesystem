@@ -81,7 +81,7 @@ seo:
       value: Complexity | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: 'Posts under the tag #futures-thinking'
+      value: 'Posts under the tag #complexity'
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
