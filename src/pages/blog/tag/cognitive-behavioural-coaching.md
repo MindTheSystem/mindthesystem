@@ -81,7 +81,7 @@ seo:
       value: Coaching | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: 'Posts under the tag #cognitive-behavioural-coaching'
+      value: 'Posts under the tag #coaching'
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
