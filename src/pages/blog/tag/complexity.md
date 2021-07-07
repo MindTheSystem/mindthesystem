@@ -92,7 +92,7 @@ seo:
     - name: 'twitter:title'
       value: Complexity | MindTheSystem
     - name: 'twitter:description'
-      value: 'Posts under the tag #futures-thinking'
+      value: 'Posts under the tag #complexity'
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
