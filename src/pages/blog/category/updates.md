@@ -1,9 +1,9 @@
 ---
-title: News
+title: Updates
 sections:
   - type: hero_section
-    title: News
-    subtitle: Posts under the category "News"
+    title: Updates
+    subtitle: Posts under the category "Updates"
     align: center
     padding_top: medium
     padding_bottom: none
@@ -71,17 +71,17 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: News | MindTheSystem
-  description: Posts under the category "News"
+  title: Updates | MindTheSystem
+  description: Posts under the category "Updates"
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: News | MindTheSystem
+      value: Updates | MindTheSystem
       keyName: property
     - name: 'og:description'
-      value: Posts under the category "News"
+      value: Posts under the category "Updates"
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
@@ -90,9 +90,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: News | MindTheSystem
+      value: Updates | MindTheSystem
     - name: 'twitter:description'
-      value: Posts under the category "News"
+      value: Posts under the category "Updates"
     - name: 'twitter:image'
       value: /_static/app-assets/mindthesystem-logo.jpg
       relativeUrl: true
