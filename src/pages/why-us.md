@@ -147,21 +147,21 @@ sections:
         image_has_padding: true
         image_position: top
         title: 'System 4: The Self'
-        content: >-
-          *Cognitive Behavioural Coaching*
+        content: >
+          *Coaching*
 
 
-          - - -
+          ***
 
 
           #### How am I prepared to guide this problem solving and change?
 
 
-          With Cognitive Behavioural Coaching, we help you and your team develop
-          self-mastery and behaviours that are required of practitioners who
-          deal with complex problems. This includes being comfortable with
-          ambiguity, embracing different perspectives, pivoting quickly, and
-          assuring others to do the same.
+          With Coaching, we help you and your team develop self-mastery and
+          behaviours that are required of practitioners who deal with complex
+          problems. This includes being comfortable with ambiguity, embracing
+          different perspectives, pivoting quickly, and assuring others to do
+          the same.
         type: grid_item
         actions: []
         title_align: left
