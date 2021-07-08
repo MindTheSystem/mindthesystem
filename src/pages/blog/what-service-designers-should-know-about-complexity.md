@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Horsemen & super-powers
+      value: What service designers should know about complexity
     - name: 'twitter:description'
       value: How to maximise the impact of design in government
     - name: 'twitter:image'
