@@ -47,7 +47,7 @@ image: /images/blogpost2.png
 
 ***
 
-\*In today’s talk for the Service Design Network New York Chapter, Agnes Kwek presented to us the challenges of implementing service design in government and gave us a framework of practices to overcome those challenges. \*
+*In today’s talk for the Service Design Network New York Chapter, Agnes Kwek presented to us the challenges of implementing service design in government and gave us a framework of practices to overcome those challenges.*
 
 Chief among the tools she suggests we embrace when designing for complex problems are futures thinking, systems thinking, and psychological
 change management. She also suggests a greater emphasis on designing the politics of the design brief, upfront stakeholder analysis and engagement to understand collective intelligence, and spending more time at the beginning of the design process on problem-framing and
