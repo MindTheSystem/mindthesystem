@@ -71,7 +71,7 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Systems thinking | MindTheSystem
+  title: Systems Thinking | MindTheSystem
   description: 'Posts under the tag #systems-thinking'
   extra:
     - name: 'og:type'
