@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Systems thinking | MindTheSystem
+      value: Systems Thinking | MindTheSystem
     - name: 'twitter:description'
       value: 'Posts under the tag #systems-thinking'
     - name: 'twitter:image'
