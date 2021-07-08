@@ -330,7 +330,7 @@ sections:
     show_excerpt: true
     show_image: true
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: large
     has_border: true
     background_color: none
