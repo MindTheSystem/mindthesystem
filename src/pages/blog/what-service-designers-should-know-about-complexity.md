@@ -14,7 +14,7 @@ image_position: right
 seo:
   type: stackbit_page_meta
   title: What service designers should know about complexity
-  description: How to maximise the impact of design in government
+  description: How to implement service design in complex systems
   extra:
     - name: 'og:type'
       value: article
