@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Futures thinking | MindTheSystem
+      value: Futures Thinking | MindTheSystem
     - name: 'twitter:description'
       value: 'Posts under the tag #futures-thinking'
     - name: 'twitter:image'
