@@ -78,7 +78,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Systems thinking | MindTheSystem
+      value: Systems Thinking | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: 'Posts under the tag #systems-thinking'
