@@ -23,7 +23,7 @@ seo:
       value: What service designers should know about complexity
       keyName: property
     - name: 'og:description'
-      value: How to maximise the impact of design in government
+      value: How to implement service design in complex systems
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
