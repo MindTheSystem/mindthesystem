@@ -11,7 +11,7 @@ sections:
     title: MindTheSystem
     content: >
       MindTheSystem equips governments, non-profits and private sector
-      organisation with practices, tools and training to tackle complex
+      organisations with practices, tools and training to tackle complex
       problems. We have 20 years of public sector experience with the Singapore
       government, in futures thinking, systems thinking, design thinking and
       innovation.
