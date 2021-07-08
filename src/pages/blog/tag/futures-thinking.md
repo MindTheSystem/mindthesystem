@@ -71,7 +71,7 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Futures thinking | MindTheSystem
+  title: Futures Thinking | MindTheSystem
   description: 'Posts under the tag #futures-thinking'
   extra:
     - name: 'og:type'
