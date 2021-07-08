@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:description'
       value: How to implement service design in complex systems
     - name: 'twitter:image'
-      value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
+      value: /_static/app-assets/blogpost2img.png
       relativeUrl: true
 template: post
 author: src/data/team/agnes-kwek.yaml
