@@ -2,7 +2,7 @@
 title: Systems thinking
 sections:
   - type: hero_section
-    title: Systems thinking
+    title: Systems Thinking
     subtitle: 'Posts under the tag #systems-thinking'
     align: center
     padding_top: medium
