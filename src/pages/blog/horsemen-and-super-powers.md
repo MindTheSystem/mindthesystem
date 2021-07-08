@@ -9,8 +9,8 @@ tags:
   - src/data/tags/design-thinking.yaml
   - src/data/tags/government.yaml
 excerpt: How to maximise the impact of design in government
-thumb_image_alt: City Hall in Singapore
-image_alt: City Hall in Singapore
+thumb_image_alt: Photo by Bing Hui Yau on Unsplash
+image_alt: Photo by Bing Hui Yau on Unsplash
 image_position: right
 seo:
   type: stackbit_page_meta
