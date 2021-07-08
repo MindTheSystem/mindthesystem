@@ -331,7 +331,7 @@ sections:
     show_image: true
     align: center
     padding_top: medium
-    padding_bottom: large
+    padding_bottom: medium
     has_border: true
     background_color: none
     background_image_opacity: 0
