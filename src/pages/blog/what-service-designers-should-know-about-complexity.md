@@ -6,6 +6,7 @@ categories:
   - src/data/categories/category-2gawohilp.yaml
 tags:
   - src/data/tags/design-thinking.yaml
+  - src/data/tags/complexity.yaml
 excerpt: How to implement service design in complex systems
 thumb_image_alt: City Hall in Singapore
 image_alt: City Hall in Singapore
