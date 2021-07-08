@@ -13,7 +13,7 @@ image_alt: City Hall in Singapore
 image_position: right
 seo:
   type: stackbit_page_meta
-  title: Horsemen & super-powers
+  title: What service designers should know about complexity
   description: How to maximise the impact of design in government
   extra:
     - name: 'og:type'
