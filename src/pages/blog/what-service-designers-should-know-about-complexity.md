@@ -40,7 +40,7 @@ seo:
       relativeUrl: true
 template: post
 author: src/data/team/agnes-kwek.yaml
-thumb_image: /images/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
+thumb_image: /images/blogpost2.png
 image: /images/blogpost2.png
 ---
 \[A talk by MindTheSystem CEO Agnes Kwek. Originally posted on [Medium](https://medium.com/sdn-new-york-chapter) by the Service Design Network New York Chapter]
