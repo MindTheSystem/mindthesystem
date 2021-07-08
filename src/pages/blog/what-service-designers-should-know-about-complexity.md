@@ -45,7 +45,7 @@ image: /images/blogpost2.png
 ---
 \[A talk by MindTheSystem CEO Agnes Kwek. Originally posted on Medium by the Service Design Network New York Chapter]
 
-\---
+***
 
 *In today’s talk for the Service Design Network New York Chapter, *[*Agnes Kwek*](https://www.linkedin.com/in/agnes-kwek-55899366/)* presented to us the challenges of implementing service design in 
 government and gave us a framework of practices to overcome those challenges. *
