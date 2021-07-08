@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: What service designers should know about complexity
     - name: 'twitter:description'
-      value: How to maximise the impact of design in government
+      value: How to implement service design in complex systems
     - name: 'twitter:image'
       value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
       relativeUrl: true
