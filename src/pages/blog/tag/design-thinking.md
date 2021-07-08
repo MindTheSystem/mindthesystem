@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Design thinking | MindTheSystem
+      value: Design Thinking | MindTheSystem
     - name: 'twitter:description'
       value: 'Posts under the tag #design-thinking'
     - name: 'twitter:image'
