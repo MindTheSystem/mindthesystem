@@ -2,7 +2,7 @@
 title: Futures thinking
 sections:
   - type: hero_section
-    title: Futures thinking
+    title: Futures Thinking
     subtitle: 'Posts under the tag #futures-thinking'
     align: center
     padding_top: medium
