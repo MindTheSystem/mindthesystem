@@ -1,6 +1,6 @@
 ---
 title: What service designers should know about complexity
-subtitle: What Service Designers Should Know about Complexity
+subtitle: How to implement service design in complex systems
 date: '2021-04-30'
 categories:
   - src/data/categories/category-2gawohilp.yaml
