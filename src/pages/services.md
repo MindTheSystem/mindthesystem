@@ -27,7 +27,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
-        image: /images/consultancy.svg
+        image: /images/consulting_icon.svg
         image_has_padding: true
       - actions_align: left
         actions_width: full-width
@@ -54,7 +54,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
-        image: /images/training.svg
+        image: /images/training_icon.svg
         image_has_padding: true
       - actions_align: left
         actions_width: full-width
@@ -71,7 +71,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
-        image: /images/coaching.svg
+        image: /images/coaching_icon.svg
         image_has_padding: true
       - image_align: left
         image_width: fifty
@@ -93,7 +93,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
-        image: /images/1dayintervention.svg
+        image: /images/facilitation_icon.svg
     enable_cards: true
     grid_cols: two
     has_border: false
