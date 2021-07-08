@@ -1,6 +1,6 @@
 ---
 title: What service designers should know about complexity
-subtitle: How to maximise the impact of design in government
+subtitle: What Service Designers Should Know about Complexity
 date: '2021-04-30'
 categories:
   - src/data/categories/category-2gawohilp.yaml
