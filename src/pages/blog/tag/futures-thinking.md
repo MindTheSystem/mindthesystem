@@ -2,7 +2,7 @@
 title: Futures thinking
 sections:
   - type: hero_section
-    title: Futures thinking
+    title: Futures Thinking
     subtitle: 'Posts under the tag #futures-thinking'
     align: center
     padding_top: medium
@@ -71,14 +71,14 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Futures thinking | MindTheSystem
+  title: Futures Thinking | MindTheSystem
   description: 'Posts under the tag #futures-thinking'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Futures thinking | MindTheSystem
+      value: Futures Thinking | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: 'Posts under the tag #futures-thinking'
@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Futures thinking | MindTheSystem
+      value: Futures Thinking | MindTheSystem
     - name: 'twitter:description'
       value: 'Posts under the tag #futures-thinking'
     - name: 'twitter:image'

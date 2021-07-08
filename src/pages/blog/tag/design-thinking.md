@@ -2,7 +2,7 @@
 title: Design thinking
 sections:
   - type: hero_section
-    title: Design thinking
+    title: Design Thinking
     subtitle: 'Posts under the tag #design-thinking'
     align: center
     padding_top: medium
@@ -71,14 +71,14 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Design thinking | MindTheSystem
+  title: Design Thinking | MindTheSystem
   description: 'Posts under the tag #design-thinking'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Design thinking | MindTheSystem
+      value: Design Thinking | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: 'Posts under the tag #design-thinking'
@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Design thinking | MindTheSystem
+      value: Design Thinking | MindTheSystem
     - name: 'twitter:description'
       value: 'Posts under the tag #design-thinking'
     - name: 'twitter:image'

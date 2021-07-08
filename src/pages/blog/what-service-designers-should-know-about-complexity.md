@@ -13,30 +13,30 @@ image_alt: City Hall in Singapore
 image_position: right
 seo:
   type: stackbit_page_meta
-  title: Horsemen & super-powers
-  description: How to maximise the impact of design in government
+  title: What service designers should know about complexity
+  description: How to implement service design in complex systems
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Horsemen & super-powers
+      value: What service designers should know about complexity
       keyName: property
     - name: 'og:description'
-      value: How to maximise the impact of design in government
+      value: How to implement service design in complex systems
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
+      value: /_static/app-assets/blogpost2img.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Horsemen & super-powers
+      value: What service designers should know about complexity
     - name: 'twitter:description'
-      value: How to maximise the impact of design in government
+      value: How to implement service design in complex systems
     - name: 'twitter:image'
-      value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
+      value: /_static/app-assets/blogpost2img.png
       relativeUrl: true
 template: post
 author: src/data/team/agnes-kwek.yaml

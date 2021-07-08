@@ -2,7 +2,7 @@
 title: Systems thinking
 sections:
   - type: hero_section
-    title: Systems thinking
+    title: Systems Thinking
     subtitle: 'Posts under the tag #systems-thinking'
     align: center
     padding_top: medium
@@ -71,14 +71,14 @@ sections:
     type: cta_section
 seo:
   type: stackbit_page_meta
-  title: Systems thinking | MindTheSystem
+  title: Systems Thinking | MindTheSystem
   description: 'Posts under the tag #systems-thinking'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Systems thinking | MindTheSystem
+      value: Systems Thinking | MindTheSystem
       keyName: property
     - name: 'og:description'
       value: 'Posts under the tag #systems-thinking'
@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Systems thinking | MindTheSystem
+      value: Systems Thinking | MindTheSystem
     - name: 'twitter:description'
       value: 'Posts under the tag #systems-thinking'
     - name: 'twitter:image'
