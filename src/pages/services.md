@@ -54,7 +54,7 @@ sections:
         actions: []
         title_align: left
         content_align: left
-        image: /images/training.svg
+        image: /images/training_icon.svg
         image_has_padding: true
       - actions_align: left
         actions_width: full-width
