@@ -1,7 +1,7 @@
 ---
 title: Horsemen & super-powers
 subtitle: How to maximise the impact of design in government
-date: '2021-04-30'
+date: '2021-05-30'
 categories:
   - src/data/categories/category-2gawohilp.yaml
 tags:
