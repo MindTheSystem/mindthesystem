@@ -26,7 +26,7 @@ seo:
       value: How to implement service design in complex systems
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/bing-hui-yau-UGqJhTQEftM-unsplash.jpg
+      value: /_static/app-assets/blogpost2img.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
