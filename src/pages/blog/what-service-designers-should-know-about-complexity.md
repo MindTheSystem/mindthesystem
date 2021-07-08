@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Horsemen & super-powers
+      value: What service designers should know about complexity
       keyName: property
     - name: 'og:description'
       value: How to maximise the impact of design in government
