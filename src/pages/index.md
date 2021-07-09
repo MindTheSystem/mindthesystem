@@ -109,7 +109,7 @@ sections:
           approach to complex problems into 4 systems:
 
 
-          ‎‎U+25B6U+FE0E **System 1:** Future Operating Environment. What would
+          ▶&#xFE0E **System 1:** Future Operating Environment. What would
           our reality look like in the future; what are we solving towards?
 
 
