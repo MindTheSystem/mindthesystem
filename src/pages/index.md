@@ -109,8 +109,8 @@ sections:
           approach to complex problems into 4 systems:
 
 
-          ‎‎▶ **System 1:** Future Operating Environment. What would our reality
-          look like in the future; what are we solving towards?
+          ‎▶︎️ **System 1:** Future Operating Environment. What would
+          our reality look like in the future; what are we solving towards?
 
 
           ‎▶︎️ **System 2:** Stakeholders. Who is or needs to be involved, and
